@@ -1,5 +1,6 @@
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ "./static/": "/" });
+  eleventyConfig.setFrontMatterParsingOptions({ excerpt: true });
 
   return {
     templateFormats: ["11ty.js"],

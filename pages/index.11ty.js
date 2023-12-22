@@ -1,3 +1,5 @@
+const { description } = require("../src/site-metadata.js");
+
 const Hero = require("../src/components/Hero.js");
 const CallToAction = require("../src/components/CallToAction.js");
 
@@ -5,6 +7,7 @@ module.exports = {
   data: {
     layout: "layouts/base.11ty.js",
     title: "Home",
+    description,
   },
   async render(data) {
     return `

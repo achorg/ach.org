@@ -71,12 +71,22 @@ const css = (cssCode) =>
     .process(cssCode, { from: "src/styles.css" })
     .then((result) => result.css);
 
+const excerpt = (content, maxLength = 160) => {
+  let startPosition = content.toLowerCase().indexOf("<p>") + 3;
+  let endPosition = Math.min(content.toLowerCase().indexOf("</p>"));
+
+  if (endPosition <= startPosition + maxLength)
+    return content.substring(startPosition, endPosition);
+
+  return content.substring(startPosition, startPosition + maxLength - 1) + "…";
+};
+
 class BaseLayout {
   async render(data) {
-    const { title: defaultTitle, description: defaultDescription } =
-      siteMetadata;
-    const { title, description } = data;
-    const metaDescription = description || defaultDescription;
+    const { title: defaultTitle } = siteMetadata;
+
+    const description =
+      data.description || data.page.excerpt || excerpt(data.content);
 
     return `
       <!doctype html>
@@ -84,14 +94,14 @@ class BaseLayout {
         <head>
           <meta charset="utf-8">
           <meta name="viewport" content="width=device-width, initial-scale=1.0">
-          <title>${title} | ${defaultTitle}</title>
+          <title>${data.title} | ${defaultTitle}</title>
           <meta name="description" content="{metaDescription}" />
-          <meta property="og:title" content="${title}" />
-          <meta property="og:description" content="${metaDescription}" />
+          <meta property="og:title" content="${data.title}" />
+          <meta property="og:description" content="${description}" />
           <meta property="og:type" content="website" />
           <meta name="twitter:card" content="summary" />
-          <meta name="twitter:title" content="${title}" />
-          <meta name="twitter:description" content="${metaDescription}" />          
+          <meta name="twitter:title" content="${data.title}" />
+          <meta name="twitter:description" content="${description}" />          
         </head>
         <body>
           <main id="main-content">
