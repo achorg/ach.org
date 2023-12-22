@@ -3,7 +3,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.setFrontMatterParsingOptions({ excerpt: true });
 
   return {
-    templateFormats: ["11ty.js"],
+    templateFormats: ["11ty.js", "md", "html"],
 
     dir: {
       input: "pages",
