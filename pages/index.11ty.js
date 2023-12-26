@@ -8,6 +8,7 @@ module.exports = {
     layout: "layouts/base.11ty.js",
     title: "Home",
     description,
+    usingHero: true,
   },
   async render(data) {
     return `

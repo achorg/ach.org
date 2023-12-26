@@ -6,6 +6,8 @@ const siteMetadata = require("../site-metadata.js");
 
 const styles = fs.readFileSync("src/styles.css", "utf8");
 
+const Header = require("../components/Header.js");
+
 const css = (cssCode) =>
   postCss([
     tailwind({
@@ -83,7 +85,7 @@ const excerpt = (content, maxLength = 160) => {
 
 class BaseLayout {
   async render(data) {
-    const { title: defaultTitle } = siteMetadata;
+    const { title: siteTitle } = siteMetadata;
 
     const description =
       data.description || data.page.excerpt || excerpt(data.content);
@@ -94,7 +96,7 @@ class BaseLayout {
         <head>
           <meta charset="utf-8">
           <meta name="viewport" content="width=device-width, initial-scale=1.0">
-          <title>${data.title} | ${defaultTitle}</title>
+          <title>${data.title} | ${siteTitle}</title>
           <meta name="description" content="{metaDescription}" />
           <meta property="og:title" content="${data.title}" />
           <meta property="og:description" content="${description}" />
@@ -105,6 +107,7 @@ class BaseLayout {
         </head>
         <body>
           <a href="#main-content" class="skip-link">Skip to main content</a>
+          ${await Header(siteTitle, data.usingHero)}
           <main id="main-content">
             ${data.content}
           </main>
