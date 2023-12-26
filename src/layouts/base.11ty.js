@@ -104,6 +104,7 @@ class BaseLayout {
           <meta name="twitter:description" content="${description}" />          
         </head>
         <body>
+          <a href="#main-content" class="skip-link">Skip to main content</a>
           <main id="main-content">
             ${data.content}
           </main>
