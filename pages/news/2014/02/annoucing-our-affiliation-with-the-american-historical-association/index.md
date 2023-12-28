@@ -1,0 +1,10 @@
+---
+title: 'Announcing our Affiliation with the American Historical Association'
+date: '2014-02-25'
+author: 'Jen Guiliano'
+---
+ACH is pleased to announce its formal affiliation with the [American Historical Association (AHA)](http://historians.org). Founded in 1884, the AHA is the largest historical professional organization in the US. With over 100 affiliated organizations, the Association devotes itself to the promotion of historical studies through the encouragement of research, teaching, and publication; the collection and preservation of historical documents and artifacts; the dissemination of historical records and information; the broadening of historical knowledge among the general public; and the pursuit of kindred activities in the interest of history.
+
+At its broadest, ACH sought this affiliation as the application of digital research, teaching, and advocacy have entwined with the practice of literary and historical scholarship for twenty-first century historians, including those working in GLAM, K-12, and other educational communities. At its core, the practice of history seeks to explore the human condition and the ongoing tools, research methodologies, and publication platforms that digital humanities contributes to the field of historical scholarship that have subtly and not so subtly begun to transform the historical discipline. ACH recognizes the influential ways in which AHA and its membership have shaped the practice of historical research and publication and hope to join the association in our joint efforts to ensure quality scholarship within the academy and beyond.
+
+ACH encourages its membership to explore the AHA website and [the benefits of membership](http://historians.org/about-aha-and-membership/join-the-aha) in our affiliated organization. ACH members are invited to consider [submitting a poster](http://historians.org/annual-meeting/submit-a-proposal) for the AHA2015 conference in New York City, “History and Other Disciplines.” Poster proposals are due by March 17th, 2014. More information on additional ACH/AHA activities will be forthcoming in the coming months.

@@ -1,0 +1,8 @@
+---
+title: 'Reflecting on DHSI'
+date: '2014-06-28'
+author: 'Andrea Kampen'
+---
+*Editor’s note: The ACH awarded Andrea Kampen a student travel bursary to attend this summer’s Digital Humanities Summer Institute. The award came with an invitation to reflect on the experience in our blog.*
+
+As a first time attender to the Digital Humanities Summer Institute I had no idea what to expect. I wanted to examine my burgeoning interest in the digital humanities and learn how to apply that to what I am learning in my Master in Library and Information Management studies program. DHSI was recommended to me as an experience which would allow me to do just that. I enrolled in the Augmented Reality class because I am interested in learning about how this digital technology affects our day to day experiences. I couldn’t think of a better topic through which to learn about a technology that is meant to add to reality without detracting from it. We had so many interesting discussions and I enjoyed learning so much from my peers through their understanding and implementation of Augmented Reality. Though the classes were the focus, attending the colloquiums, un-conference and Birds of a Feather sessions supplemented the experience. As a newcomer I felt welcomed and encouraged to join the multidisciplinary projects being explored in field. Thinking critically about the digital humanities is important for its survival and DHSI utilized The Birds of a Feather sessions to examine the future of the discipline. I am very interested in all the work that is going on in the Digital Humanities and am looking forward to incorporating what I’ve learned at the DHSI at my home institution.

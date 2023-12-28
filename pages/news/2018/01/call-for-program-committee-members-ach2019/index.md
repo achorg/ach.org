@@ -1,0 +1,14 @@
+---
+title: 'Call for Program Committee Members: ACH2019'
+date: '2018-01-22'
+author: 'Jen Guiliano'
+---
+The Association for Computers and the Humanities, in conjunction with Carnegie Mellon University, Duquesne University, and the University of Pittsburgh issues a call for nominations and self-nominations to serve as a member of the 2019 Program Committee for its first-ever Digital Humanities conference. Held in Pittsburgh, Pennsylvania in Summer 2019, the conference is convened by Association for Computers and the Humanities to encourage the development of the digital humanities from diverse perspectives, communities, and organizations. A six-person committee to manage the program is being convened to develop the conference program. To broaden participation from our membership and to respond to calls for greater diversity in leadership, ACH welcomes its membership to serve on this important committee.
+
+The program committee approves the structure and content of the entire academic program . The conference theme (if any) is decided by the program committee in consultation with local organizers. The committee will also be charged with participating in the creation of special sessions to encourage involvement from diverse communities, students, contingent faculty, members of cultural heritage organizations, and others invested in the digital humanities. This will include the development of review criteria and submission protocols.
+
+Potential nominees should be aware of the extended commitment of this position: it begins in March 2018 and lasts until Summer 2019. Nominees should be prepared to read conference submissions, solicit reviewers, assist in guiding the review process, be willing to develop panels and other presentation groupings, navigate multicultural digital humanities communities, and contribute to the development of a program development process.
+
+Nominees must be current members of ACH. Self-nominations are welcome and encouraged. Send a statement of interest/nomination of no more than 250 words to [jenguiliano@gmail.com](mailto:jenguiliano@gmail.com) with ACH2019 PC in the subject line along with a current c.v. or resume. The statement should speak not just to the nominee’s qualifications, but also to how they anticipate assisting in the duties of a program committee member as it relates to the ACH mission. If a third party is sending in a nomination, the nominee should also send in a brief statement of interest confirming willingness to participate fully. We encourage students, contingent faculty, members of cultural heritage organizations, and minority-serving institutions especially to apply.
+
+Nominations must be received by February 15, 2018. Decisions will be made by the Executive Committee of ACH and Local Organizers no later than March 15, 2018.

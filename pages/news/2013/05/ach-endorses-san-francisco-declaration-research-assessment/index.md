@@ -1,0 +1,10 @@
+---
+title: 'ACH Endorses San Francisco Declaration on Research Assessment'
+date: '2013-05-23'
+author: 'Lisa Spiro'
+---
+The Association for Computers and the Humanities (ACH) has endorsed the [San Francisco Declaration on Research Assessment (DORA)](http://am.ascb.org/dora/), a set of recommendations for applying more nuanced, accurate ways to evaluate research than the Journal Impact Factor (JIF).  
+
+Originally developed as a tool for librarians to use in determining what journals to subscribe to, the Journal Impact Factor calculates a ranking for scientific and scholarly journals based on the average number of citations their articles received in the previous two years. This ranking is used by many institutions to make hiring, promotion and funding decisions, even though the score reflects the number of citations for the journal as a whole rather than for particular articles. The JIF has significant flaws, including being skewed as a result of a journal publishing a few highly-cited articles, not distinguishing between more frequently-cited review articles and research articles, disadvantaging and discouraging new journals, not accounting for different citation rates in smaller fields, having the potential for being gamed, and not being transparent in how impact factors are calculated. DORA makes eighteen recommendations for researchers, funders, research institutions, organizations that provide metrics, and publishers, such as focusing evaluation on the content of a paper, applying article-based rather than journal-based metrics, incorporating research outputs such as datasets and software in evaluating impact, and promoting the reuse of reference lists through the adoption of Creative Commons Public Domain Dedication licenses.
+
+Signing DORA corresponds with ACH’s [broader aims to advocate](/activities/advocacy) for reforms in scholarly communication, including promoting open access. ACH is proud to be the one of the first humanities organizations to sign DORA. The ACH Executive Council encourages members to consider signing it as well.
