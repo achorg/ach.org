@@ -6,14 +6,14 @@ class PageLayout {
   }
 
   async render(data) {
-    const { title } = data;
+    const { title, content } = data;
 
     return `
       <header class="page-header boxed-regular">
         <h1 itemProp="headline">${title}</h1>
       </header>
       <section itemProp="articleBody" class="prose boxed-regular">
-        ${data.content}
+        ${content}
       </section>
     `;
   }

@@ -1,5 +1,9 @@
 const Image = require("@11ty/eleventy-img");
 
+const { menuLinks } = require("../site-metadata.js");
+
+const Navigation = require("./Navigation.js");
+
 const achLogo = async (title) => {
   let metadata = await Image("src/images/logo.png", {
     formats: ["avif", "webp", "jpeg"],
@@ -18,12 +22,12 @@ const achLogo = async (title) => {
   return Image.generateHTML(metadata, imageAttributes);
 };
 
-module.exports = async (title, usingHero) => {
+module.exports = async (title, usingHero, currentUrl) => {
   return `
     <header class="global-header${usingHero ? " header-with-hero" : ""}">
       <div class="header-inner boxed-regular">
         <a href="/" class="logo">${await achLogo(title)}</a>
-        <Navigation />
+        ${Navigation(menuLinks, currentUrl)}
       </div>
     </header>
   `;

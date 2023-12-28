@@ -107,7 +107,7 @@ class BaseLayout {
         </head>
         <body>
           <a href="#main-content" class="skip-link">Skip to main content</a>
-          ${await Header(siteTitle, data.usingHero)}
+          ${await Header(siteTitle, data.usingHero, data.page.url)}
           <main id="main-content">
             ${data.content}
           </main>
