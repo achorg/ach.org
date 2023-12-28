@@ -74,13 +74,15 @@ const css = (cssCode) =>
     .then((result) => result.css);
 
 const excerpt = (content, maxLength = 160) => {
-  let startPosition = content.toLowerCase().indexOf("<p>") + 3;
-  let endPosition = Math.min(content.toLowerCase().indexOf("</p>"));
+  const startPosition = content.toLowerCase().indexOf("<p>") + 3;
+  const endPosition = Math.min(content.toLowerCase().indexOf("</p>"));
 
-  if (endPosition <= startPosition + maxLength)
-    return content.substring(startPosition, endPosition);
+  const excerpt = content
+    .substring(startPosition, endPosition)
+    .replace(/<[^>]+>/g, "");
 
-  return content.substring(startPosition, startPosition + maxLength - 1) + "…";
+  if (excerpt <= maxLength) return excerpt;
+  return excerpt.substring(0, content.lastIndexOf(" ", maxLength)) + "…";
 };
 
 class BaseLayout {
