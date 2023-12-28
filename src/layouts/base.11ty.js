@@ -4,6 +4,8 @@ const tailwind = require("tailwindcss");
 
 const siteMetadata = require("../site-metadata.js");
 
+const { excerpt } = require("../utils.js");
+
 const styles = fs.readFileSync("src/styles.css", "utf8");
 
 const Header = require("../components/Header.js");
@@ -72,18 +74,6 @@ const css = (cssCode) =>
   ])
     .process(cssCode, { from: "src/styles.css" })
     .then((result) => result.css);
-
-const excerpt = (content, maxLength = 160) => {
-  const startPosition = content.toLowerCase().indexOf("<p>") + 3;
-  const endPosition = Math.min(content.toLowerCase().indexOf("</p>"));
-
-  const excerpt = content
-    .substring(startPosition, endPosition)
-    .replace(/<[^>]+>/g, "");
-
-  if (excerpt <= maxLength) return excerpt;
-  return excerpt.substring(0, content.lastIndexOf(" ", maxLength)) + "…";
-};
 
 class BaseLayout {
   async render(data) {

@@ -1,15 +1,4 @@
-const authorLine = (data) => {
-  const author = data.authors?.join(", ") ?? data.author;
-  return author ? `<span>by ${author}</span>` : "";
-};
-
-const formatDate = (date) => {
-  return new Date(date).toLocaleDateString("en-us", {
-    year: "numeric",
-    month: "long",
-    day: "numeric",
-  });
-};
+const { formatDate, authorLine } = require("../utils.js");
 
 class NewsLayout {
   data() {
