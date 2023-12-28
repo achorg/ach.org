@@ -2,6 +2,7 @@
 title: 'Call for Nominations and Applications: DHQ General Editor'
 date: '2021-07-24'
 author: 'Paige Morgan'
+layout: 'layouts/news.11ty.js'
 ---
 *Originally posted at [Digital Humanities Quarterly](http://www.digitalhumanities.org/dhq/announcements/index.html).*
 

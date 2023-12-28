@@ -2,6 +2,7 @@
 title: 'DH Q&A: What’s New?'
 date: '2020-06-09'
 author: 'Tanya Clement'
+layout: 'layouts/news.11ty.js'
 ---
 The Digital Humanities Questions &amp; Answers site, a scholarly forum that was active from 2010 to 2018 and was lost due to server problems, is now available as a [static archive](https://dhanswers.ach.org/), thanks to work by Infrastructure Committee members Rebecca Sutton Koeser, Amanda Visconti, and Zoe LeBlanc. All original URLs under [digitalhumanities.org/answers/](http://digitalhumanities.org/answers/) now resolve to equivalent content on the archive site; this means that existing links and citations to DH Q&amp;A content will work again without modification. Although the archive site does not accept new content, it continues to be a useful resource for historical answers to typical questions, especially for those new to DH (e.g. [has anyone created a map or directory of DH?](https://dhanswers.ach.org/topic/map-or-directory-of-digital-humanists/)); perspectives from a variety of practitioners on advanced topics (e.g. [which novels to assign for seminar in algorithmic criticism / distant reading?](https://dhanswers.ach.org/topic/which-novels-to-assign-for-seminar-in-algorithmic-criticism-distant-reading/)); and a snapshot of DH interests and concerns during the site’s active years.
 

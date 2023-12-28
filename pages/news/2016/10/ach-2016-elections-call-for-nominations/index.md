@@ -2,6 +2,7 @@
 title: 'ACH 2016 Elections: Call for Nominations'
 date: '2016-10-20'
 author: 'Alex Gil'
+layout: 'layouts/news.11ty.js'
 ---
 **Due date: Friday November 4th, 2016**
 

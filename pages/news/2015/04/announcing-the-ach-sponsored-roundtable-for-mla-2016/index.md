@@ -2,6 +2,7 @@
 title: 'Announcing the ACH-sponsored Roundtable for MLA 2016: What we talk about when we talk about DH'
 date: '2015-04-01'
 author: 'Lisa Marie Rhody'
+layout: 'layouts/news.11ty.js'
 ---
 Each year, in its role as an affiliated organization of the [Modern Languages Association](http://mla.org), ACH sponsors a panel at the MLA’s annual convention. This year the [MLA Convention](https://www.mla.org/convention) is scheduled for January 7-10, 2016 in Austin, Texas, and the ACH-sponsored roundtable will address interdisciplinary vocabularies using a revised format designed to foster dialogue among panelists and attendees. More information about the roundtable will be posted on our site on December 1st; meanwhile, the title, abstract, and biographical statements of participants appear below. We look forward to a lively and generative conversation in Austin!
 

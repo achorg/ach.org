@@ -2,6 +2,7 @@
 title: 'Notes from 2014 Annual General Meeting'
 date: '2014-09-29'
 author: 'Vika Zafrin'
+layout: 'layouts/news.11ty.js'
 ---
 We are pleased to post notes from the 2014 AGM, which took place at the [Digital Humanities conference in Lausanne, Switzerland](http://dh2014.org/) on July 9, 2014. Please let us know if you have corrections or additions!
 

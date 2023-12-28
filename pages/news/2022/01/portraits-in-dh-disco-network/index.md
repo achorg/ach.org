@@ -2,6 +2,7 @@
 title: 'Portraits in DH: DISCO Network'
 date: '2022-01-29'
 author: 'Jewon Woo'
+layout: 'layouts/news.11ty.js'
 ---
 **Creating Equitable and Just Futures in the Digital**
 

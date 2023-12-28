@@ -2,6 +2,7 @@
 title: 'ACH Statement on Digital Humanities Conferences and Events'
 date: '2017-02-24'
 author: 'Jen Guiliano'
+layout: 'layouts/news.11ty.js'
 ---
 As advocates for social change through the use of computers and related technologies in the study of humanistic subjects, the Association for Computers and the Humanities (ACH) notes that decisions regarding participation in conferences, co-sponsorships, and other in-person events should be made with careful attention to the safety of the most vulnerable members of our community. We are committed to providing venues for our members to build their scholarly reputations and networks, but we must balance those opportunities with concerns about the impact of local, state, national, and institutional policies on individual members and their safety.
 

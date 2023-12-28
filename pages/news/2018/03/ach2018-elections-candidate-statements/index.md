@@ -2,6 +2,7 @@
 title: 'ACH2018 Elections: Candidate Statements'
 date: '2018-03-20'
 author: 'Jen Guiliano'
+layout: 'layouts/news.11ty.js'
 ---
 Below are the statements from our candidates for the ACH2018 election.
 

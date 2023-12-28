@@ -2,6 +2,7 @@
 title: 'Call for Nominations: Affiliates Committee'
 date: '2014-07-09'
 author: 'Jen Guiliano'
+layout: 'layouts/news.11ty.js'
 ---
 The Association for Computers and the Humanities (ACH) invites nominations and self-nominations for a newly established standing committee on Affiliates. The committee is charged by the Executive Council, in its desire to broaden its involvement with other professional societies, associations, or initiatives, to work with our membership to identify potential affiliate relationships. They will also be charged with responding to external solicitations for ACH affiliate status, and reporting to the ACH Executive as appropriate. We seek committee members who want to advance the field of digital humanities (DH) by helping broaden ACH’s engagement with other professional societies, associations, and initiatives. You could be involved in helping ACH succeed by nominating yourself, or someone else, to be an active participant in the Standing Committee on Affiliates.
 

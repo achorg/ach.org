@@ -2,6 +2,7 @@
 title: 'Call for Nominations: ACH Executive Council Representatives & Vice-President/President-Elect'
 date: '2019-09-16'
 author: 'Amanda Visconti'
+layout: 'layouts/news.11ty.js'
 ---
 **Due date for nominations: December 1st, 2019**
 

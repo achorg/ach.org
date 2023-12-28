@@ -2,6 +2,7 @@
 title: 'Charles Douglas Bush, 1948 – 2011'
 date: '2011-06-01'
 author: 'Elli Mylonas'
+layout: 'layouts/news.11ty.js'
 ---
 The digital humanities community lost a good friend and colleague with the death of Chuck Bush, long-time Treasurer of the Association for Computers and Humanities and an unfailingly warm presence at the annual digital humanities conference which he attended with his wife, Junola.
 

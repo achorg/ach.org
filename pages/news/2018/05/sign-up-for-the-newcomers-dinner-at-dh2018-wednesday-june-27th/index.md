@@ -2,6 +2,7 @@
 title: 'Sign up for the Newcomer’s Dinner at DH2018 – Wednesday, June 27th'
 date: '2018-05-23'
 author: 'Lisa Marie Rhody'
+layout: 'layouts/news.11ty.js'
 ---
 Are you new to the DH community or to digital humanities conferences? Join a small group of newbies and ACH/DH old-timers at a local restaurant and make scholarly connections and new friendships.
 

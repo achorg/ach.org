@@ -2,6 +2,7 @@
 title: 'ACH2019 Program Committee Additions'
 date: '2018-07-02'
 author: 'Jen Guiliano'
+layout: 'layouts/news.11ty.js'
 ---
 ACH and its 2019 Program Committee would like to welcome two new members to the group charged with developing the program:
 

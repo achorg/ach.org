@@ -2,6 +2,7 @@
 title: 'Help us shape our outreach and affiliations efforts'
 date: '2015-02-18'
 author: 'Jen Guiliano'
+layout: 'layouts/news.11ty.js'
 ---
 Last year, the Association for Computers and the Humanities developed an Affiliations Committee charged with facilitating outreach to other professional organizations and initiatives. The committee is comprised of: Jennifer Guiliano, James O’Sullivan, Dot Porter, Miriam Posner, and Lisa Rhody. With outreach ongoing to the American Historical Association, the IEEE, the Medieval Academy of America, the Modern Language Association, and other professional organizations, we now ask for your assistance in completing a very brief, three question survey to assist the committee in the next round of its work.
 

@@ -2,6 +2,7 @@
 title: 'Changing the Rules: TEI Customization at DHSI 2016'
 date: '2016-09-21'
 author: 'Maria Chappell'
+layout: 'layouts/news.11ty.js'
 ---
 This year during the second week of DHSI, I took “Advanced TEI Concepts / TEI Customization” with Syd Bauman and James Cummings. I had previously taken another course, XSLT for Digital Humanities, with Syd and Martin Holmes, during my very first DHSI. For that first DHSI, I wanted to learn something that would be useful but hard to learn on my own. XSLT certainly fit the bill, and after five brain-tiring days, I could manipulate code with XSLT and turn it into something that looks and reads very differently from the original (sometimes I like to call XSLT “black magic” because of its transformative potential).
 

@@ -2,6 +2,7 @@
 title: 'ACH appoints a new Executive Secretary'
 date: '2012-04-10'
 author: 'Bethany Nowviskie'
+layout: 'layouts/news.11ty.js'
 ---
 The Association for Computers and the Humanities is pleased to announce the appointment of [Dr. Vika Zafrin](http://www.linkedin.com/in/vikazafrin) as Executive Secretary of ACH and an ex officio member of the ACH Executive Council.
 

@@ -2,6 +2,7 @@
 title: 'Partnership with DHCommons on ACH Mentorship'
 date: '2012-09-10'
 author: 'Stéfan Sinclair'
+layout: 'layouts/news.11ty.js'
 ---
 The ACH is very pleased to announce a partnership with [DHCommons](http://dhcommons.org/) meant to broaden our successful [digital humanities mentorship program](/activities/mentoring). The ACH's mentorship program matches newcomers to the digital humanities with experienced advisors in the field for job market advice, networking, and professional guidance.If you would like to participate, visit [the DHCommons sign-up page](http://www.dhcommons.org/user/register) and complete the ACH Mentoring program fields.
 

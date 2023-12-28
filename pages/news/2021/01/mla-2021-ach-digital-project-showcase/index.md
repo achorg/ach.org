@@ -2,6 +2,7 @@
 title: 'MLA 2021: ACH Digital Project Showcase'
 date: '2021-01-12'
 author: 'Paige Morgan'
+layout: 'layouts/news.11ty.js'
 ---
 This year’s virtual MLA Convention featured a [Digital Project Showcase,](https://mla.confex.com/mla/2021/meetingapp.cgi/Session/10082) where several scholars presented work that is ongoing or just getting started. We’re very pleased to share [the slides that were shown in that panel](https://docs.google.com/presentation/d/1O1k4q6Rz1J1Mray4l8VFDko31lsf5iBc2a_W4aZ__jE/edit?usp=sharing), introducing the projects in question.
 

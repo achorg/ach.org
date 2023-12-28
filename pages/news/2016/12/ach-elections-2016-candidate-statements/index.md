@@ -2,6 +2,7 @@
 title: 'ACH Elections 2016: Candidate statements'
 date: '2016-12-05'
 author: 'Mia Ridge'
+layout: 'layouts/news.11ty.js'
 ---
 Candidates for the Position of Council Member in the 2016 ACH Elections.
 

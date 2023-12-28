@@ -2,6 +2,7 @@
 title: 'Digital Humanities 2013'
 date: '2013-05-04'
 author: 'Alex Gil'
+layout: 'layouts/news.11ty.js'
 ---
 The annual Digital Humanities conference is an opportunity for the ACH to pursue in-person many of the initiatives that we support more virtually during the year. We hope you’ll be able to join us for some or all of our events at [DH2013 in Nebraska](http://dh2013.unl.edu/)!
 

@@ -1,6 +1,7 @@
 ---
 title: 'DeEtta Jones & Associates to Work with ACH on Racial Justice Review'
 date: '2020-12-01'
+layout: 'layouts/news.11ty.js'
 ---
 In June, The Association for Computers and the Humanities (ACH) released our [Statement on Black Lives Matter, Structural Racism, and Our Organization](/news/2020/06/ach-statement-on-black-lives-matter-structural-racism-and-our-organization/). In keeping with our commitments to action, we are proud to announce [DeEtta Jones &amp; Associates](https://www.deettajones.com) (DJA) as our external partner in conducting a systematic review of ACH policies and organizational culture as it relates to issues of structural racism, particularly in connection with the ACH conference, publications, governance, and leadership.
 

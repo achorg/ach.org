@@ -2,6 +2,7 @@
 title: '2013 Election Results Announced'
 date: '2014-02-03'
 author: 'Vika Zafrin'
+layout: 'layouts/news.11ty.js'
 ---
 We are pleased to announce the results of the 2013 ACH elections.
 

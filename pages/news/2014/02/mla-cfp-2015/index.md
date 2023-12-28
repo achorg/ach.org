@@ -2,6 +2,7 @@
 title: 'MLA CFP “Digital Deformance and Scholarly Forms”'
 date: '2014-02-22'
 author: 'Stéfan Sinclair'
+layout: 'layouts/news.11ty.js'
 ---
 Last year’s session—organized by the Association for Computers and Humanities (ACH)— at MLA featured a “just the results, please” approach to presenting digitally-inflected scholarship in literary studies and prioritized discussion of interpretive results over process. In a similar vein and taking its cue from Lisa Samuels and Jerome McGann’s term “deformance,” this year’s panel will feature presentations of digital interpretations born out of deformative and/or performative technology-enabled processes. “Digital deformance” is meant to be broadly construed; as a result, methods might span a wide range of approaches from programming to game design to computational analysis to fabrication to digital editing.
 

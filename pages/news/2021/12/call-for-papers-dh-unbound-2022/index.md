@@ -1,6 +1,7 @@
 ---
 title: 'Call for Papers: DH Unbound 2022 (May 17-19, 2022)'
 date: '2021-12-03'
+layout: 'layouts/news.11ty.js'
 ---
 ACH and [CSDH/SCHN](https://csdh-schn.org/) are the U.S.-based and Canada-based constituent organizations in the Alliance for Digital Humanities Organizations (ADHO), respectively. Together, we are hosting a virtual conference, [DH Unbound 2022](http://dhunbound2022.ach.org), from May 17-19, 2022.
 

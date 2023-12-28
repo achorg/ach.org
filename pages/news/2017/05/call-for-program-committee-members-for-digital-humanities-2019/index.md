@@ -2,6 +2,7 @@
 title: 'Call for Program Committee Members for Digital Humanities 2019'
 date: '2017-05-30'
 author: 'Jen Guiliano'
+layout: 'layouts/news.11ty.js'
 ---
 The Association for Computers and the Humanities issues a call for nominations and self-nominations to serve as one of two representatives to the 2019 Program Committee for the Alliance for Digital Humanities Organizations’ annual Digital Humanities conference. Held in Utrecht, Netherlands in Summer 2019, the conference is convened by the global member organizations of ADHO. Annually, ACH is able to nominate two representatives to serve on the program committee. To broaden participation from our membership and to respond to calls for greater diversity in ADHO work groups, ACH welcomes its membership to serve on this important committee.
 

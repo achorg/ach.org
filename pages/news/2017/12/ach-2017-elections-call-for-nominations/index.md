@@ -2,6 +2,7 @@
 title: 'ACH 2017 Elections: Call for Nominations'
 date: '2017-12-21'
 author: 'Alex Gil'
+layout: 'layouts/news.11ty.js'
 ---
 **Due date for nominations: Monday, January 15, 2018**
 

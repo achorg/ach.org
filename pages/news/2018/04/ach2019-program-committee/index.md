@@ -2,6 +2,7 @@
 title: 'ACH2019 Program Committee'
 date: '2018-04-26'
 author: 'Jen Guiliano'
+layout: 'layouts/news.11ty.js'
 ---
 The Association for Computers and the Humanities, in conjunction with our partners at Carnegie Mellon University, Duquesne University, and the University of Pittsburgh are delighted to announce the program committee for the ACH2019 conference:
 

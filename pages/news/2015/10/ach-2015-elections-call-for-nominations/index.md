@@ -2,6 +2,7 @@
 title: 'ACH 2015 Elections: Call for Nominations'
 date: '2015-10-05'
 author: 'Vika Zafrin'
+layout: 'layouts/news.11ty.js'
 ---
 **Due date: Friday October 23, 2015**
 

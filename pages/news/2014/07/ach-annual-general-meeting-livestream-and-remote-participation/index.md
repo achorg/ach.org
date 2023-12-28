@@ -2,6 +2,7 @@
 title: 'ACH Annual General Meeting livestream and remote participation'
 date: '2014-07-08'
 author: 'Vika Zafrin'
+layout: 'layouts/news.11ty.js'
 ---
 The ACH Annual General Meeting will take place tomorrow, Wednesday, 9 July 2014 at 12:30pm CEST (UTC +1:00) at Digital Humanities 2014 in Lausanne, in the Amphimax Building, UNIL, Room 350/351.
 

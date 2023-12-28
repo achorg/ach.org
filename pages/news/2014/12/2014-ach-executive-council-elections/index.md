@@ -2,6 +2,7 @@
 title: '2014 ACH Executive Council Elections'
 date: '2014-12-15'
 author: 'Glen Worthey'
+layout: 'layouts/news.11ty.js'
 ---
 As we write this, there are just a few days left in the 2014 ACH Executive Council elections: if you haven’t voted, please do so before the deadline of December 17!
 

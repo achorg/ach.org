@@ -2,6 +2,7 @@
 title: 'ACH Microgrants Winners 2014!'
 date: '2014-07-09'
 author: 'Susan Brown'
+layout: 'layouts/news.11ty.js'
 ---
 The Association for Computers and the Humanities is pleased to announce the winners of the 2014 Microgrants competition!
 

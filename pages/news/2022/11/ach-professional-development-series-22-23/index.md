@@ -2,6 +2,7 @@
 title: 'ACH Professional Development Series 22-23'
 date: '2022-11-08'
 author: 'Jewon Woo'
+layout: 'layouts/news.11ty.js'
 ---
 **Making DH Work for Us: Labor, Care, and Careers**
 

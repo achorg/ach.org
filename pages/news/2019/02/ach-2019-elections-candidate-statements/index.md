@@ -2,6 +2,7 @@
 title: 'ACH 2019 Elections: Candidate Statements'
 date: '2019-02-15'
 author: 'Amanda Visconti'
+layout: 'layouts/news.11ty.js'
 ---
 Below are the statements from our candidates for the ACH 2019 election. We are happy to offer our members a diverse slate of 14 potential candidates for the 3 new regular member spots on the ACH Executive Council ([current members here](/about/officers/)). This year, we do not have any openings for new officers (e.g. President, Secretary).
 

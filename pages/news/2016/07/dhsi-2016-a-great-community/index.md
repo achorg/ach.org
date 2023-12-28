@@ -2,6 +2,7 @@
 title: 'DHSI 2016: a great community!'
 date: '2016-07-28'
 author: 'Andrea Penso'
+layout: 'layouts/news.11ty.js'
 ---
 The week I spent in Victoria for the DHSI has been an amazing experience. The Digital Humanities is a field of studies which is developing really fast, and I was curious to get closer to these innovative approaches to literary studies. The summer school has been a breath of fresh air for many reasons: I learned a lot about digital stylometric analysis of corpora, I developed new skills in text encoding, I got better in the planning and the development of digital projects. But beyond all these “technical” aspects (which gave me a lot to think about in order to develop my research), there are some other things that made that week in Victoria very special.
 

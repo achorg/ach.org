@@ -2,6 +2,7 @@
 title: 'Announcing DH2018 ACH Scholarships'
 date: '2018-05-21'
 author: 'Alex Gil'
+layout: 'layouts/news.11ty.js'
 ---
 Seeking to foster stronger collaborations with colleagues in Mexico and elsewhere in Latin America, this year, ACH supported the participation of ten early career scholars at DH2018.
 

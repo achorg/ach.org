@@ -2,6 +2,7 @@
 title: 'No You Are Not Crazy: What I learned from Presenting a Paper at the Joint ACH and CSDH/SCHN Conference 2015'
 date: '2015-11-17'
 author: 'Grant Glass'
+layout: 'layouts/news.11ty.js'
 ---
 Presenting my Paper “Towards a Quantum Digital Humanities” at a Digital Humanities conference was a wonderful opportunity to simultaneously share my views of where I believe the future of where Digital Humanities is headed and to connect with the larger community of scholars. In the newcomer’s lunch, I was able to make some meaningful connections with other faculty and graduate students that have helped shaped my confidence in practicing Digital Humanities.
 

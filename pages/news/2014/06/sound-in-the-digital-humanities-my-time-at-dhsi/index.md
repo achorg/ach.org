@@ -2,6 +2,7 @@
 title: 'Sound in the Digital Humanities: my time at DHSI'
 date: '2014-06-24'
 author: 'Penny Johnston'
+layout: 'layouts/news.11ty.js'
 ---
 *Editor’s note: The ACH awarded Penny Johnston a student travel bursary to attend this summer’s Digital Humanities Summer Institute. The award came with an invitation to reflect on the experience in our blog.\]*
 

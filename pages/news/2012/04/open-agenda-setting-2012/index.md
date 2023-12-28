@@ -2,6 +2,7 @@
 title: 'Open Agenda-Setting'
 date: '2012-04-30'
 author: 'Bethany Nowviskie'
+layout: 'layouts/news.11ty.js'
 ---
 In 2012, ACH began taking concrete steps towards adopting a more open and transparent agenda-setting as a professional society. Since then we have looked to **you** to help us better serve our diverse, international digital humanities community — by generating new ideas for us to explore, and helping to prioritize items that are already on our [Executive Council](/about/officers/)'s agenda.
 

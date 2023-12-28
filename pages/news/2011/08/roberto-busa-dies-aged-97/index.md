@@ -2,6 +2,7 @@
 title: 'Roberto Busa dies aged 97'
 date: '2011-08-11'
 author: 'Kathleen Fitzpatrick'
+layout: 'layouts/news.11ty.js'
 ---
 There are perhaps not many fields in the humanities that can trace their roots to certain individuals, collaborations, and innovative new approaches. But within the application of computing to humanities problems one name looms large. Roberto Busa, one of the pioneers of humanities computing, died in Italy on Tuesday (November 13, 1913 – August 9, 2011).
 

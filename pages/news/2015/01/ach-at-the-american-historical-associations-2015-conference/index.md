@@ -2,6 +2,7 @@
 title: 'ACH at the American Historical Association’s 2015 Conference'
 date: '2015-01-27'
 author: 'Jen Guiliano'
+layout: 'layouts/news.11ty.js'
 ---
 Having recently been granted as an Affiliate Society, ACH was delighted to sponsor four sessions at the [American Historical Association’s Annual Conference](http://historians.org/annual-meeting) held this past January in New York City. These sessions were selected by ACH to represent stellar ongoing work at the intersection of digital history and digital technologies:
 

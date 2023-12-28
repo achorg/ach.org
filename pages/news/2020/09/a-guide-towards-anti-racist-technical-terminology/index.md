@@ -2,6 +2,7 @@
 title: 'Now available: a guide towards anti-racist technical terminology'
 date: '2020-09-24'
 author: 'Rebecca Koeser'
+layout: 'layouts/news.11ty.js'
 ---
 This summer, ACH issued a [statement on Black Lives Matter](/news/2020/06/ach-statement-on-black-lives-matter-structural-racism-and-our-organization/), structural racism and the measures the organization intends to take in order to further its anti-racist goals. Among other actions, we committed ourselves to developing a guide to help DH centers, labs, developers, and other technologists be mindful of racially-charged technical terminology (slave/master, whitelist/blacklist, etc.) with practical steps for moving away from these terms.
 

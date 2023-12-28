@@ -2,6 +2,7 @@
 title: 'ACH Microgrants 2014: DH Pedagogies'
 date: '2014-04-29'
 author: 'Susan Brown'
+layout: 'layouts/news.11ty.js'
 ---
 ACH Microgrants 2014: Microsteps to Advance the Digital Humanities
 

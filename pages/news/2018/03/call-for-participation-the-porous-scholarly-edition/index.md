@@ -2,6 +2,7 @@
 title: 'Call for Participation: The Porous Scholarly Edition'
 date: '2018-03-13'
 author: 'Lisa Marie Rhody'
+layout: 'layouts/news.11ty.js'
 ---
 This is a joint session proposed by the [Association for Computers and the Humanities](/) and the [MLA Committee on Scholarly Editions](https://www.mla.org/About-Us/Governance/Committees/Committee-Listings/Publications/Committee-on-Scholarly-Editions); see the [official CFP](https://apps.mla.org/cfp_detail_11429) here.
 

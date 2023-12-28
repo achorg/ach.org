@@ -2,6 +2,7 @@
 title: 'ACH and ADHO Bursary recipients'
 date: '2011-06-14'
 author: 'Elli Mylonas'
+layout: 'layouts/news.11ty.js'
 ---
 ## ACH Bursaries for Digital Humanities Summer Institute, University of Victoria
 

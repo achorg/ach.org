@@ -2,6 +2,7 @@
 title: 'ACH 2023 CFP'
 date: '2022-12-20'
 author: 'Jewon Woo'
+layout: 'layouts/news.11ty.js'
 ---
 The Association for Computers and the Humanities seeks proposals for ACH 2023, our virtual conference, to be held June 29-July 1, 2023. We welcome a broad range of topics, with a particular emphasis on social justice in multiple contexts: anti-racist work, Indigenous studies, cultural and critical ethnic studies, intersectional feminism, postcolonial and decolonial studies, disability studies, and queer studies. We also prioritize proposals that explicitly address multilingualism in digital humanities, which is itself a matter of social justice.
 

@@ -2,6 +2,7 @@
 title: 'ACH’s Newcomers’ Dinner at the 2017 DH Conference in Montreal'
 date: '2017-07-18'
 author: 'Brian Croxall'
+layout: 'layouts/news.11ty.js'
 ---
 Is this your first or second time at the Digital Humanities conference? Are you new to the DH community? Join a small group of newbies and DH old-timers at a local Montreal restaurant and make scholarly connections and new friendships. It’s not only for members of the ACH!
 

@@ -2,6 +2,7 @@
 title: 'Introducing “Portraits in DH”'
 date: '2020-10-16'
 author: 'Patricia Hswe'
+layout: 'layouts/news.11ty.js'
 ---
 This past summer, in the wake of nationwide protests against police brutality and the murder of George Floyd, the ACH Executive Council published a statement expressing our solidarity with the #BlackLivesMatter movement. We are committed to strengthening our anti-racist practices in Association governance, in the activities that we sponsor—such as the ACH Conference—and therough the ways in which we engage with ACH membership, such as this newsletter.
 

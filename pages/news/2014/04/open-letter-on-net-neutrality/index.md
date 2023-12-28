@@ -2,6 +2,7 @@
 title: 'Open Letter on Net Neutrality'
 date: '2014-04-29'
 author: 'Bethany Nowviskie'
+layout: 'layouts/news.11ty.js'
 ---
 ## Update: 30 September 2015
 

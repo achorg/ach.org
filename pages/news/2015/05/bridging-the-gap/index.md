@@ -2,6 +2,7 @@
 title: 'Lessons Learned from “Bridging the Gap: Women, Code, and the Digital Humanities”'
 date: '2015-05-06'
 authors: [ 'Celeste Sharpe', 'Jeri Wieringa' ]
+layout: 'layouts/news.11ty.js'
 ---
 This fall we had the opportunity to launch [DH Bridge](http://dhbridge.org), an open curriculum and workshop framework for teaching computational thinking in the context of the humanities, funded by an ACH microgrant. Borrowing liberally from [Rails Bridge](http://www.railsbridge.org) and [Rails Girls](http://railsgirls.com), we set out to adapt the model of a distributed pedagogy to the needs of humanities scholars who, while not looking to become programmers per se, want to develop the skills and patterns of thinking necessary to apply computational methods to their scholarship.
 

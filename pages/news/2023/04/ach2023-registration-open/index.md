@@ -2,6 +2,7 @@
 title: 'ACH2023 Registration Open!'
 date: '2023-04-20'
 author: 'Jewon Woo'
+layout: 'layouts/news.11ty.js'
 ---
 
 Acceptance decisions for ACH 2023 are now available. We received so many wonderful proposals—more than we could accept for our three-day virtual conference. The program committee is deeply appreciative of our community of reviewers for their careful consideration and feedback.

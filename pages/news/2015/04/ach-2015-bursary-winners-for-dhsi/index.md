@@ -2,6 +2,7 @@
 title: 'ACH 2015 Bursary Winners for DHSI'
 date: '2015-04-03'
 author: 'Tanya Clement'
+layout: 'layouts/news.11ty.js'
 ---
 ACH is pleased to announce our 2015 Bursary Winners for the 2015 [Digital Humanities Summer Institute](http://dhsi.org):
 

@@ -2,6 +2,7 @@
 title: 'ACH Job Slam at the Annual General Meeting @ 11:30 AM to 12:30 PM'
 date: '2017-08-05'
 author: 'Lisa Marie Rhody'
+layout: 'layouts/news.11ty.js'
 ---
 The ACH will host a Jobs Slam on [Thursday, August 10th, at the ACH Annual General Meeting during the DH 2017 Conference in Montréal](https://dh2017.adho.org/). The exact location of the meeting is still to be determined. Please stay tuned to @achdotorg on Twitter and the DH2017 conference website for information on locations.
 

@@ -2,6 +2,7 @@
 title: 'DH2018 Please Ask/Do Tell Stickers'
 date: '2018-06-24'
 author: 'Purdom Lindblad'
+layout: 'layouts/news.11ty.js'
 ---
 Please Ask/Do Tell stickers are back for DH2018! [Much like at DH2016](http://ach.org/2016/07/11/please-ask-do-tell-at-dh2016/), the Please Ask/Do Tell stickers are designed to be invitations for conversation.
 

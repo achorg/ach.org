@@ -2,6 +2,7 @@
 title: 'Long Live the Paper Book: A Motto of Digital Humanities'
 date: '2016-07-19'
 author: 'Anna Bighta'
+layout: 'layouts/news.11ty.js'
 ---
 One of the first lessons I learned while attending DHSI 2016 was that the paper-format book, more than likely, will not die because of the proliferation of digital technologies and the culture surrounding it. Nor should books die. This seemingly counterintuitive statement comes from the course I took during DHSI 2016 called “Understanding the PreDigital Book,” hosted by book historian and modernist scholar Matt Huculak.
 

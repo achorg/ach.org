@@ -2,6 +2,7 @@
 title: 'Digital Humanities 2013 (“Freedom to Explore”) – Call for Papers'
 date: '2012-09-06'
 author: 'Jeremy Boggs'
+layout: 'layouts/news.11ty.js'
 ---
 [Digital Humanities 2013 ("Freedom to Explore")](http://dh2013.unl.edu/) – Call for Papers  
 Alliance of Digital Humanities Organizations  

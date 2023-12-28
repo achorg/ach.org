@@ -2,6 +2,7 @@
 title: 'ACH Microgrants 2013: Microsteps to Advance the Digital Humanities'
 date: '2013-03-15'
 author: 'Jeremy Boggs'
+layout: 'layouts/news.11ty.js'
 ---
 **Proposals due 15 April 2013.**
 

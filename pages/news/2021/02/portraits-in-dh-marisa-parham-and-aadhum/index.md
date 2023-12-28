@@ -2,6 +2,7 @@
 title: 'Portraits in DH: Marisa Parham and AADHum'
 date: '2021-02-16'
 authors: [ 'Caitlin Pollock', 'Jewon Woo' ]
+layout: 'layouts/news.11ty.js'
 ---
 This past summer, in the wake of nationwide protests against police brutality and the murder of George Floyd, the ACH Executive Council published a statement expressing our solidarity with the #BlackLivesMatter movement. We are committed to strengthening our anti-racist practices in Association governance, in the activities that we sponsor—such as the ACH Conference—and through the ways in which we engage with ACH membership, such as this newsletter. Thus, with this February 2021 issue, we continue the “Portraits in DH” to feature emerging and established figures in digital humanities who are POC, or involved in DH efforts that focus on areas such as ethnic studies and postcolonial studies.
 

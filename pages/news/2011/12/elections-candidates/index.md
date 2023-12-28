@@ -2,6 +2,7 @@
 title: 'Candidates for ACH Election'
 date: '2011-12-01'
 author: 'Elli Mylonas'
+layout: 'layouts/news.11ty.js'
 ---
 ## ACH President
 

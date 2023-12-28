@@ -2,6 +2,7 @@
 title: 'ACH advocacy news'
 date: '2012-10-11'
 author: 'Bethany Nowviskie'
+layout: 'layouts/news.11ty.js'
 ---
 Today, the ACH is celebrating a [very favorable ruling](http://arstechnica.com/tech-policy/2012/10/court-rules-book-scanning-is-fair-use-suggesting-google-books-victory/) for digital research and fair use in a United States district court. This summer, we joined a group of 46 digital humanities scholars in filing two amicus briefs in lawsuits related to digitization of in-copyright and orphaned works in the Google Books and [HathiTrust](http://www.hathitrust.org/) corpora.
 

@@ -2,6 +2,7 @@
 title: 'ACH 2019 Call for Reviewers'
 date: '2018-07-03'
 author: 'Jen Guiliano'
+layout: 'layouts/news.11ty.js'
 ---
 ACH 2019 is seeking reviewers to evaluate conference proposal submissions during December 2018 and January 2019. ACH wishes to establish a wide, and as varied as possible, pool of reviewers for this conference.
 

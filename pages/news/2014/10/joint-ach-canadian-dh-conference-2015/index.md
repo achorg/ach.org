@@ -2,6 +2,7 @@
 title: 'Joint ACH & Canadian DH Conference 2015'
 date: '2014-10-20'
 author: 'Stéfan Sinclair'
+layout: 'layouts/news.11ty.js'
 ---
 We are delighted to announce the first joint conference between the [Canadian DH](CSHN-SCHN.org) and the Association for Computers and the Humanities. We invite scholars, practitioners, and graduate students to submit proposals for papers, sessions and digital demonstrations during this collective meeting, which will be held at the [2015 Congress of the Social Sciences and Humanities](congress2015.ca), University of Ottawa, Ontario from 1-3 June. We encourage submissions on all topics relating to both theory and practice in the evolving field of the digital humanities.
 

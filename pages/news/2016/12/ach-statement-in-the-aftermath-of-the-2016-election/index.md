@@ -1,6 +1,7 @@
 ---
 title: 'ACH Statement in the Aftermath of the 2016 Election'
 date: '2016-12-08'
+layout: 'layouts/news.11ty.js'
 ---
 The results of the recent presidential election in the United States have been accompanied by a troubling increase in cases of hateful speech, harassment, and acts of violence against members of historically vulnerable communities.
 

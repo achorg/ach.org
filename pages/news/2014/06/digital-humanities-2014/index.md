@@ -2,6 +2,7 @@
 title: 'Digital Humanities 2014'
 date: '2014-06-04'
 author: 'Alex Gil'
+layout: 'layouts/news.11ty.js'
 ---
 The annual Digital Humanities conference is an opportunity for the ACH to pursue in-person many of the initiatives that we support more virtually during the year. We hope you’ll be able to join us for some or all of our events at [DH 2014 in Lausanne](http://dh2014.org)!
 

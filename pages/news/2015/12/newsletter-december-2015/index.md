@@ -2,6 +2,7 @@
 title: 'Newsletter, December 2015'
 date: '2015-12-04'
 author: 'Stéfan Sinclair'
+layout: 'layouts/news.11ty.js'
 ---
 ## Preamble
 

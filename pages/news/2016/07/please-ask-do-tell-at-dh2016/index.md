@@ -2,6 +2,7 @@
 title: 'Please Ask, Do Tell! at DH2016'
 date: '2016-07-11'
 author: 'Mia Ridge'
+layout: 'layouts/news.11ty.js'
 ---
 If you’re attending the [DH2016 conference in Krakow](http://dh2016.adho.org/) and you’re looking for professional advice, job opportunities or just want to say hi to some friendly people, keep an eye out for ‘ask’ and ‘tell’ stickers.
 

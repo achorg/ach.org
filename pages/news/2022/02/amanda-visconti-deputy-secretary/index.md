@@ -2,6 +2,7 @@
 title: 'Amanda Visconti, Deputy Secretary'
 date: '2022-02-22'
 author: 'Vika Zafrin'
+layout: 'layouts/news.11ty.js'
 ---
 ACH is pleased to announce the appointment of [Dr. Amanda Visconti](http://amandavisconti.com/) to the position of Deputy Secretary. Amanda will work with Vika Zafrin and the other ACH Officers to run the organization, help organize the Executive Council to do work on behalf of our members, and ensure that our institutional history records are robust.
 

@@ -2,6 +2,7 @@
 title: 'Ticket Bursaries for UKMW12'
 date: '2012-11-18'
 author: 'Stéfan Sinclair'
+layout: 'layouts/news.11ty.js'
 ---
 In support of museums’ ongoing engagement in the world of the digital and encouragement of young professionals’ exploration of the digital humanities, ACH is pleased to offer up to five (5) ticket bursaries for student/unwaged participants in [UKMW12](http://museumscomputergroup.org.uk/tag/ukmw12/), the UK conference for Museums on the Web.
 

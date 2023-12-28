@@ -2,6 +2,7 @@
 title: 'Newsletter, October 2014'
 date: '2014-10-07'
 author: 'Jeremy Boggs'
+layout: 'layouts/news.11ty.js'
 ---
 ## Note from the President
 

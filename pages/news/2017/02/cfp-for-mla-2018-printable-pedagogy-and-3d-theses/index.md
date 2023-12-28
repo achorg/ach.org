@@ -2,6 +2,7 @@
 title: 'CFP for MLA 2018: Printable Pedagogy and 3D Theses'
 date: '2017-02-28'
 author: 'Brian Croxall'
+layout: 'layouts/news.11ty.js'
 ---
 Over the last decade, at roughly the same time that digital humanities methods and tools have appeared in language and literature classrooms and research, universities have made investments in 3D printing and makerspaces. And in a similar way to digital humanities, those working in modern languages might not immediately see how they could use fabrication technologies in their teaching and research.
 

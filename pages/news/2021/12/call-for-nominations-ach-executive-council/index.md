@@ -2,6 +2,7 @@
 title: 'Call for Nominations: ACH Executive Council (Q&A Event 12/15)'
 date: '2021-12-07'
 author: 'Quinn Dombrowski'
+layout: 'layouts/news.11ty.js'
 ---
 ACH seeks three new Executive Council Representatives to serve a 4-year term (2022-2026) as well as one or more Vice-President/President Elect(s). The current co-VPs will be available to answer questions via email, or at a [Zoom event on December 15th at 4 PM Eastern / 1 PM Pacific](https://members.ach.org/civicrm/event/info/?reset=1&id=16).
 

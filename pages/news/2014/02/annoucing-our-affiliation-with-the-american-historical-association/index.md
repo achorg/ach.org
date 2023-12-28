@@ -2,6 +2,7 @@
 title: 'Announcing our Affiliation with the American Historical Association'
 date: '2014-02-25'
 author: 'Jen Guiliano'
+layout: 'layouts/news.11ty.js'
 ---
 ACH is pleased to announce its formal affiliation with the [American Historical Association (AHA)](http://historians.org). Founded in 1884, the AHA is the largest historical professional organization in the US. With over 100 affiliated organizations, the Association devotes itself to the promotion of historical studies through the encouragement of research, teaching, and publication; the collection and preservation of historical documents and artifacts; the dissemination of historical records and information; the broadening of historical knowledge among the general public; and the pursuit of kindred activities in the interest of history.
 

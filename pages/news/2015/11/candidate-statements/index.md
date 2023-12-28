@@ -2,6 +2,7 @@
 title: 'Elections 2015: Candidate Statements'
 date: '2015-11-20'
 author: 'Alex Gil'
+layout: 'layouts/news.11ty.js'
 ---
 ACH members are entitled to vote in this year’s ACH’s election, in which a President, a Vice-President/President-elect, and three Executive Council members will be elected. The terms for all of these positions will begin at the close of the 2016 annual summer Executive Council meeting.
 

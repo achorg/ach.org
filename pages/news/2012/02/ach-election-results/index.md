@@ -1,6 +1,7 @@
 ---
 title: 'ACH election results'
 date: '2012-02-14'
+layout: 'layouts/news.11ty.js'
 ---
 We are pleased to announce the results of the 2012 elections at the Association for Computers and the Humanities.
 

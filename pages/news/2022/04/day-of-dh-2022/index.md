@@ -2,6 +2,7 @@
 title: 'Day of DH 2022'
 date: '2022-04-22'
 author: 'Jewon Woo'
+layout: 'layouts/news.11ty.js'
 ---
 During this year’s [Day of Digital Humanities](https://dhcenternet.org/initiatives/day-of-dh/2022), ACH volunteer Matthew Hannah [@tinkeringhuman](https://twitter.com/TinkeringHuman) will be organizing a Twitter conversation about labor within and around digital humanities/digital scholarship. After two years of COVID and now increasing inflation amid economic stagnation, questions of academic labor are more significant and precarious than ever before. Please join us on Day of DH 2022 to discuss the future of academic labor in digital scholarship, share your own labor experiences, generate ideas for more involvement from professional organizations, and share resources for supporting colleagues and comrades in their own labor. We will be tweeting using the following hashtags: **\#DayofDH2022** and **\#ACHLaborCaucus**. Folks who are interested in continuing the conversation beyond the Day of DH can join the public forum on Humanities Commons, where I will be sharing any resources or materials we may generate.
 

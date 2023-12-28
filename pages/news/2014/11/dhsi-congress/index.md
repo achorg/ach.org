@@ -2,6 +2,7 @@
 title: DHSI@Congress
 date: '2014-11-07'
 author: 'Constance Crompton'
+layout: 'layouts/news.11ty.js'
 ---
 The [<abbr title="Digital Humanities Summer Institue">DHSI</abbr>](http://dhsi.org), [<abbr title="Society for Digital Humanities">CSDH</abbr>/<abbr lang="fr" title="Société canadienne des humanités numériques">CSHN</abbr>](http://csdh-schn.org/) and [<abbr title="Federation for the Humanities and Social Sciences">CFHSS</abbr>](http://www.ideas-idees.ca/) are pleased to announce the [DHSI@Congress](http://www.dhsi.org/events.php), a series of 2.5-hour workshops for scholars, staff, and students interested in a hands-on introduction to the ways that traditional and digital methods of teaching, research, and dissemination intersect and enhance one another.
 

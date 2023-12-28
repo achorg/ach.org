@@ -2,6 +2,7 @@
 title: 'ACH 2020 Elections: Candidate Statements'
 date: '2020-03-10'
 author: 'Amanda Visconti'
+layout: 'layouts/news.11ty.js'
 ---
 Below are the statements from our candidates for the ACH 2020 election. This year, we will elect three Executive Council representatives and a Vice President/President Elect.
 

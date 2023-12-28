@@ -2,6 +2,7 @@
 title: 'Call for Participation: ACH @ MLA 2024 Panel on Digital Mapping'
 date: '2023-01-23'
 author: 'Jewon Woo'
+layout: 'layouts/news.11ty.js'
 ---
 At their most basic, spatial technologies offer a way to bring in useful context when researching or teaching literature. But to what end? What does it mean to digitally map a text? How might the map–a fiction itself–intersect with the study of fictional worlds? How might we countermap, using digital methods to contest dominant narratives, structures, or politics? Is the digital map a tool? A metaphor? Both?
 

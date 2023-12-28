@@ -2,6 +2,7 @@
 title: 'ACH Incubator Grants 2015 Call for Proposals: Knowing Our Past'
 date: '2015-04-02'
 author: 'Susan Brown'
+layout: 'layouts/news.11ty.js'
 ---
 Proposals due <del>30 April 2015</del> 22 May 2015 (deadline extended)
 

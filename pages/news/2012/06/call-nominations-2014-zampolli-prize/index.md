@@ -2,6 +2,7 @@
 title: 'Call for nominations for the 2014 Zampolli Prize'
 date: '2012-06-12'
 author: 'Jeremy Boggs'
+layout: 'layouts/news.11ty.js'
 ---
 The Zampolli Prize is a awarded every three years by The Alliance of Digital Humanities Organizations (ADHO) in recognition of an outstanding singular achievement in the Digital Humanities.
 

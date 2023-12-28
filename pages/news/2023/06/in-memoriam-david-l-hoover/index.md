@@ -2,6 +2,7 @@
 title: 'In memoriam David L. Hoover'
 date: '2023-06-05'
 author: 'Quinn Dombrowski'
+layout: 'layouts/news.11ty.js'
 ---
 
 The Association for Computers and the Humanities is sad to share the news of David L. Hoover’s passing on May 25, 2023. David served on the ACH Executive Board from 2005 to 2008, and as Vice-President in 2006-2007. For decades, he was among the most faithful presences at the annual DH conference (remarkably, he presented a paper at [every DH conference from 2001 through 2020](https://dh-abstracts.library.virginia.edu/authors/23)). David has also long been an instructor at the Digital Humanities Summer Institute, and a productive contributor to our community’s scholarly journals, edited collections, and monographs. David is survived by his wife, Danise, and their three children, Rachel, Peter, and Mary Kate.

@@ -2,6 +2,7 @@
 title: 'Methods and More for “Beyond the Digital” at MLA 2014'
 date: '2013-12-30'
 author: 'Brian Croxall'
+layout: 'layouts/news.11ty.js'
 ---
 On Friday, January 10 from 5:15-6:30pm in Sheraton I at the [Sheraton Chicago](https://maps.google.com/maps?q=Sheraton+Chicago+Hotel+and+Towers&ll=41.894738,-87.629442&spn=0.043829,0.090895&t=m&hq=Sheraton+Chicago+Hotel+and+Towers&z=14&iwloc=A), the ACH will sponsor a session ([\#402](http://www.mla.org/program_details?prog_id=402&year=2014)) at the Modern Language Association’s Convention.
 

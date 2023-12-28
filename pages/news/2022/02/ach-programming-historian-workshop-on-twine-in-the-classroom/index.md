@@ -2,5 +2,6 @@
 title: 'ACH Programming Historian Workshop on Twine in the Classroom'
 date: '2022-02-15'
 author: 'Jewon Woo'
+layout: 'layouts/news.11ty.js'
 ---
 The ACH mentoring group is sponsoring a yearlong, public book club based on the English-language version of *Programming Historian*. Open to all (including non-members of ACH), newcomers to the topic and to digital humanities work through a *Programming Historian* lesson together in a supportive environment with one or two more experienced participants able to help and answer questions. The workshop this semester will take place on April 13th from 3:00-4:30, featuring one of the most recent articles in the journal “[Interactive Fiction in the Humanities Classroom: How to Create Interactive Text Games Using Twine](https://ach.us2.list-manage.com/track/click?u=dedf14e24c9607061dd051606&id=377e56dbda&e=f813d57106)” presented by its author Dr. Gabi Kirilloff. [Registration is required to receive the Zoom link](https://ach.us2.list-manage.com/track/click?u=dedf14e24c9607061dd051606&id=e34818a981&e=f813d57106). Please join us!

@@ -2,6 +2,7 @@
 title: 'ACH 2014 Elections: Call for Nominations'
 date: '2014-10-22'
 author: 'Glen Worthey'
+layout: 'layouts/news.11ty.js'
 ---
 **Due date: October 31, 2014**
 

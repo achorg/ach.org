@@ -2,6 +2,7 @@
 title: 'ACH announces Microgrants winners!'
 date: '2012-04-19'
 author: 'Bethany Nowviskie'
+layout: 'layouts/news.11ty.js'
 ---
 The Association for Computers and the Humanities is very pleased to announce the winners of our 2012 Microgrants competition!
 

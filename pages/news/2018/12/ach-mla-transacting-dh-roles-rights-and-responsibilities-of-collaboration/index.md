@@ -2,6 +2,7 @@
 title: 'ACH @ MLA: Transacting DH: Roles, Rights, and Responsibilities of Collaboration'
 date: '2018-12-28'
 author: 'Lisa Marie Rhody'
+layout: 'layouts/news.11ty.js'
 ---
 Session 487  
 Saturday, January 5 at 12:00 PM  

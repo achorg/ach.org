@@ -2,6 +2,7 @@
 title: 'Slide Show from the Job Slam at the ACH General Meeting'
 date: '2017-08-25'
 author: 'Lisa Marie Rhody'
+layout: 'layouts/news.11ty.js'
 ---
 Participants at the Job Slam during ACH’s Annual General Meeting requested that the slides be made available for later use. With apologies for the two week delay, the slides are now available. Many thanks for your patience. Thanks so much to all those who participated and for the enthusiasm and support shown by our membership. We look forward to running a similar event at DH 2018!
 

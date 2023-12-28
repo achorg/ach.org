@@ -2,6 +2,7 @@
 title: 'ACH Executive Council 2022 Elections Results'
 date: '2022-03-23'
 author: 'Jewon Woo'
+layout: 'layouts/news.11ty.js'
 ---
 The Association for Computers and the Humanities is pleased to announce the results of our 2022 elections. We had a slate of stellar candidates, and we are grateful to all the digital humanities practitioners for rising to the occasion of being nominees and willing to work at this organizational level.
 
