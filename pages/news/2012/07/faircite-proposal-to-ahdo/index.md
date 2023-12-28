@@ -32,26 +32,23 @@ This proposal describes two things: first, a set of general best practices to pr
 ### Appendix: Additional issues and questions for further discussion by ADHO members
 
 1. In the initial FairCite discussions, responses were varied concerning who should decide whom to credit, and how that decision should be made:
-
-- it should be up to the individual project, based on their local culture; it should be treated as an internal matter
-- there should be public moral pressure and a sense of best practice, but there is no role for anything like a 'standard' practice
-- there should be an articulated best practice; it's a matter of public concern and a legitimate domain for standard-setting
+   - it should be up to the individual project, based on their local culture; it should be treated as an internal matter
+   - there should be public moral pressure and a sense of best practice, but there is no role for anything like a 'standard' practice
+   - there should be an articulated best practice; it's a matter of public concern and a legitimate domain for standard-setting
 
 2. In the initial FairCite discussions, responses were even more varied concerning whom should be credited. The responses can be summarized roughly as follows:
-
-- credit for project work is good…
-- but is unrelated to citation
-- but is poorly handled by citation; better to use a portfolio or other approach
-- but citation is an irrelevant or damaging mechanism
-- and should be handled through citation…
-  - and could be standardized
-  - but has to be handled on a case-by-base basis
-- credit for project work is unimportant
-- credit for project work is undesirable
+   - credit for project work is good…
+   - but is unrelated to citation
+   - but is poorly handled by citation; better to use a portfolio or other approach
+   - but citation is an irrelevant or damaging mechanism
+   - and should be handled through citation…
+     - and could be standardized
+     - but has to be handled on a case-by-base basis
+   - credit for project work is unimportant
+   - credit for project work is undesirable
 
 3. The initial FairCite discussions also included the question of how best to credit people, with focus on the following issues:
-
-- the issue of how much detail to include, and of what terminology to use
-- the question of whether it is possible or desirable to use standard descriptions of roles
-- the question of whether to distinguish between "intellectual" and "technical" work, between "content" and "infrastructure" work
-- the problem of crediting third-party contributors who developed components used
+   - the issue of how much detail to include, and of what terminology to use
+   - the question of whether it is possible or desirable to use standard descriptions of roles
+   - the question of whether to distinguish between "intellectual" and "technical" work, between "content" and "infrastructure" work
+   - the problem of crediting third-party contributors who developed components used

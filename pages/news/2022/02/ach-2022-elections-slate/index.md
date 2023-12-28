@@ -117,7 +117,7 @@ As vice president, I would promote three main ideas:
 2. Fostering conversations on ways that digital humanists can contribute to diverse open source communities.
 3. Build on existing initiatives for diversity and multilingualism among the ACH membership.
 
-## Lauren Tilton
+### Lauren Tilton
 
 #### Bio
 
