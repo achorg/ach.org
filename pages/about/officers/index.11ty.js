@@ -1,4 +1,4 @@
-const Officer = require("../../src/components/Officer.js");
+const Officer = require("../../../src/components/Officer.js");
 
 module.exports = {
   data: {
