@@ -35,7 +35,7 @@ All of the code we used in this project is available online on the [Networked Co
 
 ## Works Cited
 
-McCallum, Andrew Kachites. “MALLET: A Machine Learning for Language Toolkit.” http://mallet.cs.umass.edu. 2002. Online.  
+McCallum, Andrew Kachites. “MALLET: A Machine Learning for Language Toolkit.” <http://mallet.cs.umass.edu>. 2002. Online.  
 Bender, John, and Michael Marrinan. *The Culture of Diagram*. Stanford: Stanford University Press, 2010. Print.  
 Ong, Walter J. *Ramus, Method, and the Decay of Dialogue: Fro the Art of Discourse to the Art of Reason*. Chicago (; London: The University of Chicago Press, 2004. Print.  
 Ong, Walter Jackson. *Orality and Literacy*. London; New York: Routledge, 2002. Print.  

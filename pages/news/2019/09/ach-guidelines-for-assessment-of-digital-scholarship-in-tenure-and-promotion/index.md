@@ -54,17 +54,17 @@ Digital projects take a variety of forms. These include the production and/or pu
   - Demonstrate clear goals and learning objectives for incorporating digital media, tools, activities into classroom use;
   - Demonstrate the value of courses focused on learning digital methods.
 - Document the prestige rankings of online publication sites, in particular, the use of peer review and acceptance rates; distinguish self-published and/or repository publication from peer-reviewed publication;
-- The relationship of design, content, and medium should be documented 
+- The relationship of design, content, and medium should be documented
   - The intellectual contribution of each work should be explicitly presented
   - Authors of digital tools, platforms, and other projects should subject their work to peer review prior to tenure and promotion review, where possible
   - Long term viability of the project should be considered
   - Provide explanatory narratives of project development and value
   - Document technical competence as applicable:
-      - Knowledge and use of technical standards (TEI, XML, GIS, statistical standards, etc.)
-      - Solidity of database design (metadata standards, fields etc.)
-      - Interoperability with existing resources (as appropriate)
-      - Show how the project fulfills its goals by using the digital media
-      - State where the project lives and who is responsible for its maintenance
+    - Knowledge and use of technical standards (TEI, XML, GIS, statistical standards, etc.)
+    - Solidity of database design (metadata standards, fields etc.)
+    - Interoperability with existing resources (as appropriate)
+    - Show how the project fulfills its goals by using the digital media
+    - State where the project lives and who is responsible for its maintenance
   - Document collaboration: roles, responsibilities, and contributions for collaborative work
   - Document and explain the contribution of the work
   - Document grant successes, network building
@@ -77,7 +77,7 @@ Digital projects take a variety of forms. These include the production and/or pu
 ## Departmental responsibilities
 
 - The expectation that digital tools, platforms, and other projects of sufficient depth are considered scholarship should be built into the hiring process as appropriate, but also, the recognition that digital projects can be constituted as data, metadata, archives, repositories, and scholarly materials in digital format;
-- The relationship of design, content, and medium should be documented 
+- The relationship of design, content, and medium should be documented
   - Request assessment letters from experts who have knowledge of digital projects as part of the dossier
   - Make the criteria for assessment explicit at hiring
   - Recognize the often on-going, iterative, or open-ended nature of digital projects and establish criteria for assessing work in progress

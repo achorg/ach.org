@@ -5,7 +5,7 @@ author: 'Lisa Marie Rhody'
 ---
 **Co-sponsored with the MLA Committee on Scholarly Editions**
 
-*Co-organizers: Susan Brown (MLA Committee for Scholarly Editions) and Lisa Rhody (Association for Computers and the Humanities)*   
+*Co-organizers: Susan Brown (MLA Committee for Scholarly Editions) and Lisa Rhody (Association for Computers and the Humanities)*
 
 **Date**: Friday, January 4, 2019  
 **Time**: 10:15 – 11:30 AM  

@@ -19,7 +19,7 @@ Is this your first or second time at the Digital Humanities conference? Are you 
 
 Dinners will happen the evening of Thursday, 10 July. For ease of conversation, groups are limited to six people. Long-term ACH members and other DH conference veterans are heartily encouraged to volunteer! [Sign up and learn more](http://bit.ly/ach-dinner-dh14).
 
-## Please Ask, Do Tell!
+## Please Ask, Do Tell
 
 Looking for professional advice or job opportunities? Willing to share some professional advice or news of job opportunities? Use our Please Ask, Do Tell stickers to let conference attendees know!
 

@@ -73,7 +73,7 @@ My experience in DH extends across university libraries, archives, and museums. 
 
 #### Statement
 
-I am most interested in ACH’s mentoring and job support programs (http://ach.org/activities/mentoring/). The mentoring work I have done as a professor and a librarian has been the most rewarding experience of my career. The most significant question for me is: How can we grow the digital humanities community and help people find jobs they love?
+I am most interested in ACH’s mentoring and job support programs (<http://ach.org/activities/mentoring/>). The mentoring work I have done as a professor and a librarian has been the most rewarding experience of my career. The most significant question for me is: How can we grow the digital humanities community and help people find jobs they love?
 
 ## Vice President/President-Elect
 

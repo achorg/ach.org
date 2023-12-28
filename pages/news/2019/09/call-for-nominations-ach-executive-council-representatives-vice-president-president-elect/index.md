@@ -17,7 +17,7 @@ The ACH supports and disseminates research and cultivates a vibrant professional
 
 We are committed to offering our membership a diverse slate of candidates. We especially hope for a slate of candidates that is diverse as to race, ethnicity, gender, sexuality, class, ability, profession, citizenship, nationality, and other identities and backgrounds.
 
-Demonstrated commitment to the ACH and/or to DH is more important to our work than professional affiliation, academic/professional status, or job title. We welcome participants not just from universities and colleges, but also galleries, libraries, museums, community groups, and other organizations engaged with the digital humanities. We seek folks with and without academic or professional degrees, including both current students and folks not pursuing formal degrees. 
+Demonstrated commitment to the ACH and/or to DH is more important to our work than professional affiliation, academic/professional status, or job title. We welcome participants not just from universities and colleges, but also galleries, libraries, museums, community groups, and other organizations engaged with the digital humanities. We seek folks with and without academic or professional degrees, including both current students and folks not pursuing formal degrees.
 
 ## Council activities
 
@@ -25,17 +25,17 @@ ACH officers and other Executive Council representatives develop and uphold ACH 
 
 ## Nominations
 
-You are welcome to self-nominate, as well as nominate others, using the nomination [form](https://forms.gle/fPvkiF4C3jxC6Gkv6). 
+You are welcome to self-nominate, as well as nominate others, using the nomination [form](https://forms.gle/fPvkiF4C3jxC6Gkv6).
 
-Names and email addresses are due by 12/1/2019, and candidate materials (written answers to two questions) are due by 12/15/2019. You may fill out all your information now, or just fill out name and email address (by 12/1/2019) and provide candidate materials at a later date (by 12/15/2019), either via the [form](https://forms.gle/fPvkiF4C3jxC6Gkv6) or by emailing Nominations@ach.org with updated text. 
+Names and email addresses are due by 12/1/2019, and candidate materials (written answers to two questions) are due by 12/15/2019. You may fill out all your information now, or just fill out name and email address (by 12/1/2019) and provide candidate materials at a later date (by 12/15/2019), either via the [form](https://forms.gle/fPvkiF4C3jxC6Gkv6) or by emailing Nominations@ach.org with updated text.
 
 Sample candidate statements from past elections are available at [http://ach.org/news/2018/03/ach2018-elections-candidate-statements/](/news/2018/03/ach2018-elections-candidate-statements/), though please note we’ve changed the questions and added a maximum word cap this year. For more information on the responsibilities and obligations of Executive Council members, please see [http://www.ach.org/about/constitution](/news/2018/03/ach2018-elections-candidate-statements/), though please note we’ve changed the questions and added a maximum word cap this year. For more information on the responsibilities and obligations of Executive Council members, please see [http://www.ach.org/about/constitution](/about/constitution). Please email Nominations@ach.org if you’re curious about serving on the Executive Council, but have questions or are uncertain whether you’re eligible.
 
 ## ACH Executive Council Representative
 
-The Executive Council is the basic policy making organ of ACH. Its representatives serve the organization by forming and serving on committees such as Advocacy, Membership, and Infrastructure, and by actively working together to support the organization. 
+The Executive Council is the basic policy making organ of ACH. Its representatives serve the organization by forming and serving on committees such as Advocacy, Membership, and Infrastructure, and by actively working together to support the organization.
 
-Anyone who is a current ACH member (or who is willing to join ACH if elected) and wants to help us do our best at representing and advocating for our membership and other digital humanists is eligible. Folks who are new to DH and/or to the ACH are encouraged to bring their viewpoint to our organization’s governing body as Executive Council representatives. 
+Anyone who is a current ACH member (or who is willing to join ACH if elected) and wants to help us do our best at representing and advocating for our membership and other digital humanists is eligible. Folks who are new to DH and/or to the ACH are encouraged to bring their viewpoint to our organization’s governing body as Executive Council representatives.
 
 Candidates running for this position are expected to serve on multiple committees and devote time and volunteer effort to the sustenance of the organization. Executive Council representatives participate in a quarterly call in which the Council discusses ACH business and officers and committee chairs provide updates on ongoing ACH efforts; representatives also participate in monthly committee work that may involve additional calls. The term length is four years.
 

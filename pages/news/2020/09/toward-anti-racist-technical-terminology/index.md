@@ -20,7 +20,7 @@ As a collaborative living document, ACH will continue to update the terms over t
 The recently released [version 2.28 of the git](https://github.blog/2020-07-27-highlights-from-git-2-28/) distributed control system makes the default branch configurable, instead of hard-coding to master when creating new repositories. You can set a new default name for future repositories like this:
 
 1. Upgrade git to version 2.28
-2. Configure your preferred default branch name, e.g.:   
+2. Configure your preferred default branch name, e.g.:
 `git config --global init.defaultBranch main`
 
 #### GitHub
@@ -38,7 +38,7 @@ Use the same approach in the [how-to for replacing master with main on GitHub](h
 
 Choose alternate terms. In the context of version control, common alternatives are main and primary; for servers, host/client; for data, consider using primary or canonical.
 
-### Want to learn more? 
+### Want to learn more?
 
 For more information, read this recent [twitter thread by Mislav Marohnić](https://twitter.com/mislav/status/1270388510684598272?s=20) on the use of “master” in technology, including a reference to the source of the naming convention in git. This [CNN article on every-day words and phrases that are racist](https://www.cnn.com/2020/07/06/us/racism-words-phrases-slavery-trnd/index.html) includes a brief section on technology with links and dates for when three major platforms and programming languages (Drupal, Django, and Python) replaced this terminology. For a different consideration of the term, you may be interested in [Shaun Morris’ essay on possibilities around changing the Scrum Master title](https://medium.com/@shaundmorris/to-change-scrum-master-or-not-to-change-scrum-master-that-is-the-question-8b503cd43e89).
 

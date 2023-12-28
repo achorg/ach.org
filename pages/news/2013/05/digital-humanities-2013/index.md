@@ -25,7 +25,7 @@ Dinners will happen the evening of Wednesday, 17 July, with parties departing fr
 
 This is a very casual outing where all current participants in the ACH Mentoring program are invited to a local pub or bar to chat with one another. The first round of refreshments is offered by the ACH. This year’s edition will take place at the [Starlite Lounge](http://www.buzzardbillys.com/lincoln/the-starlite-lounge/), Thursday July 18th at 7pm (247 N 8th St, Suite 101, Lincoln NE 68508).
 
-## Please Ask, Do Tell!
+## Please Ask, Do Tell
 
 After a hiatus of a couple of years the "Please Ask! Do Tell!" stickers will be back with a vengeance, complete with a new design. Don’t be shy, ask and tell!
 

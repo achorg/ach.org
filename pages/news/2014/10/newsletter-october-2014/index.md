@@ -51,7 +51,7 @@ The ACH Affiliations Committee is delighted that we will be sponsoring sessions 
 - [Visualization and Digital History: Techniques and Demonstrations](https://aha.confex.com/aha/2015/webprogram/Session12219.html)
 - [Authoring Digital Scholarship for History: Challenges and Opportunities](https://aha.confex.com/aha/2015/webprogram/Session12203.html)
 
-Visit the [AHA Affiliates Program ](https://aha.confex.com/aha/2015/webprogram/affiliate401.html)for more information.
+Visit the [AHA Affiliates Program](https://aha.confex.com/aha/2015/webprogram/affiliate401.html)for more information.
 
 ### Modern Language Association Convention, Vancouver, January 8–11, 2015
 

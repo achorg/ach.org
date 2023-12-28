@@ -32,7 +32,7 @@ To the infinite amusement of my co-seminarians in Janet Lyon’s Yeats course, I
     4. **1st Person** — Speaker acts as 1st person narrator
     5. **Juxtaposed** — Bare quotes without narrative infrastructure
     6. **Dramatic** — Set up like a play with speaker labels
-    7. **Choral** — Uses refrains or choruses 
+    7. **Choral** — Uses refrains or choruses
     1. **Simple** — No other quotation system involved
     2. **Framed-quote** — Chorus is a 3rd person narrated quotation
     3. **Narration** — Chorus is narrative infrastructure for verses

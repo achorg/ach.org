@@ -12,19 +12,19 @@ We are pleased to post notes from the 2014 AGM, which took place at the [Digital
 
 ## Updates
 
-- Over the past year we continued to provide support for DH endeavors 
+- Over the past year we continued to provide support for DH endeavors
   - DHSI student bursaries (leveraged to find additional funding!)
   - contributions to Balisage through the occasional funding process
   - DHQ contributions additional to ADHO’s
   - Humanist contribution
   - ADHO-level SIGs and efforts
 - Membership in ACH and ADHO, and institutional subscriptions to LLC, allow us to do what we do. Please check with your library and confirm that your institution is subscribed to LLC. This would help the organization a lot!
-- Our mentoring activities have slowed down a bit, but the portfolio is now turned over to Brian Croxall, and will be reinvigorated. Mentoring is for jobs, for projects, for professional development, therapy as needed… And there’s also the job slam that we run at the annual general meeting! 
+- Our mentoring activities have slowed down a bit, but the portfolio is now turned over to Brian Croxall, and will be reinvigorated. Mentoring is for jobs, for projects, for professional development, therapy as needed… And there’s also the job slam that we run at the annual general meeting!
   - On an informal note, if you’re free Thursday evening of the conference, we’re again running a newcomers’ dinner. Small groups go out to dinner, consisting of a mix of DH conference veterans with people who are at their first or second conference. This is a way to meet people, start networking. There’s an open Google Doc for signups.
-- Microgrants (Susan Brown updates): 
+- Microgrants (Susan Brown updates):
   - This is the third year we’ve run the program, rewarding young scholars and students for their contributions.
   - This year, [four projects were awarded microgrants](/news/2014/07/ach_microgrants_winners_2014/)
-- Affiliations (Jen Guiliano updates) 
+- Affiliations (Jen Guiliano updates)
   - For the first time, ACH is announcing an affiliations committee whose aim is to broaden our relationships with other professional societies, organizations, and initiatives.
   - MLA is a long-standing partner at whose conference we offer sessions and other events
   - A new partner is the American History Association, at whose January conference we’ll be sponsoring four panels

@@ -57,4 +57,4 @@ Recent discussions include [Named Entity Recognition Tools for finding dates and
 
 Keep in touch with the ACH online at [Twitter @achdotorg](http://twitter.com/achdotorg), [Facebook](http://www.facebook.com/ACHorg) or [our website](/news/).
 
-As always, the [Humanist mailing list](http://dhhumanist.org/) features job posts, calls for papers and discussion of a range of issues in the digital humanities. 
+As always, the [Humanist mailing list](http://dhhumanist.org/) features job posts, calls for papers and discussion of a range of issues in the digital humanities.

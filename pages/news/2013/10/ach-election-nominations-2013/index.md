@@ -13,7 +13,7 @@ To be confirmed as an ACH officer or Executive Council member, candidates must b
 
 Send nominations to [nominations@ach.org](mailto:nominations@ach.org) by October 31st, 2013. Please confirm with your nominee that he or she is willing to serve, and:
 
-- Put one of the following in the subject line, as appropriate: 
+- Put one of the following in the subject line, as appropriate:
   - Executive Council nomination
   - ACH President nomination
   - ACH Vice President nomination
@@ -33,6 +33,6 @@ Ernesto Priego, City University London
 Jennifer Guiliano, MITH
 Johanna Drucker, UCLA
 
-**Ex officio member** 
- 
+**Ex officio member**
+
 Stefan Sinclair, ACH Vice President

@@ -16,26 +16,31 @@ This session will consider what the rights, roles and responsibilities associate
 ## Presenter Information
 
 **Kathleen Fitzpatrick**  
+
 - [Twitter](http://twitter.com/kfitzpatrick)
 - [Website](http://kfitz.info)
 - [Humanities Commons](https://hcommons.org/members/kfitz/)
 
 **Carrie Johnston**  
+
 - [Twitter](http://twitter.com/CarrieEJohnston)
 - [Website](http://drcarriejohnston.com)
 - [Humanities Commons](https://hcommons.org/members/carrie_johnston/)
 
 **Rikk Mulligan**  
+
 - [Twitter](http://twitter.com/CritRikk)
 - [Website](http://rikkmulligan.com)
 - [Humanities Commons](https://hcommons.org/members/rikkm/)
 
-**Lisa Rhody**   
+**Lisa Rhody**
+
 - [Twitter](http://twitter.com/lmrhody)
 - [Website](http://lisarhody.com)
 - [Humanities Commons](https://hcommons.org/members/lmrhody/)
 
 **Dhanashree Thorat**  
+
 - [Twitter](http://twitter.com/shree_thorat)
 - [Website](http://dhanashreethorat.com)
 
