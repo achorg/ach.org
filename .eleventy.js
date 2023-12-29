@@ -7,7 +7,8 @@ module.exports = function (eleventyConfig) {
   );
 
   return {
-    templateFormats: ["11ty.js", "md", "html"],
+    templateFormats: ["11ty.js", "md"],
+    markdownTemplateEngine: false,
 
     dir: {
       input: "pages",
