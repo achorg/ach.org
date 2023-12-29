@@ -4,8 +4,8 @@
   "description": "11ty site for ach.org",
   "main": "index.js",
   "scripts": {
-    "build": "npx @11ty/eleventy",
-    "start": "npx @11ty/eleventy --serve"
+    "start": "eleventy --serve & tailwindcss -i src/styles.css -o _site/styles.css --watch --postcss",
+    "build": "ELEVENTY_PRODUCTION=true eleventy && NODE_ENV=production tailwindcss -i src/styles.css -o _site/styles.css --postcss --minify"
   },
   "keywords": [],
   "author": "",
