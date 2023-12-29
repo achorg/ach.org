@@ -7,7 +7,7 @@ module.exports = {
   },
   async render() {
     return `
-      <p>All terms begin and end with the close of the annual summer Executive Council meeting or (in the event no Executive Council meeting is held in the summer) on August 1st in the years listed. See also the list of [ACH Office and Council alumni](/about/alumni/), who have all our gratitude.</p>
+      <p>All terms begin and end with the close of the annual summer Executive Council meeting or (in the event no Executive Council meeting is held in the summer) on August 1st in the years listed. See also the list of <a href="/about/alumni/">ACH Office and Council alumni</a>, who have all our gratitude.</p>
 
       <h2>Executive Officers</h2>
 
