@@ -23,7 +23,8 @@ class BaseLayout {
           <meta name="twitter:card" content="summary" />
           <meta name="twitter:title" content="${data.title}" />
           <meta name="twitter:description" content="${description}" />
-          <link rel="stylesheet" href="/styles.css?v=${new Date().getTime()}">     
+          <link rel="stylesheet" href="/fonts/libre-franklin.css?v=${new Date().getTime()}">
+          <link rel="stylesheet" href="/styles.css?v=${new Date().getTime()}">
         </head>
         <body>
           <a href="#main-content" class="skip-link">Skip to main content</a>

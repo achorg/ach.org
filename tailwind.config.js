@@ -8,7 +8,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        sans: ["forma-djr-display", "sans-serif"],
+        sans: ["Libre Franklin Variable", "sans-serif"],
       },
       fontWeight: {
         hairline: "100",
