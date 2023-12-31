@@ -1,4 +1,5 @@
 const { formatDate, authorLine } = require("../utils.js");
+const Breadcrumbs = require("../components/Breadcrumbs.js");
 
 const faArrowLeft = `
   <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 448 512" class="icon mr-2" aria-hidden="true" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
@@ -30,6 +31,12 @@ class NewsLayout {
     );
 
     return `
+      <section class="boxed-regular">
+        ${Breadcrumbs([
+          { title: "News", url: "/news/" },
+          { title: data.title, url: data.url },
+        ])}
+      </section>
       <article
         class="news-post boxed-regular"
         itemScope
