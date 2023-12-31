@@ -37,15 +37,15 @@ module.exports = {
       <section class="boxed-regular grid grid-cols-2 gap-4">
         <div class="flex justify-start">
         ${
-          data.pagination.href.previous
-            ? `<a class="button-pill button-accent !flex items-center" href="${data.pagination.href.previous}">${faArrowLeft}Newer News</a>`
+          data.pagination.href.next
+            ? `<a class="button-pill button-accent !flex items-center" href="${data.pagination.href.next}">${faArrowLeft}Older News</a>`
             : ""
         }
         </div>
         <div class="flex justify-end">
         ${
-          data.pagination.href.next
-            ? `<a class="button-pill button-accent !flex items-center" href="${data.pagination.href.next}">Older News${faArrowRight}</a>`
+          data.pagination.href.previous
+            ? `<a class="button-pill button-accent !flex items-center" href="${data.pagination.href.previous}">Newer News${faArrowRight}</a>`
             : ""
         }
         </div>
