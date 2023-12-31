@@ -2,6 +2,7 @@ const { description } = require("../src/site-metadata.js");
 
 const Hero = require("../src/components/Hero.js");
 const CallToAction = require("../src/components/CallToAction.js");
+const NewsItems = require("../src/components/NewsItems.js");
 
 module.exports = {
   data: {
@@ -21,7 +22,11 @@ module.exports = {
         </section>
         <section class="boxed-regular">
           <h2 class="section-title">The latest from ACH</h2>
-          -- RECENT POSTS --
+          ${NewsItems(
+            data.collections.news.toReversed().slice(0, 6),
+            "h3",
+            "grid",
+          )}
         </section>
         <section class="boxed-fullwidth">
 
