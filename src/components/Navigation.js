@@ -23,7 +23,7 @@ const faChevronUp = `
 `;
 
 const navigationItem = (link, currentUrl) => {
-  const active = currentUrl === link.link;
+  const active = currentUrl && currentUrl.startsWith(link.link);
   return `
     <li>
       <a href=${link.link}
