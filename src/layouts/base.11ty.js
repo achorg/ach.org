@@ -25,6 +25,7 @@ class BaseLayout {
           <meta name="twitter:description" content="${description}" />
           <link rel="stylesheet" href="/fonts/libre-franklin.css?v=${new Date().getTime()}">
           <link rel="stylesheet" href="/styles.css?v=${new Date().getTime()}">
+          <link rel="alternate" type="application/rss+xml" title="ACH News RSS Feed" href="/rss.xml">
         </head>
         <body>
           <a href="#main-content" class="skip-link">Skip to main content</a>

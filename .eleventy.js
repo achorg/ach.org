@@ -1,4 +1,5 @@
 const { EleventyHtmlBasePlugin } = require("@11ty/eleventy");
+const pluginRss = require("@11ty/eleventy-plugin-rss");
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ "./static/": "/" });
@@ -14,9 +15,10 @@ module.exports = function (eleventyConfig) {
   );
 
   eleventyConfig.addPlugin(EleventyHtmlBasePlugin);
+  eleventyConfig.addPlugin(pluginRss);
 
   return {
-    templateFormats: ["11ty.js", "md"],
+    templateFormats: ["11ty.js", "md", "njk"],
     markdownTemplateEngine: false,
 
     dir: {
