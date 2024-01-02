@@ -2,7 +2,7 @@
 title: 'Call for Program Committee Members: ACH2019'
 date: '2018-01-22'
 author: 'Jen Guiliano'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 The Association for Computers and the Humanities, in conjunction with Carnegie Mellon University, Duquesne University, and the University of Pittsburgh issues a call for nominations and self-nominations to serve as a member of the 2019 Program Committee for its first-ever Digital Humanities conference. Held in Pittsburgh, Pennsylvania in Summer 2019, the conference is convened by Association for Computers and the Humanities to encourage the development of the digital humanities from diverse perspectives, communities, and organizations. A six-person committee to manage the program is being convened to develop the conference program. To broaden participation from our membership and to respond to calls for greater diversity in leadership, ACH welcomes its membership to serve on this important committee.
 

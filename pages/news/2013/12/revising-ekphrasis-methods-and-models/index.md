@@ -2,7 +2,7 @@
 title: 'Revising Ekphrasis: Methods and Models'
 date: '2013-12-30'
 author: 'Lisa Marie Rhody'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 When Brian Croxall asked each of our roundtable participants to write a blog post in advance of MLA describing our methodologies, he mentioned that he’d prefer a minimum of 500 words. Our maximum limit, however, he described as “whatever it takes.” I doubt he would have predicted an over 113-page post with 4 extended appendices, but that is, as best as I can determine, what it would take to explain how I got to the point at which I felt prepared to begin making statements about ekphrasis that extend from topic modeling and social network analysis.
 

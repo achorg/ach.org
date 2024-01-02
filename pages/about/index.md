@@ -1,6 +1,6 @@
 ---
 title: "About ACH"
-layout: "layouts/page.11ty.js"
+layout: "templates/page.11ty.js"
 ---
 
 The Association for Computers and the Humanities (ACH) is the US-based professional society for the digital humanities. We support and disseminate research and cultivate a vibrant professional community through conferences, publications, and outreach activities.

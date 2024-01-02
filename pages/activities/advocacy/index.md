@@ -1,6 +1,6 @@
 ---
 title: "Advocacy"
-layout: "layouts/page.11ty.js"
+layout: "templates/page.11ty.js"
 ---
 
 As a professional association for the digital humanities, ACH performs an important advocacy role. We develop and share position papers on issues of importance to our members, partner with other organizations to advocate for key positions, and support initiatives that help track and intervene in the central political debates that affect our work.

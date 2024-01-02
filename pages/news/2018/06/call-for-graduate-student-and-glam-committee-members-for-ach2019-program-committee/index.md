@@ -2,7 +2,7 @@
 title: 'Call for Graduate Student and GLAM Committee Members for ACH2019 Program Committee'
 date: '2018-06-05'
 author: 'Jen Guiliano'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 Recognizing how the digital humanities bridge conventional academic distinctions, The Association of Computers and Humanities (ACH) seek two members to join the organizing committee for the 2019 program committee from across the field, including: those working in Galleries, Libraries, Archives and Museums as well as early-career graduate students with interests in digital scholarship. We are ideally looking for one representative from the graduate student community and one representative from the cultural heritage community.
 

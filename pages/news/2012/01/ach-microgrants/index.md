@@ -2,7 +2,7 @@
 title: 'ACH Microgrants'
 date: '2012-01-27'
 author: 'Kathleen Fitzpatrick'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 **ACH Microgrants: Web Development and Scholarly Communication**  
 Proposals Due 25 February 2012  

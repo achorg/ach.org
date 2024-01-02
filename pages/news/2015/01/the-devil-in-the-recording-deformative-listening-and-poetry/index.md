@@ -2,7 +2,7 @@
 title: 'The Devil in the Recording: Deformative Listening and Poetry'
 date: '2015-01-07'
 author: 'Lisa Marie Rhody'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 (The following by Brandon Walsh, which is cross-posted from his [personal website](http://bmw9t.github.io/), precedes his upcoming talk at the ACH-sponsored MLA panel “[Digital Deformance and Scholarly Forms](http://www.mla.org/program_details?prog_id=292&year=2015)” on January 9, 2015 in room 212 of the WEST Vancouver Convention Center. Panelists were invited to share their thoughts about methodology in advance of Friday’s panel in efforts to foreground considerations of interpretation over process. If you are unable to attend our upcoming panel, you can follow us on Twitter using the hashtags #mla15 and #s292.)
 

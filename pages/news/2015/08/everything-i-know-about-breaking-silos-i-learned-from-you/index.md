@@ -2,7 +2,7 @@
 title: 'Everything I Know About Breaking Silos I Learned From You, It’s True: Lessons From Crossing Disciplinary Boundaries at HASTAC 2015'
 date: '2015-08-24'
 author: 'Caitlin Christian-Lamb'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 *Editor’s note: The ACH awarded [Caitlin Christian-Lamb](http://caitlinchristianlamb.com/) a bursary to attend HASTAC 2015. The award came with an invitation to reflect on the experience in our blog.*
 

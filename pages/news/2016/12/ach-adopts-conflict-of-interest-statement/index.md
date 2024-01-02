@@ -2,7 +2,7 @@
 title: 'ACH Adopts Conflict of Interest Statement'
 date: '2016-12-22'
 author: 'Brian Croxall'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 At the annual ACH Executive Council meeting in Kraków during the Digital Humanities 2016 conference, the Council discussed a possible conflict of interest policy. The discussion was not motivated by any particular incident but instead by the desire to make explicit the expectations and behaviors that the Officers and members of the Council already believed in. The Council also desired to bring the ACH into line with similar scholarly organizations that had similar policies in place.
 

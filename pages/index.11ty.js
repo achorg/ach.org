@@ -6,7 +6,7 @@ const NewsItems = require("../src/components/NewsItems.js");
 
 module.exports = {
   data: {
-    layout: "layouts/base.11ty.js",
+    layout: "templates/base.11ty.js",
     title: "Home",
     description,
     usingHero: true,

@@ -2,7 +2,7 @@
 title: 'My week at DHSI'
 date: '2014-06-25'
 author: 'Cammeron Girvin'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 *Editor’s note: The ACH awarded Cammeron Girvin a student travel bursary to attend this summer’s Digital Humanities Summer Institute. The award came with an invitation to reflect on the experience in our blog.*
 

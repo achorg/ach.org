@@ -2,7 +2,7 @@ const Officer = require("../../../src/components/Officer.js");
 
 module.exports = {
   data: {
-    layout: "layouts/page.11ty.js",
+    layout: "templates/page.11ty.js",
     title: "Officers and Council Members",
   },
   async render() {

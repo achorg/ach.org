@@ -2,7 +2,7 @@
 title: '2016 Election Results Announced'
 date: '2017-01-28'
 author: 'Mia Ridge'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 We are pleased to announce the results of the [2016 ACH election](/news/2016/12/ach-elections-2016/) in which three new executive council members were elected. **Patricia Hswe**, **Purdom Lindblad** and **Thomas Padilla** were elected to serve on the Executive Council for the 2017-2021 term. All new terms will begin at the close of the annual summer Executive Council meeting.
 

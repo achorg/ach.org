@@ -2,7 +2,7 @@
 title: 'ACH Executive Council 2021 Elections Results and Bylaws Updates'
 date: '2021-03-26'
 author: 'Paige Morgan'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 The Association for Computers and the Humanities is pleased to announce the results of our 2021 elections. We had a slate of stellar candidates, and we are grateful to all the digital humanities practitioners for rising to the occasion of being nominees and willing to work at this organizational level.
 

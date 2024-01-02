@@ -2,7 +2,7 @@
 title: 'Appel à Propositions: Association for Computers and the Humanities 2021'
 date: '2020-12-29'
 language: 'fr'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 [Anglais](/news/2020/12/call-for-proposals-association-for-computers-and-the-humanities-2021/) | [Espagnol](/news/2020/12/convocatoria-association-for-computers-and-the-humanities-2021/)
 

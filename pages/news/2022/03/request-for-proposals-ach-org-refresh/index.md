@@ -2,7 +2,7 @@
 title: 'Request for Proposals – ach.org Refresh'
 date: '2022-03-03'
 author: 'Kathleen Fitzpatrick'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 The Association for Computers and the Humanities is planning a significant website overhaul in 2022. This project will involve a thorough review and reconceptualization of the site architecture, including archiving outdated content and creating clear and coherent navigation. It will also require the selection, customization, and implementation of a new WordPress theme built with accessibility and responsiveness as primary values.
 

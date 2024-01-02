@@ -2,7 +2,7 @@
 title: 'Help us promote DH work!'
 date: '2013-03-27'
 author: 'Bethany Nowviskie'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 The Alliance of Digital Humanities Organizations (ADHO) invites applications for the position of publications liaison, a volunteer position to help increase the visibility of the association’s journals and other publications.  
 

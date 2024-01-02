@@ -1,7 +1,7 @@
 ---
 title: 'ACH Statement on Black Lives Matter, Structural Racism, and Our Organization'
 date: '2020-06-18'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 The Association for Computers and the Humanities stands in solidarity with the Black Lives Matter (BLM) protest movement. As members of an organization based in a country with a long history of systematic racialized violence, we are outraged by continued state-sanctioned violence against Black people, Indigenous people, and People of Color (BIPOC), among whose most recent victims are George Floyd, Breonna Taylor, Tony McDade, and so many others. We are distraught by the tactics that militarized police forces have brought to bear upon protestors standing up for the rights of Black people, Indigenous people, and People of Color, and we join nationwide and worldwide calls for justice for the perpetrators of these violent acts.
 

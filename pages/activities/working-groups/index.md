@@ -1,6 +1,6 @@
 ---
 title: "Working Groups"
-layout: "layouts/page.11ty.js"
+layout: "templates/page.11ty.js"
 ---
 
 ACH is sponsoring working groups as a way for members to receive institutionally-legible recognition for work they are doing that aligns with our organization’s goals and values

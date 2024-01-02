@@ -2,7 +2,7 @@
 title: 'ACH 2019 Elections: Results'
 date: '2019-03-15'
 author: 'Alyssa Collins'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 The results of the ACH elections are in!
 

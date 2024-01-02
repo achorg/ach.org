@@ -2,7 +2,7 @@
 title: 'November Updates'
 date: '2014-11-24'
 author: 'Jeremy Boggs'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 ## Joint ACH/Canadian DH 2015 Conference
 

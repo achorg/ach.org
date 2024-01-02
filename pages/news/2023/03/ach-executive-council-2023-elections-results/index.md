@@ -2,7 +2,7 @@
 title: 'ACH Executive Council 2023 Elections Results'
 date: '2023-03-16'
 author: 'Jewon Woo'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 The Association for Computers and the Humanities is pleased to announce the results of our 2023 elections. We had a slate of nineteen stellar candidates, and we are grateful to all the digital humanities practitioners for rising to the occasion of being nominees and willing to work at this organizational level.
 

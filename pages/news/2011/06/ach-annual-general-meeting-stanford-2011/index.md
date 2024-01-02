@@ -2,7 +2,7 @@
 title: 'ACH Annual General Meeting, Stanford 2011'
 date: '2011-06-21'
 author: 'Stéfan Sinclair'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 This is intended as a brief report on the ACH Annual General Meeting that took place during the Digital Humanities 2011 conference at Stanford.
 

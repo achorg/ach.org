@@ -1,7 +1,7 @@
 ---
 title: 'New ACH Liaison Volunteers'
 date: '2020-08-25'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 Welcome to our newest group of ACH liaison volunteers from regional digital humanities groups! These folks will work with the Affiliation &amp; Liaisons Committee to advance the mission of ACH through communication, outreach, and partnerships with digital humanities-centric communities, groups, and organizations.
 

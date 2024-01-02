@@ -1,6 +1,6 @@
 ---
 title: "Grants and Awards"
-layout: "layouts/page.11ty.js"
+layout: "templates/page.11ty.js"
 ---
 ## Awards
 

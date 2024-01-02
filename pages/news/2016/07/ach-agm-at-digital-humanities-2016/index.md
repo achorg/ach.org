@@ -2,7 +2,7 @@
 title: 'ACH AGM at Digital Humanities 2016'
 date: '2016-07-09'
 author: 'Mia Ridge'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 Association for Computers and the Humanities (ACH) is a major professional society for the digital humanities. You are invited to join us this year for our General Meeting at the DH2016 conference. This year the meeting will take place Thursday, July 14, during the conference lunch break, 1-2:30pm in Exhibition Room 1, Audimax, Jagiellonian University, ul. Krupnicza 33. The meeting is open to the public, and all are welcome. Lunch will be provided on a first-come, first-served basis for up to 80 attendees.
 

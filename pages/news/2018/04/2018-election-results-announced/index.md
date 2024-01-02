@@ -2,7 +2,7 @@
 title: '2018 Election Results Announced'
 date: '2018-04-10'
 author: 'Vika Zafrin'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 We are pleased to announce the results of the 2018 ACH election, in which three new executive council members and a Vice President/President-Elect were elected.
 

@@ -2,7 +2,7 @@
 title: 'Jobs Slam at the Annual General Meeting at DH2014'
 date: '2014-06-11'
 author: 'Tanya Clement'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 The ACH will again be organizing a Jobs Slam during its [annual general meeting](http://dh2014.org/affiliated-events/ach-meetings/) at the DH2014 Conference in Lausanne (July 9th at 12:30pm in the Amphimax Building). The Jobs Slam is a lively event and a chance for employers to get the word out about upcoming jobs as well as for prospective employees to introduce themselves to everyone present.
 

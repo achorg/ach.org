@@ -2,7 +2,7 @@
 title: 'Call for Nominations'
 date: '2011-08-25'
 author: 'Kathleen Fitzpatrick'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 The Association for Computers and the Humanities invites nominations for this year's elections. We are electing a president, vice-president, and three Executive Council members, and seek candidates for all these offices who want to advance the field of digital humanities by helping to run the ACH.
 

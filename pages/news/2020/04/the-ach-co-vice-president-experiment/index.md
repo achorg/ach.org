@@ -2,7 +2,7 @@
 title: 'The ACH Co-Vice President Experiment'
 date: '2020-04-01'
 author: 'Vika Zafrin'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 Following the [announcement of the 2020 ACH elections results](/news/2020/04/ach-2020-elections-results/), we are publishing a post that explains how we arrived at the experiment in co-vice presidency on which ACH will embark this summer.
 

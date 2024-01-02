@@ -2,7 +2,7 @@
 title: 'ACH response to White House RFIs on open access to research'
 date: '2012-01-06'
 author: 'Bethany Nowviskie'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 Today, the ACH issued a response to two [Requests for Information](http://www.whitehouse.gov/blog/2011/11/07/request-information-public-access-digital-data-and-scientific-publications) made by the US White House Office of Science and Technology Policy.
 

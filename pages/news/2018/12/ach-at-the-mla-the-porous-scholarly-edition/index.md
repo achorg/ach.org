@@ -2,7 +2,7 @@
 title: 'ACH @ MLA: The Porous Scholarly Edition'
 date: '2018-12-18'
 author: 'Lisa Marie Rhody'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 **Co-sponsored with the MLA Committee on Scholarly Editions**
 

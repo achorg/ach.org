@@ -2,7 +2,7 @@
 title: 'DHSI Musings'
 date: '2016-07-20'
 author: 'Sally Schutz'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 I arrived at the Digital Humanities Summer Institute on a Sunday evening with the first session due to begin the next day. My luggage arrived five days later, but that is an Air Canada story involving heart break, tragedy, and the triumph of the human spirit. My Digital Humanities Summer Institute story is much more upbeat and utterly lacking in the trip through the seamy underbelly of airline policy.
 

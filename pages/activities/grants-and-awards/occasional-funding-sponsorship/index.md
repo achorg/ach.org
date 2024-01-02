@@ -1,6 +1,6 @@
 ---
 title: "Guidelines for Evaluating Occasional Funding or Sponsorship Requests"
-layout: "layouts/page.11ty.js"
+layout: "templates/page.11ty.js"
 ---
 In order to create a more diverse, cohesive, and vibrant community for digital humanists and to help advance digital humanities research and practice, ACH provides financial, publicity and intellectual support to conferences and other events.
 

@@ -2,7 +2,7 @@
 title: 'Call for Liaison Volunteers'
 date: '2019-11-22'
 author: 'Anna Kijas'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 The ACH Affiliation and Liaisons Committee is seeking liaison volunteers! As a liaison volunteer, you would work with this committee’s members to advance the mission of the ACH and its membership through communication and partnerships with communities engaged in digital humanities. Communities might include professional organizations, regional digital humanities group or networks, and other local organizations.
 

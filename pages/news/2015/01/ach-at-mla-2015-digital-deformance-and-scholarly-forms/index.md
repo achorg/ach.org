@@ -1,7 +1,7 @@
 ---
 title: 'ACH at MLA 2015: “Digital Deformance and Scholarly Forms”'
 date: '2015-01-07'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 On Friday, January 9 from 12:00 to 1:15 PM in room 212 at the West Vancouver Convention Center (East VCC), ACH will be sponsoring a panel titled “[Digital Deformance and Scholarly Forms](http://www.mla.org/program_details?prog_id=292&year=2015)” (#s292) at the Modern Language Association’s Convention (#mla15).
 

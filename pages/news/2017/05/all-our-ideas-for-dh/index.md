@@ -2,7 +2,7 @@
 title: 'All Our Ideas for DH'
 date: '2017-05-23'
 author: 'Amanda Visconti'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 What can the ACH do for you this year?
 

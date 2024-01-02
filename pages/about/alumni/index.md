@@ -1,6 +1,6 @@
 ---
 title: "Alumni"
-layout: "layouts/page.11ty.js"
+layout: "templates/page.11ty.js"
 ---
 
 The ACH would like to thank everyone who has served in an official position or has volunteered for committees or other activities.

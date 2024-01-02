@@ -2,7 +2,7 @@
 title: 'Portraits in DH: Dr. Sylvia Fernández'
 date: '2021-04-25'
 author: 'Jewon Woo'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 Interviewed on March 9, 2021 by Anna E. Kijas
 

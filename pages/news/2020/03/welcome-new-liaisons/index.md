@@ -2,7 +2,7 @@
 title: 'Welcome New Liaisons (2020-21)'
 date: '2020-03-04'
 author: 'Anna Kijas'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 The Affiliation and Liaisons Committee issued a [call for liaison volunteers](/news/2019/11/call-for-liaison-volunteers/) in November 2019 and we received a number of expressions of interest from members of our community! In this informal, but important role, the liaison volunteers will work with this Committee to advance the mission of ACH through communication, outreach, and partnerships with digital humanities-centric communities, groups, and organizations. The new liaisons include:
 

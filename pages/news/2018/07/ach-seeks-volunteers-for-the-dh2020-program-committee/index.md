@@ -2,7 +2,7 @@
 title: 'ACH seeks volunteers for the DH2020 Program Committee'
 date: '2018-07-05'
 author: 'Matt Gold'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 The Association for Computers and the Humanities (ACH) is soliciting [self-nominations](https://docs.google.com/forms/d/e/1FAIpQLSexMFM_72RP67L1zJzm5CTF4eDMz-ZMmkW3tqThk52Uh8VoKw/viewform) for ACH members to serve on the Program Committee (PC) for the international [ADHO DH2020 conference](https://www.adho.org/announcements/2017/announcing-location-dh-2020), to be held in Ottawa, Canada. The PC approves the structure and content of the entire academic program; serving on this committee offers ACH members an opportunity to help shape this large global DH conference.
 

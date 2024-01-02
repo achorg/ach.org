@@ -2,7 +2,7 @@
 title: 'Microgrants Update: View DHQ'
 date: '2012-07-13'
 author: 'Jeremy Boggs'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 In just three months, our microgrants are already starting to bear fruit. Earlier this week, [Amanda Visconti](http://literaturegeek.com/) published her project, [View DHQ](http://digitalliterature.net/viewDHQ/), which provides visualizations of citation networks in the *[Digital Humanities Quarterly](http://www.digitalhumanities.org/dhq/)*.
 

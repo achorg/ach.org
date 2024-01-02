@@ -2,7 +2,7 @@
 title: 'Proposals for Digital Humanities 2015'
 date: '2014-10-02'
 author: 'Jeremy Boggs'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 Get your proposals written and submitted for Digital Humanities 2015, in Sydney, Australia! The conference theme is Global Digital Humanities, and while the program committee welcomes proposals on any aspect of the digital humanities, it especially encourages proposals that address *global* aspects of the digital humanities. See the [Call for Papers](http://dh2015.org/cfp/) for details, and use the [conference’s proposal system](https://www.conftool.pro/dh2015/) to submit your proposal.
 

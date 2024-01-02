@@ -2,7 +2,7 @@
 title: 'ACH Guidelines for Assessment of Digital Scholarship in Tenure and Promotion'
 date: '2019-09-26'
 author: 'Tanya Clement'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 This document was prepared by the Executive Board of the ACH during the Fall and Spring of 2015-16. Feedback from the community was solicited in the summer of 2016, and incorporated over the following months.
 

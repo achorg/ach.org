@@ -1,6 +1,6 @@
 ---
 title: "Mentoring"
-layout: "layouts/page.11ty.js"
+layout: "templates/page.11ty.js"
 ---
 The ACH Mentoring Committee will be organizing a number of talks as well as more experimental opportunities for mentorship in 2021. If you are hosting a free, public workshop that aligns with ACH’s goals of offering training and mentoring for DH scholars, please get in touch with ACH Mentoring co-chairs Quinn Dombrowski ([qad@stanford.edu](mailto:qad@stanford.edu)) and Paige Morgan ([paigecm@udel.edu](mailto:paigecm@udel.edu)).
 

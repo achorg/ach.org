@@ -16,7 +16,7 @@ const faArrowRight = `
 class NewsLayout {
   data() {
     return {
-      layout: "layouts/base.11ty.js",
+      layout: "templates/base.11ty.js",
     };
   }
 

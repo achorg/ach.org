@@ -2,7 +2,7 @@
 title: 'Authentication of Poem Written by 18th-Century Slave and Author, Jupiter Hammon'
 date: '2013-12-30'
 author: 'Cedrick May'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 ## The Uses of Metadata
 

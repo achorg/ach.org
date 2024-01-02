@@ -2,7 +2,7 @@
 title: 'Call for New Executive Council Representatives'
 date: '2022-12-12'
 author: 'Jewon Woo'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 ACH seeks three new Executive Council Representatives to serve a 4-year term (2023-2027).
 

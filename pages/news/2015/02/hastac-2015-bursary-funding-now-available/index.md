@@ -2,7 +2,7 @@
 title: 'HASTAC 2015 Bursary Funding Now Available'
 date: '2015-02-16'
 author: 'Jen Guiliano'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 In an effort to encourage cross-pollination of the ACH membership with other digital humanities organizations, ACH will be offering bursary awards to enrolled members who have submissions accepted for presentation at the annual HASTAC conference. These awards are to encourage new contributions to scholarship in the digital humanities and to encourage ACH members to support other digital humanities organizations. Accepted paper, panel, and/or poster submissions qualify for consideration.
 

@@ -2,7 +2,7 @@
 title: 'Association for Computers and the Humanities 2016 Election'
 date: '2016-12-05'
 author: 'Mia Ridge'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 Current members of the Association for Computers and the Humanities (ACH) or joint members of the Alliance of Digital Humanities Organisations (ADHO) are entitled to take part in our annual election and voting activities. This year, we will elect three Executive Council members as well as address three procedural matters:
 

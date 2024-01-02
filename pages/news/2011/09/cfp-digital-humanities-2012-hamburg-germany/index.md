@@ -2,7 +2,7 @@
 title: 'CFP: Digital Humanities 2012 (Hamburg, Germany)'
 date: '2011-09-07'
 author: 'Bethany Nowviskie'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 The ADHO-sponsored conference is to be held at the University of Hamburg, 16-22 July 2012. Deadline November 1st. Alliance of Digital Humanities Organizations Digital Humanities 2012 – Call for Papers Hosted by [University of Hamburg 16-22 July 2012](http://www.dh2012.uni-hamburg.de/). Abstract deadline: November 1, 2011 (Midnight GMT). Please note: The Program Committee will not be offering an extension to the deadline as has become customary in recent years. The deadline of November 1 is firm. If you intend to submit a proposal for DH2012, you need to submit it via the electronic submission form on the conference website by November 1 Presentations include: Posters (abstract max of 1500 words) Short papers (abstract max of 1500 words) Long papers (abstract max of 1500 words) Multiple paper sessions, including panels (overview max of 500 words).
 

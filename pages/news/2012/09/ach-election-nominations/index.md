@@ -2,7 +2,7 @@
 title: 'ACH Election Nominations'
 date: '2012-09-10'
 author: 'Jeremy Boggs'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 **Due date: September 21st, 2012**
 

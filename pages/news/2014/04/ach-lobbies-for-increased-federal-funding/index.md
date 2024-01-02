@@ -2,7 +2,7 @@
 title: 'ACH lobbies US Senate for increased humanities funding'
 date: '2014-04-28'
 author: 'Stéfan Sinclair'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 On Tuesday, the United States Senate Appropriations Committee will hold a full-committee hearing on the subject of “[Driving Innovation through Federal Investments](http://www.appropriations.senate.gov/event/full-committee-hearing-driving-innovation-through-federal-investments).” Testifying at the hearing will be the directors of the White House Office of Science and Technology Policy, the National Institutes of Health, the National Science Foundation, and other research-oriented agencies.
 

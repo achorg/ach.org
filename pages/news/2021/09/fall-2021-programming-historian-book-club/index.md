@@ -2,7 +2,7 @@
 title: 'Fall 2021 Programming Historian Book Club'
 date: '2021-09-13'
 author: 'Paige Morgan'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 The ACH mentoring group is sponsoring a yearlong, public book club based on the English-language version of *Programming Historian.* These sessions are open to all (including non-members of ACH), and will offer a space for newcomers to the topic and to digital humanities to work through a *Programming Historian* lesson together in a supportive environment with one or two more experienced participants able to help and answer questions. Each session will be limited to approximately 20 participants. Each meeting is independent – they will each deal with different topics. No experience is required to attend. Before your chosen session please take a look at the linked materials and install the required software on your machine.
 

@@ -2,7 +2,7 @@
 title: 'An Open Letter, and Resources on Net Neutrality'
 date: '2014-04-30'
 author: 'Bethany Nowviskie'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 Today, 33 presidents, chairs, founders, leaders, and editors of 27 major, international digital humanities scholarly organizations and platforms joined together in [an open letter](/news/2014/04/open-letter-on-net-neutrality/) to American FCC Chairman Tom Wheeler.
 

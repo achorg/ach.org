@@ -2,7 +2,7 @@
 title: '2021 ACH Conference in Houston, TX'
 date: '2020-03-03'
 author: 'Tanya Clement'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 The Association for Computers and the Humanities (ACH) is pleased to announce that the location of its next conference, scheduled for the summer of 2021, will be Houston, Texas!
 

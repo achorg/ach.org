@@ -2,7 +2,7 @@
 title: 'ACH seeks working group proposals'
 date: '2023-08-15'
 author: 'Quinn Dombrowski'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 
 As announced at the ACH 2023 conference, ACH is soliciting working group proposals for the upcoming academic year. We’ve posted [guidelines for proposals](/activities/working-groups/) here, along with more information about the benefits of forming a working group. Each working group must have co-chairs who are ACH members.

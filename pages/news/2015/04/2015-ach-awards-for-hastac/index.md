@@ -2,7 +2,7 @@
 title: '2015 ACH Awards for HASTAC!'
 date: '2015-04-10'
 author: 'Jen Guiliano'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 ACH is pleased to announce our 2015 Bursary Winners for the [2015 HASTAC annual conference](http://www.hastac2015.org/). Caitlin Christian-Lamb of Davidson College will be presenting her work as part of the Thinking Outside the Archive: Engaging Students and Community in Special Collections Digital Projects. Lauren Rae Hall of the University of Pittsburgh will be presenting her short paper, New Old Educational Media: Finding a Public for a Personal Archive.
 

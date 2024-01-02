@@ -2,7 +2,7 @@
 title: 'DHSI 2014 Reflection'
 date: '2014-06-27'
 author: 'Zachary Schoenberger'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 *Editor’s note: The ACH awarded Zachary Schoenberger a student travel bursary to attend this summer’s Digital Humanities Summer Institute. The award came with an invitation to reflect on the experience in our blog.*
 

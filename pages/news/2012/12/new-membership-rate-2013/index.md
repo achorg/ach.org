@@ -2,7 +2,7 @@
 title: 'New membership rate for 2013!'
 date: '2012-12-12'
 author: 'Bethany Nowviskie'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 Great news for students, early-career professionals, and unwaged or low-waged independent scholars!
 

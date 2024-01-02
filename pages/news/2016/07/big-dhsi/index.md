@@ -2,7 +2,7 @@
 title: 'BIG DHSI'
 date: '2016-07-20'
 author: 'Grant Glass'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 I had signed up for both weeks at DHSI with the hope of gaining enough DH knowledge to last me the year. Quickly I realized that I might have over-committed myself. I should have known better and asked a DHSI veteran if it was a good idea to take Cloud Computing and Topic Modeling in the same year, which I can tell you was not a great idea. What you realize is that there is so much more to DHSI than just taking a class.
 

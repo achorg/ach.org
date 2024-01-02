@@ -2,7 +2,7 @@
 title: 'ACH’s Newcomers’ Dinner at the 2016 DH Conference'
 date: '2016-06-13'
 author: 'Brian Croxall'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 Is this your first or second time at the Digital Humanities conference? Are you new to the DH community? Join a small group of newbies and DH old-timers at a local Kraków restaurant and make scholarly connections and new friendships. It’s not only for members of the ACH!
 

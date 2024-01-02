@@ -1,6 +1,6 @@
 ---
 title: "Elections"
-layout: "layouts/page.11ty.js"
+layout: "templates/page.11ty.js"
 ---
 
 ACH Elections take place at the end of each calendar year. A five member Nominations Committee is appointed at the preceding Executive Council meeting, comprised of the President or Vice-President (unless these are running for re-election), Treasurer *ex officio* (since the Treasurer handles the membership list), and four other members, who shall be current members of the ACH but need not be members of the Executive Council.

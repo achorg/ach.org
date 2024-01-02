@@ -2,7 +2,7 @@
 title: 'Greetings from the New Presidents'
 date: '2022-07-29'
 authors: [ 'Quinn Dombrowski', 'Roopika Risam' ]
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 The 2022 summer ACH Executive Council meeting is always a time of transition, but the current of change was more visible this year than usual, with multiple members of the Exec changing jobs and institutional roles, and the shift from a single president to two.
 

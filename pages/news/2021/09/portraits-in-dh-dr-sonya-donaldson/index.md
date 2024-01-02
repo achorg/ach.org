@@ -2,7 +2,7 @@
 title: 'Portraits in DH: Dr. Sonya Donaldson'
 date: '2021-09-17'
 author: 'Anna E. Kijas'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 Sonya Donaldson, Ph.D. is an Associate Professor of English at New Jersey City University. She is the developer of a Black digital humanities project, [*Singing the Nation into Being*](https://singingthenation.com/)*.* Donaldson was the 2016 recipient of a Mellon Career Enhancement Junior Faculty Fellowship, a 2019 Virginia Humanities Fellowship, and was recently a Visiting Scholar at the University of Virginia’s Scholars Lab. She is completing work on a book manuscript, *Memory, History, and the Echoes of Diaspora* and is a member of the [Visionary Futures Collective](https://visionary-futures-collective.github.io).
 

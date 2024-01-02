@@ -2,7 +2,7 @@
 title: 'CFP: ACH Mentorship Working Group'
 date: '2020-10-05'
 author: 'Quinn Dombrowski'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 ## Description
 

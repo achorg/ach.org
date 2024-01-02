@@ -2,7 +2,7 @@
 title: 'Draft FairCite Proposal to the Alliance of Digital Humanities Organizations'
 date: '2012-07-18'
 author: 'Jeremy Boggs'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 Early in 2012, a discussion began among members of the ADHO community concerning fair citation practices in digital humanities, and in particular the question of how to cite digital humanities projects. These projects pose a particular challenge for citation, because they are typically very broadly collaborative and because standard practices for citation of such projects do not yet exist as they do for more traditional forms of publication. An informal initiative was developed, led by a group including Adam Crymble, Julia Flanders, Bethany Nowviskie, Stéfan Sinclair, and Melissa Terras, and using the term "FairCite", to prompt discussion within the ADHO community concerning citation practices. Adam Crymble and Julia Flanders have developed a draft proposal based on that discussion. This draft is being circulated to the executive councils of the ADHO constituent organizations for discussion and comment. It is intended primarily to prompt that discussion. ADHO and its constituent organizations have reviewed the draft below and encouraged the FairCite group to move forward to encourage public discussion, and to develop a further draft based on the comments and suggestions we receive and submit it to ADHO for formal consideration.
 

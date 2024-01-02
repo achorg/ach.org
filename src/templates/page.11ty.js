@@ -15,7 +15,7 @@ const getBreadcrumbs = (pageData) => {
 class PageLayout {
   data() {
     return {
-      layout: "layouts/base.11ty.js",
+      layout: "templates/base.11ty.js",
     };
   }
 

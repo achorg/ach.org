@@ -2,7 +2,7 @@
 title: 'Toward anti-racist technical terminology'
 date: '2020-09-24'
 author: 'Rebecca Koeser'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 In the [ACH statement on Black Lives Matter](/news/2020/06/ach-statement-on-black-lives-matter-structural-racism-and-our-organization/), the Association for Computers and the Humanities affirmed our commitment “to our DH being a force for racial and other social justice both within and beyond academia.” As one of many specific actions, we offer this guide to help DH centers, labs, developers, and other technologists be mindful of racially-charged technical terminology embedded in the tools they use, and provide specific resources for using different terms.
 

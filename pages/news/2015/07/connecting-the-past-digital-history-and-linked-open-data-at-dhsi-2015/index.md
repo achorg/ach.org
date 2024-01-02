@@ -2,7 +2,7 @@
 title: 'Connecting the Past: Digital History and Linked Open Data at DHSI 2015'
 date: '2015-07-21'
 author: 'Steven Anderson'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 *Editor’s note: The ACH awarded [Steve Anderson](http://steveanderson.digital) a student travel bursary to attend this summer’s Digital Humanities Summer Institute, DHSI 2015. The award came with an invitation to reflect on the experience in our blog.*
 

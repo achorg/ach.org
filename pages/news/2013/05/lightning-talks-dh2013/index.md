@@ -2,7 +2,7 @@
 title: 'Pedagogy Lightning Talks at the Annual General Meeting at DH2013'
 date: '2013-05-22'
 author: 'Vika Zafrin'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 Do you have a quick story about a student project or training model to share? Want to tell us how you organized your syllabus, or make a pitch for a new way of thinking about DH education?
 

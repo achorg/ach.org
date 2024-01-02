@@ -2,7 +2,7 @@
 title: 'O DH Pioneers! at the AGM in Nebraska'
 date: '2013-07-18'
 author: 'Susan Brown'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 Thanks to all of the contributors to our Pedagogy Lightning Talks at the ACH AGM at [DH2013](http://dh2013.unl.edu/). A tremendous wealth of creativity and experience was shared in a short 15 minutes, and the slides will very shortly be posted on this site.
 

@@ -1,7 +1,7 @@
 ---
 title: 'ACH Statement in Support of the National Endowment for the Humanities'
 date: '2017-01-31'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 A strong democracy demands wisdom from its citizens. For over 50 years, the [National Endowment for the Humanities](https://www.neh.gov/) (NEH) has supported public access to and civic engagement with our collective cultural heritage. By preserving and understanding the past, we cultivate the wisdom necessary to ensure a better future.
 

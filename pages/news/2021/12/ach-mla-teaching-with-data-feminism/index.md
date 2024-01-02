@@ -2,7 +2,7 @@
 title: 'ACH @ MLA: Teaching with Data Feminism'
 date: '2021-12-09'
 author: 'Paige Morgan'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 Session 11; Thursday, January 6th, 12:00-1:15pm; virtual session.
 

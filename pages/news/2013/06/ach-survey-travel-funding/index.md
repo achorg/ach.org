@@ -2,7 +2,7 @@
 title: 'An ACH Survey on Travel Funding'
 date: '2013-06-30'
 author: 'Bethany Nowviskie'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 Ahead of the annual [Digital Humanities conference](http://dh2013.unl.edu) and our summer ACH executive council meeting, we’re wondering: how well-supported are your DH-related travels?
 

@@ -2,7 +2,7 @@
 title: 'Call for Nominations: ACH Executive Council'
 date: '2020-10-26'
 author: 'Thomas Padilla'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 **Due date for nominations: December 15, 2020**
 

@@ -2,7 +2,7 @@
 title: 'ACH Newsletter, Winter 2016'
 date: '2016-12-23'
 author: 'Mia Ridge'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 Dear ACH friends and colleagues,
 

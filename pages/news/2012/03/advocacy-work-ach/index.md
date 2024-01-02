@@ -2,7 +2,7 @@
 title: 'Advocacy Work at ACH'
 date: '2012-03-14'
 author: 'Bethany Nowviskie'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 Last year, the ACH Executive Council expanded the mandate of our committee on Outreach to include advocacy work on issues that matter to our members.
 

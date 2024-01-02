@@ -2,7 +2,7 @@
 title: 'Call for Reviewers and Reviewer Nominations for DH 2017'
 date: '2016-09-20'
 author: 'Jen Guiliano'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 ACH is delighted to release the 2017 call for reviewers and reviewer nominations to its members. In June, the ADHO Steering Committee unanimously approved the DH 2017/DH 2018 joint program committee proposal that we formally expand the pool of reviewers. As part of this proposal, each Constituent Organization has been invited to nominate members who meet the criteria established for reviewers. You may nominate yourself or (if you are already a reviewer) nominate others. If you reviewed in the last two years, you should already be on the reviewer list. If you haven’t ever reviewed or haven’t received a reviewer request since 2013, please consider self-nominating if you meet the criteria below.
 

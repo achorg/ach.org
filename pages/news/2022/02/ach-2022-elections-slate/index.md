@@ -2,7 +2,7 @@
 title: 'ACH 2022 Elections Slate'
 date: '2022-02-23'
 author: 'Jewon Woo'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 The ACH Nominations Committee is pleased to share the slate of nominees for the 2022 elections.
 

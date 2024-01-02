@@ -2,7 +2,7 @@
 title: 'ACH 2020 Elections Results'
 date: '2020-04-01'
 author: 'Vika Zafrin'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 The Association for Computers and the Humanities is pleased to announce the results of our 2020 elections. As in previous years, the candidate slate was exceptional, and we are grateful to so many digital humanities practitioners for stepping up and being willing to work at the organizational level.
 

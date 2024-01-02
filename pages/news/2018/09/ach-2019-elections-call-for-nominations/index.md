@@ -2,7 +2,7 @@
 title: 'ACH 2019 Elections: Call for Nominations'
 date: '2018-09-17'
 author: 'Amanda Visconti'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 **Due date for nominations: December 15th, 2018**
 

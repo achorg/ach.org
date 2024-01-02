@@ -2,7 +2,7 @@
 title: 'ACH @ MLA 2023: Extended Reality for the Study of Language and Literature (Updated!)'
 date: '2022-12-06'
 author: 'Jewon Woo'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 For our session at the 2023 MLA Convention, ACH featured presentations related to the use of extended reality technologies as they pertain to research and teaching related to language, literature, and related fields. Speakers gave short presentations describing their work with XR methods. Presentation information follows.
 

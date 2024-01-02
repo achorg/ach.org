@@ -2,7 +2,7 @@
 title: 'Quantifying Yeats’s Dialogues'
 date: '2013-12-30'
 author: 'Shawna Ross'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 ## Origin Story
 

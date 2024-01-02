@@ -2,7 +2,7 @@
 title: 'The Fundamentals: Learning Programming at DHSI 2015'
 date: '2015-07-21'
 author: 'Chris Fite'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 When discussing digital humanities with colleagues, the same objection comes up time and again: “I can’t learn programming.” I always emphasize that digital humanities encompasses a wide range of activities and that programming knowledge is not a prerequisite. I say, “You don’t have to know programming. Once you get involved, you’ll discover the types of projects that interest you and what you need to know.” However, a time may come when they need to know some programming, and many of my peers believe that learning programming is an insurmountable obstacle. Fortunately, they could put their fears to rest with a class like “Fundamentals of Programming/Coding for Human(s|ists),” a DHSI course taught by [John Simpson](https://twitter.com/symulation) of Compute Canada and [Dennis Tenen](https://twitter.com/dennistenen) of Columbia University.
 

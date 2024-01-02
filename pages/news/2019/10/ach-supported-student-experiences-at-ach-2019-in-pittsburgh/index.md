@@ -2,7 +2,7 @@
 title: 'ACH-Supported Student Experiences at ACH 2019 in Pittsburgh'
 date: '2019-10-10'
 author: 'Tanya Clement'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 The Association for Computers and the Humanities was delighted to support the participation of early career scholars in the ACH2019 conference held in Pittsburgh, PA. We thank these students for their participation in the conference and for reflecting upon their experiences in the posts below:
 

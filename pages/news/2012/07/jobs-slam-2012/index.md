@@ -2,7 +2,7 @@
 title: 'Jobs Slam at the Annual General Meeting at DH2012'
 date: '2012-07-10'
 author: 'Stéfan Sinclair'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 The ACH will again be organizing a Jobs Slam during its annual general meeting at the DH2012 Conference in Hamburg (July 19th at 12:30pm). The Jobs Slam is a lively event and a chance for employers to get the word out about upcoming jobs as well as for prospective employees to introduce themselves to everyone present.
 

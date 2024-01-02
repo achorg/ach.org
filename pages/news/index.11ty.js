@@ -15,7 +15,7 @@ const faArrowRight = `
 
 module.exports = {
   data: {
-    layout: "layouts/base.11ty.js",
+    layout: "templates/base.11ty.js",
     title: "News",
     description,
     pagination: {

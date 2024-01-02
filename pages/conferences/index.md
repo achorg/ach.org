@@ -1,6 +1,6 @@
 ---
 title: "Conferences"
-layout: "layouts/page.11ty.js"
+layout: "templates/page.11ty.js"
 ---
 
 ACH has hosted or co-hosted a conference since 2019. Since 2020, we have intentionally held the conference online to increase accessibility. In 2024, we are looking towards exploring a hybrid model, combining an online conference with a network of in-person hubs.

@@ -2,7 +2,7 @@
 title: 'ACH Agenda-Setting: Next Steps'
 date: '2012-06-04'
 author: 'Bethany Nowviskie'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 Last month, the Association for Computers and the Humanities (ACH) began [an experiment](/news/2012/04/open-agenda-setting-2012) in grassroots idea-generation and transparent agenda-setting.
 

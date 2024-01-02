@@ -2,7 +2,7 @@
 title: 'ACH Statement on the Invasion of Ukraine'
 date: '2022-02-25'
 author: 'Quinn Dombrowski'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 The Association for Computers and the Humanities joins our colleagues in the [European Association for Digital Humanities](https://eadh.org/eadh-statement-ukraine-invasion) in condemning the Putin regime’s invasion of Ukraine, and expressing our solidarity with the Ukrainian nation and its people, as well as those in Russia who oppose the actions of their government.
 

@@ -2,7 +2,7 @@
 title: 'In Praise of Paper Prototypes: Lessons Learned from Crowdsourcing at DHSI 2015'
 date: '2015-07-21'
 author: 'Mary Borgo'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 It may come as a bit of a surprise that paper can play a crucial role in developing digital humanities projects. For me, one of the most powerful aha! moments at this year’s Digital Humanities Summer Institute came through a paper-prototyping exercise in our crowdsourcing class.
 

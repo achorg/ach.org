@@ -2,7 +2,7 @@
 title: 'Beyond the Digital CFP for MLA 2014'
 date: '2013-03-12'
 author: 'Brian Croxall'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 Recent MLA Conventions have featured many sessions about the digital humanities, considering their impact on methodology, pedagogy, bibliography, race, and the profession itself. What is sometimes forgotten, however, is that the output of digital analysis is not itself the goal; rather, it is a means to an end, and that end is the interpretation of a text or corpus (understood widely). This session—organized by the Association for Computers and Humanities (ACH)—seeks to re-establish this understanding and conversation, defamiliarizing the conversation about the digital and making it re-familiar to the larger body of MLA participants.
 

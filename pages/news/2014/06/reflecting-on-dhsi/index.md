@@ -2,7 +2,7 @@
 title: 'Reflecting on DHSI'
 date: '2014-06-28'
 author: 'Andrea Kampen'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 *Editor’s note: The ACH awarded Andrea Kampen a student travel bursary to attend this summer’s Digital Humanities Summer Institute. The award came with an invitation to reflect on the experience in our blog.*
 

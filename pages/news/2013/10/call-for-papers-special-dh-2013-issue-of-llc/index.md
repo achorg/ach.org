@@ -2,7 +2,7 @@
 title: 'Call for Papers: Special “DH 2013” issue of LLC'
 date: '2013-10-01'
 author: 'Bethany Nowviskie'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 *[LLC: The Journal of Digital Scholarship in the Humanities](http://llc.oxfordjournals.org/)* will publish a special issue of top papers from [Digital Humanities 2013](http://dh2013.unl.edu/), the annual conference of the [Alliance of Digital Humanities Organizations](http://adho.org), held this summer at the University of Nebraska. We invite submissions from anyone who presented at the meeting, including those who gave long and short papers, or who participated in panels and poster sessions.
 

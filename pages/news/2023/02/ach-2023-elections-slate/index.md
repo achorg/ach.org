@@ -2,7 +2,7 @@
 title: 'ACH 2023 Elections Slate'
 date: '2023-02-16'
 author: 'Jewon Woo'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 The ACH Nominations Committee is pleased to share the slate of nineteen nominees for the 2023 elections.
 

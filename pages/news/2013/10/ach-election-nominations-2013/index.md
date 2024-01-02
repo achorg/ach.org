@@ -2,7 +2,7 @@
 title: 'ACH Election Nominations 2013'
 date: '2013-10-09'
 author: 'Mia Ridge'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 **Due October 31st, 2013.**
 

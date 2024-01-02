@@ -1,6 +1,6 @@
 ---
 title: "Activities"
-layout: "layouts/page.11ty.js"
+layout: "templates/page.11ty.js"
 ---
 ACH is a community-driven organization, supported by your membership fees. Our most important activities center on cultivating and strengthening the field of digital humanities, and providing guidance and support to those entering the field. Our goal is to create a more diverse, cohesive, and vibrant community for digital humanists, and to help advance digital humanities research and practice. To this end we sponsor a range of outreach activities. These include mentoring programs, welcoming events at the annual DH conference, DH-related sessions at other conferences, grants to young scholars, and open-access publication of DH research.
 

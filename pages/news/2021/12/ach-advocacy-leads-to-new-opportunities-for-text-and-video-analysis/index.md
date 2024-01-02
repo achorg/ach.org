@@ -2,7 +2,7 @@
 title: 'ACH Advocacy Leads to New Opportunities for Text and Video Analysis'
 date: '2021-12-08'
 author: 'Quinn Dombrowski'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 In late October 2021, the Librarian of Congress granted a new exemption to section 1201 of the Digital Millennium Copyright Act (DMCA) that supports the computational analysis of multimedia, including texts (in the form of encrypted ebooks) and video (in the form of encrypted DVDs). The new ruling opens up exciting new opportunities for digital humanities research in text and data mining which, absent the exemption, would fall under section 1201’s prohibition on circumventing “digital locks” to access copyrighted content. The [Samuelson Law Clinic at UC Berkeley Law School](https://www.law.berkeley.edu/experiential/clinics/samuelson-law-technology-public-policy-clinic/)[put together the petition on behalf of its client Authors Alliance](https://www.authorsalliance.org/), an organization that advocates primarily on behalf of academic authors. This petition drew upon the expertise of the digital humanities community, and included letters of support from ACH itself, and from numerous of our members. Thank you to all who contributed to this important effort.
 

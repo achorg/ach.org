@@ -2,7 +2,7 @@
 title: 'ACH Microgrants Winners 2013!'
 date: '2013-07-03'
 author: 'Susan Brown'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 The Association for Computers and the Humanities is very pleased to announce the winners of our second Microgrants competition!
 

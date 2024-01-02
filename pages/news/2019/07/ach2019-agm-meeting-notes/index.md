@@ -2,7 +2,7 @@
 title: 'ACH2019 AGM Meeting Notes'
 date: '2019-07-29'
 author: 'Tanya Clement'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 July 26, 2019 — ACH2019 conference in Pittsburgh, PA.
 

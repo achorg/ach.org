@@ -2,7 +2,7 @@
 title: 'CFP: ACH Microgrants 2016'
 date: '2016-10-17'
 author: 'Alex Gil'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 The Executive Committee of the Association for Computers and the Humanities is delighted to announce its fifth round of Microgrants.
 

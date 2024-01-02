@@ -1,6 +1,6 @@
 ---
 title: "Constitution & Bylaws"
-layout: "layouts/page.11ty.js"
+layout: "templates/page.11ty.js"
 ---
 
 ## Constitution of the Association for Computers and the Humanities

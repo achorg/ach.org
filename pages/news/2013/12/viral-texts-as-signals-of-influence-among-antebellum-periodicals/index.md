@@ -2,7 +2,7 @@
 title: 'Viral Texts as Signals of Influence among Antebellum Periodicals'
 date: '2013-12-30'
 author: 'Ryan Cordell'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 My talk will draw on the early results of the [*Infectious Texts* project](http://viraltexts.org), in which I and my co-researchers are developing theoretical models to help scholars better understand what qualities—both textual and thematic—helped particular news stories, short fiction, and poetry “go viral” in nineteenth-century newspapers and magazines. Prior to copyright legislation and enforcement, literary texts as well as other non-fiction prose circulated promiscuously among newspapers as editors freely reprinted materials borrowed from other venues. While scholars such as Meredith McGill have learned much about the “antebellum culture of reprinting” using traditional archival methods, we are using algorithms to compare repetitions of words between pages in the Library of Congress’ *Chronicling America* newspaper archive, identifying the boundaries of reprinted passages which are not known a priori and allowing us to study antebellum reprinting practices at a tremendous scale. We delve into the technical specifics of this approach in “[Infectious Texts: Modeling Text Reuse in Nineteenth-Century Newspapers](http://www.viraltexts.org/infect-bighum-2013.pdf)” (PDF), which will be published by IEEE Computer Society Press for *Proceedings of the Workshop on Big Humanities*.
 

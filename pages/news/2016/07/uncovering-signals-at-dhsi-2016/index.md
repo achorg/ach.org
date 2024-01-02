@@ -2,7 +2,7 @@
 title: 'Uncovering Signals at DHSI 2016'
 date: '2016-07-18'
 author: 'Jonathan Tinnin'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 One of the first things that Maciej Eder explained in Stylometry with R: Computer-Assisted Analysis of Literary Texts is that stylometry is all about extracting signals from texts. As I progressed through the course during the second week of the 2016 Digital Humanities Summer Institute, I realized that Maciej had taken me from knowing nothing about stylometry to being able to extract those signals and uncover useful information about the novels being analyzed. While I know that there is still much to learn about stylometry, it was thrilling to begin experimenting with digital tools that will inform my future work. In fact, my goal is to use stylometric analysis to discern whether there are stylistic markers particular to literary magazines produced in 19th Century Scottish Mental Institutions, as opposed to such journals as *Blackwood’s Edinburgh Magazine* or the *Edinburgh Review*.
 

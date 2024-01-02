@@ -2,7 +2,7 @@
 title: 'ACH Incubator Grants Winners 2015: Knowing Our Past'
 date: '2015-09-09'
 author: 'Susan Brown'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 The Association for Computers and the Humanities is pleased to announce the winners of the 2015 Incubator Grants competition!
 

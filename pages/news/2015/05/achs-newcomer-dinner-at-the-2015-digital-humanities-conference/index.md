@@ -2,7 +2,7 @@
 title: 'ACH’s Newcomer Dinner at the 2015 Digital Humanities conference'
 date: '2015-06-25'
 author: 'Mia Ridge'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 Is this your first or second time at the Digital Humanities conference?
 

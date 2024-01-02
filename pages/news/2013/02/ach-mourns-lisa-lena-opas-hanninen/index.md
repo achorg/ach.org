@@ -2,7 +2,7 @@
 title: 'ACH mourns Lisa Lena Opas-Hänninen'
 date: '2013-02-06'
 author: 'Bethany Nowviskie'
-layout: 'layouts/news.11ty.js'
+layout: 'templates/news.11ty.js'
 ---
 Like [many in the global DH community](http://www.allc.org/about/people/memorials/lisa-lena-opas-h%C3%A4nninens-memorial), members of the ACH Executive Council were saddened to learn of the death of our friend Lisa Lena Opas-Hänninen, chair of [ALLC](http://www.allc.org/), the European Association for Digital Humanities.  
 
