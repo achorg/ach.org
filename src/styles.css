@@ -287,8 +287,8 @@ nav.primary-nav {
     @apply md:border md:border-zinc-200 dark:md:border-zinc-800;
     @apply md:absolute;
     @apply md:opacity-0;
-    @apply md:mt-3 md:m-0;
-    @apply md:px-4 md:py-5;
+    @apply md:mt-2 md:m-0;
+    @apply md:pl-1 md:pr-3 md:py-3;
     @apply md:transition-all ease-in-out;
 
     &.submenu-open {
