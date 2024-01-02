@@ -510,6 +510,7 @@ nav.primary-nav {
     .officer-description {
       @apply font-light;
       @apply tracking-wider;
+      @apply leading-6;
     }
   }
 
