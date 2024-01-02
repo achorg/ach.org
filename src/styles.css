@@ -476,11 +476,18 @@ nav.primary-nav {
   }
 }
 
+.officer-group-title {
+  @apply text-center;
+  @apply md:text-left;
+}
+
 .officer-container {
   @apply grid;
   @apply grid-cols-1 xs:grid-cols-2 md:grid-cols-3;
   @apply gap-x-5 gap-y-8;
   @apply pt-1 pb-2;
+  @apply text-center;
+  @apply md:text-left;
 }
 
 .officer-single {
@@ -492,6 +499,8 @@ nav.primary-nav {
     @apply rounded-full;
     @apply mb-4;
     @apply shadow-md;
+    @apply mx-auto;
+    @apply md:mx-0;
   }
 
   .officer-content {
@@ -522,6 +531,8 @@ nav.primary-nav {
     @apply flex;
     @apply gap-2;
     @apply text-primary-900 dark:text-primary-100;
+    @apply justify-center;
+    @apply md:justify-start;
 
     .icon {
       @apply mt-3;

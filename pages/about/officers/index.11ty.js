@@ -9,7 +9,7 @@ module.exports = {
     return `
       <p>All terms begin and end with the close of the annual summer Executive Council meeting or (in the event no Executive Council meeting is held in the summer) on August 1st in the years listed. See also the list of <a href="/about/alumni/">ACH Office and Council alumni</a>, who have all our gratitude.</p>
 
-      <h2>Executive Officers</h2>
+      <h2 class="officer-group-title">Executive Officers</h2>
 
       <div class="officer-container not-prose">
           ${await Officer({
@@ -83,7 +83,7 @@ module.exports = {
 
       </div>
 
-      <h2>Council Representative 2023-2027</h2>
+      <h2 class="officer-group-title">Council Representative 2023-2027</h2>
 
       <div class="officer-container not-prose">
           ${await Officer({ name: "Dorothy Berry" })}
@@ -101,7 +101,7 @@ module.exports = {
 
       </div>
 
-      <h2>Council Representatives 2022-2026</h2>
+      <h2 class="officer-group-title">Council Representatives 2022-2026</h2>
 
       <div class="officer-container not-prose">
           ${await Officer({
@@ -128,7 +128,7 @@ module.exports = {
 
       </div>
 
-      <h2>Council Representatives 2022-2025</h2>
+      <h2 class="officer-group-title">Council Representatives 2022-2025</h2>
 
       <div class="officer-container not-prose">
           ${await Officer({
@@ -139,7 +139,7 @@ module.exports = {
           })}
       </div>
 
-      <h2>Council Representatives 2021–2025</h2>
+      <h2 class="officer-group-title">Council Representatives 2021–2025</h2>
 
       <div class="officer-container not-prose">
           ${await Officer({
@@ -162,7 +162,7 @@ module.exports = {
 
       </div>
 
-      <h2>Council Representatives 2022-2024</h2>
+      <h2 class="officer-group-title">Council Representatives 2022-2024</h2>
 
       <div class="officer-container not-prose">
           ${await Officer({
@@ -171,7 +171,7 @@ module.exports = {
           })}
       </div>
 
-      <h2>Council Representatives 2020–2024</h2>
+      <h2 class="officer-group-title">Council Representatives 2020–2024</h2>
 
       <div class="officer-container not-prose">
           ${await Officer({
@@ -191,7 +191,7 @@ module.exports = {
 
       </div>
 
-      <h2>Council Representatives 2019–2023</h2>
+      <h2 class="officer-group-title">Council Representatives 2019–2023</h2>
 
       <div class="officer-container not-prose">
           ${await Officer({
@@ -222,7 +222,7 @@ module.exports = {
 
       </div>
 
-      <h2>Ex Officio Representatives &amp; Affiliates</h2>
+      <h2 class="officer-group-title">Ex Officio Representatives &amp; Affiliates</h2>
 
       <div class="officer-container not-prose">
           ${await Officer({
