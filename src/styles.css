@@ -297,6 +297,11 @@ nav.primary-nav {
       @apply mt-2 mb-1;
     }
 
+    li {
+      @apply pl-8;
+      @apply -indent-8;
+    }
+
     a {
       @apply before:content-['—'] md:before:content-none;
       @apply before:mr-2 md:before:mr-0;
