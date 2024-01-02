@@ -505,12 +505,16 @@ nav.primary-nav {
       @apply tracking-widest;
       @apply uppercase;
       @apply mt-1.5 mb-1;
+      @apply pl-2;
+      @apply -indent-2;
     }
 
     .officer-description {
       @apply font-light;
       @apply tracking-wider;
       @apply leading-6;
+      @apply pl-2;
+      @apply -indent-2;
     }
   }
 
