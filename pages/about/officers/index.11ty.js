@@ -13,26 +13,9 @@ module.exports = {
 
       <div class="officer-container not-prose">
           ${await Officer({
-            name: "Roopika Risam",
-            imageSrc: "roopika-risam.jpg",
-            position: "Co-President",
-            affiliation: "Salem State University",
-            website: "http://roopikarisam.com",
-            email: "rrisam@salemstate.edu",
-          })}
-
-          ${await Officer({
-            name: "Quinn Dombrowski",
-            imageSrc: "quinn-dombrowski.jpg",
-            position: "Co-President",
-            affiliation: "Stanford University",
-            email: "qad@stanford.edu",
-          })}
-
-          ${await Officer({
             name: "Lauren Tilton",
             imageSrc: "lauren-tilton.jpg",
-            position: "Co-Vice President/Co-President-Elect",
+            position: "Co-President",
             affiliation: "University of Richmond",
             website: "http://laurentilton.com/",
             email: "ltilton@richmond.edu",
@@ -41,10 +24,28 @@ module.exports = {
           ${await Officer({
             name: "Andrew Janco",
             imageSrc: "andrew-janco.jpg",
-            position: "Co-Vice President/Co-President-Elect",
+            position: "Co-President",
             affiliation: "University of Pennsylvania Libraries",
             website: "https://apjan.co",
             email: "apjanco@upenn.edu",
+          })}
+
+          ${await Officer({
+            name: "",
+            imageSrc: "",
+            position: "Co-Vice President/co-President Elect",
+            affiliation: "",
+            website: "",
+            email: "",
+          })}
+
+          ${await Officer({
+            name: "",
+            imageSrc: "",
+            position: "Co-Vice President/co-President Elect",
+            affiliation: "",
+            website: "",
+            email: "",
           })}
 
           ${await Officer({
@@ -54,6 +55,15 @@ module.exports = {
             affiliation: "University of Virginia",
             website: "http://amandavisconti.com",
             email: "visconti@virginia.edu",
+          })}
+          
+          ${await Officer({
+            name: "Claudia Berger",
+            imageSrc: "",
+            position: "Deputy Secretary",
+            affiliation: "Sarah Lawrence College & Pratt School of Information",
+            website: "claudiaeberger.com",
+            email: "cberger at sarahlawrence dot edu",
           })}
 
           ${await Officer({
@@ -66,19 +76,19 @@ module.exports = {
           })}
 
           ${await Officer({
-            name: "Sarah Potvin",
-            imageSrc: "sarah-potvin.png",
+            name: "Kathy Torabi",
+            imageSrc: "",
             position: "Deputy Treasurer",
             affiliation: "Texas A&M University",
-            email: "spotvin@tamu.edu",
+            email: "torabik@tamu.edu",
           })}
 
           ${await Officer({
-            name: "Jewon Woo",
-            imageSrc: "jewon-woo.jpg",
+            name: "Mandy Regan",
+            imageSrc: "",
             position: "Communications Officer",
-            affiliation: "Lorain County Community College",
-            email: "jwoowinter@gmail.com",
+            affiliation: "Clemson University",
+            email: "aeregan@clemson.edu",
           })}
 
       </div>
