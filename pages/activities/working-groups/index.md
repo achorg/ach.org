@@ -18,7 +18,7 @@ Any ACH member can propose a working group. Each working group must include at l
 
 ## How do I start an ACH working group?
 
-Any member can propose a working group for the year (August 1 of the current year to July 31 the following year), at any point in the year. A proposal (no more than 2 pages, double-spaced) consists of a description of the scope and purpose, an initial list of participants, and realistic goals for the year. You can upload the proposal to this form; anticipate a response within two weeks.
+Any member can propose a working group for the year (August 1 of the current year to July 31 the following year), at any point in the year. A proposal (no more than 2 pages, double-spaced) consists of a description of the scope and purpose, an initial list of participants, and realistic goals for the year. You can email the proposal to president@ach.org.
 
 
 ## How long does an ACH working group last?

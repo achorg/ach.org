@@ -16,17 +16,9 @@ Looking for a digital humanities job? Our volunteer mentors can help you find an
 
 Throughout the year, and most especially at our annual DH conferences, the ACH provides support, guidance, and publicity services for employers and job-seekers. We also wish to encourage reflection and analysis about work and careers within the humanities computing community, and do this by sponsoring conference sessions and workshops.
 
-We offer the following services to job seekers:
-
-- An ongoing mentoring program of events throughout the year — see our [Mentoring page](/activities/mentoring/) for more info.
-- The annual ACH Jobs Slam, held at the DH conference at the ACH Annual General Meeting. The jobs slam is an opportunity for job seekers and those hiring to announce themselves and make contact.
+We offer an ongoing professional development program of events throughout the year. In the past, we have offered an ACH Jobs Slam at the ACH Annual General Meeting when this occurred in person at the ADHO DH conference. The jobs slam was an opportunity for job seekers and those hiring to announce themselves and make contact.
 
 
 ## Grants and Awards
 
-The ACH supports young scholars by providing bursaries to defray costs of attending conferences and other DH events. ACH also participates in the ADHO achievement awards which recognize achievements in the field of Digital Humanities. [\[More information\]](/activities/grants-and-awards)
-
-
-## Open Agenda-Setting
-
-Beginning in 2012, the Association for Computers and the Humanities moved toward more open and transparent agenda-setting. We look to you to help us better serve the international digital humanities community—by generating new ideas for our Executive Council to explore, and prioritizing items already on our agenda. [\[More information\]](/news/2012/04/open-agenda-setting-2012)
+The ACH supports young scholars by providing bursaries to defray costs of attending the ACH conference. ACH also participates in the ADHO achievement awards which recognize achievements in the field of Digital Humanities. [\[More information\]](/activities/grants-and-awards)
