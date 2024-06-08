@@ -22,11 +22,7 @@ module.exports = {
         </section>
         <section class="boxed-regular">
           <h2 class="section-title">The latest from ACH</h2>
-          ${NewsItems(
-            data.collections.news.toReversed().slice(0, 6),
-            "h3",
-            "grid",
-          )}
+         
         </section>
         <section class="boxed-fullwidth">
 
