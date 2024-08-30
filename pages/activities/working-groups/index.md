@@ -29,3 +29,7 @@ Working groups are approved for one year. Each year, working groups that wish to
 ## What are the benefits of starting an ACH Working Group?
 
 ACH working groups will be featured on the ACH website and promoted to new members, who will be invited to contact the working group coordinators to join. They will have the opportunity to contribute updates to the quarterly ACH newsletter to promote and share their work. They will be offered a slot on the program at the annual conference. ACH can also offer a formal letter of support or reference attesting to the work of the co-chairs as needed for promotion, job applications, etc.
+
+## Past & Current ACH Working Groups
+* "DH + AI", Fall 2023-current
+* "(Re)connecting DH on Social Media", Fall 2023-Summer 2024
