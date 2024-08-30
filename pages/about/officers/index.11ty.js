@@ -65,18 +65,9 @@ module.exports = {
           })}
 
           ${await Officer({
-            name: "Tanya Clement",
-            imageSrc: "tanya-clement.jpg",
-            position: "Treasurer",
-            affiliation: "University of Texas",
-            website: "http://tanyaclement.org",
-            email: "tclement@utexas.edu",
-          })}
-
-          ${await Officer({
             name: "Kathy Torabi",
             imageSrc: "",
-            position: "Deputy Treasurer",
+            position: "Treasurer",
             affiliation: "Texas A&M University",
             email: "torabik@tamu.edu",
           })}
