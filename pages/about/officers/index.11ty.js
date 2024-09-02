@@ -57,11 +57,11 @@ module.exports = {
           
           ${await Officer({
             name: "Claudia Berger",
-            imageSrc: "",
+            imageSrc: "claudia-berger.jpg",
             position: "Deputy Secretary",
             affiliation: "Sarah Lawrence College & Pratt School of Information",
             website: "claudiaeberger.com",
-            email: "cberger at sarahlawrence dot edu",
+            email: "cberger@sarahlawrence.edu",
           })}
 
           ${await Officer({
@@ -73,10 +73,11 @@ module.exports = {
           })}
 
           ${await Officer({
-            name: "Mandy Regan",
-            imageSrc: "",
+            name: "Amanda Regan",
+            imageSrc: "amanda-regan.jpg",
             position: "Communications Officer",
             affiliation: "Clemson University",
+            website: "https://amandaregan.com/",
             email: "aeregan@clemson.edu",
           })}
 
@@ -206,7 +207,7 @@ module.exports = {
             name: "Jeri Wieringa",
             imageSrc: "jeri-wieringa.jpg",
             position: "American Historical Association Affiliate",
-            affiliation: "University of Alabama",
+            affiliation: "Princeton University",
             website: "https://jeriwieringa.com/",
             email: "jewieringa@ua.edu",
           })}
