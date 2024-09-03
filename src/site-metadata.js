@@ -41,10 +41,6 @@ module.exports = {
           link: "/activities/grants-and-awards/",
         },
         {
-          name: "Professional Development",
-          link: "/activities/mentoring/",
-        },
-        {
           name: "Publications",
           link: "/publications/",
         },
