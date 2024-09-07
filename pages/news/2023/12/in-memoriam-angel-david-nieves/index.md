@@ -4,7 +4,8 @@ date: '2023-12-08'
 author: 'Roopika Risam'
 layout: 'templates/news.11ty.js'
 ---
-<figure class="wp-block-image alignleft size-full is-resized"><a href="https://ach.org/wp-content/uploads/2023/12/12990860_10153490374710978_1455001929258108947_n.jpg"><img src="https://ach.org/wp-content/uploads/2023/12/12990860_10153490374710978_1455001929258108947_n.jpg" alt="" class="wp-image-2531" style="width:424px;height:auto" /></a></figure>
+<figure class="wp-block-image alignleft size-full is-resized"><a href="https://ach.org/ach-wp-images/uploads/2023/12/12990860_10153490374710978_1455001929258108947_n.jpg"><img src="https://ach.org/ach-wp-images/uploads/2023/12/12990860_10153490374710978_1455001929258108947_n.jpg" alt="" class="wp-image-2531" style="width:424px;height:auto" /></a></figure>
+<img src="/achuploads/2023/12/12990860_10153490374710978_1455001929258108947_n.jpg">ç
 
 <p>The Association for Computers and the Humanities is sad to share the news of Angel David Nieves’ passing on December 5, 2023. Angel served on the ACH Executive Council from 2019-2021. While on the exec, Angel was involved with the mentoring program. Most recently, Angel was Dean’s Professor of Public and Digital Humanities and Professor of Africana Studies and History and Director of Public Humanities at Northeastern University. For many years prior, he co-directed the Digital Humanities Initiative (DHi) at Hamilton College, where his beloved husband, Richard Foote, an architect who passed earlier this year, designed the space for the DHi Collaboratory.</p>
 
