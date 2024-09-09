@@ -12,7 +12,7 @@ module.exports = {
     usingHero: true,
   },
   async render(data) {
-    const recentPosts = data.collections.news.slice(-2);
+    const recentPosts = data.collections.news.slice(-2).toReversed();
 
     return `
       <section class="boxed-fullwidth">
