@@ -110,6 +110,18 @@ module.exports = {
 
       </div>
 
+      <h2>Council Representative 2024-2026</h2>
+      <div class="officer-container not-prose">
+
+          ${await Officer({
+            name: "Winnie E. Pérez Martínez",
+            imageSrc: "",
+            affiliation: "University of Virginia",
+            email: "wep5cd@virginia.edu",
+          })}
+
+      </div>
+
       <h2>Council Representative 2023-2027</h2>
 
       <div class="officer-container not-prose">
