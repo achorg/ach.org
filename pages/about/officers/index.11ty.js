@@ -228,12 +228,12 @@ module.exports = {
           })}
 
           ${await Officer({
-            name: "Jeri Wieringa",
-            imageSrc: "jeri-wieringa.jpg",
+            name: "Amanda Regan",
+            imageSrc: "amanda-regan.jpg",
             position: "American Historical Association Affiliate",
-            affiliation: "Princeton University",
-            website: "https://jeriwieringa.com/",
-            email: "jewieringa@ua.edu",
+            affiliation: "Clemson University",
+            website: "https://amandaregan.com/",
+            email: "aeregan@clemson.edu",
           })}
 
       </div>   
