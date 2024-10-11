@@ -201,6 +201,13 @@ module.exports = {
       <div class="officer-container not-prose">
 
           ${await Officer({
+            name: "Kathryn Wymer",
+            position: "ACH Affiliates & Liaisons Committee Chair",
+            affiliation: "North Carolina Central University",
+            email: "kwymer6@gmail.com",
+          })}
+
+          ${await Officer({
             name: "Julia Flanders",
             imageSrc: "julia-flanders.jpg",
             position: "Digital Humanities Quarterly Editor",
