@@ -22,5 +22,8 @@
   "dependencies": {
     "@fontsource-variable/libre-franklin": "^5.0.17",
     "sharp": "^0.33.5"
+  },
+  "resolutions": {
+    "sharp": "~0.32.0"
   }
 }
