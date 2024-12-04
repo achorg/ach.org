@@ -226,12 +226,10 @@ module.exports = {
           })}
 
           ${await Officer({
-            name: "Anne Cong-Huyen",
-            imageSrc: "anne-cong-huyen.jpg",
+            name: "Jennifer Ross",
             position: "American Studies Association, DH Caucus Affiliate",
-            affiliation: "University of Michigan",
-            website: "https://anitaconchita.org/",
-            email: "annech@umich.edu",
+            affiliation: "University of Toronto",
+            email: "jennifern.ross@utoronto.ca",
           })}
 
           ${await Officer({
