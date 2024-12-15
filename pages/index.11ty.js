@@ -19,7 +19,7 @@ module.exports = {
       ${Hero({
       title: "Amplifying digital humanities.",
       subtitle:
-        "Our most important activities center on cultivating and strengthening the field of digital humanities, and providing guidance and support to those entering the field.",
+        "The Association for Computers and the Humanities (ACH)'s most important activities center on cultivating and strengthening the field of digital humanities, and providing guidance and support to those entering the field.",
       })}
       </section>
       <section class="boxed-regular">
