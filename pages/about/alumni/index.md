@@ -43,7 +43,7 @@ ACH was fortunate to have Chuck Bush as Treasurer for 21 years. [In Memoriam](/n
 - 2014-2016: Dot Porter
 - 2016-2018: Matthew Gold
 - 2018-2020: Kathleen Fitzpatrick
-- 2020-2022: Roopsika Risam and Quinn Dombrowski (co-Vice Presidents)
+- 2020-2022: Roopika Risam and Quinn Dombrowski (co-Vice Presidents)
 - 2022-2024: Lauren Tilton and Andy Janco (co-Vice Presidents)
 - 2024-2026: Pamella Lach and Elizabeth Grumbach (co-Vice Presidents)
 
