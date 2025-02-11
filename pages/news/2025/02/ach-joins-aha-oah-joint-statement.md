@@ -1,5 +1,5 @@
 ---
-title: 'ACH Signs onto AHA-OAH Statement on the Executive Order "Ending Racial Indoctrination in K-12 Schooling"'
+title: 'ACH Signs onto AHA-OAH Statement on the Executive Order "Ending Radical Indoctrination in K-12 Schooling"'
 date: '2025-02-10'
 author: 'ACH Executive'
 layout: 'templates/news.11ty.js'
