@@ -137,7 +137,6 @@ module.exports = {
       <h2>Council Representative 2023-2027</h2>
 
       <div class="officer-container not-prose">
-          ${await Officer({ name: "Dorothy Berry" })}
 
           ${await Officer({
             name: "Sylvia Fernández Quintanilla",
