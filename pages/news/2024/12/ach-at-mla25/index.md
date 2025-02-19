@@ -75,7 +75,7 @@ Bio: Whitney Trettien is associate professor of English at the University of Pen
 Topic: For this MLA panel, I’ll be discussing recent work on Printing in Prisons, a digital project that investigates the complicated role of printing presses in prisons as a technology of both exploitation and creative expression. This collaborative research project is engaged in **collective pedagogy** through courses, hands-on assignments, and mentorship. We also thoughtfully **curate historical data** on our website. Finally, we **tell the stories** of these individuals through art and archival research that values their complexity, creativity, and humanity. In all our work, we collaborate across our differences to approach history not as a passive archive but as a dynamic and messy process that implicates us all.
 
 **Alex Wingate**
-Alex Wingate posted their talk [here](https://alexandraewingate.com/2025/01/10/book-history-and-digital-humanities-some-thoughts-from-mla-2025/).
+Alex Wingate posted her talk [here](https://alexandraewingate.com/2025/01/10/book-history-and-digital-humanities-some-thoughts-from-mla-2025/).
 
 Bio: Alex Wingate is a PhD candidate in Information Science at Indiana University. Her dissertation titled, "Los libros contenciosos: provision and use of books in Navarre, 1558-1700," examines the practices of circulation and use of books in early modern Navarre, Spain by combining book history, information science, and digital humanities. She is also the bibliography editor for the Chymistry of Isaac Newton project and SHARP News.
 
