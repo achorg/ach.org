@@ -28,7 +28,7 @@ module.exports = async ({ title, body, imageSrc, imageAlt, link }) => {
           ${link}
         </div>
       </div>
-      <div class="call-to-action-image">${await image(imageSrc, imageAlt)}
+     
       </div>
     </div>
   `;

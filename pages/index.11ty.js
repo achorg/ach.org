@@ -20,7 +20,7 @@ module.exports = {
       title: "Amplifying digital humanities.",
       subtitle:
         "The Association for Computers and the Humanities (ACH)'s most important activities center on cultivating and strengthening the field of digital humanities, and providing guidance and support to those entering the field.",
-      })}
+    })}
       </section>
       <section class="boxed-regular">
       <h2 class="section-title">The latest from ACH</h2>
@@ -29,20 +29,20 @@ module.exports = {
       <section class="boxed-fullwidth">
 
       ${await CallToAction({
-      title: "Solidarity with BLM",
-      body: "The Association for Computers and the Humanities stands in solidarity with the Black Lives Matter protest movement. See our statement on Black Lives Matter, Structural Racism, and Our Organization.",
-      imageSrc: "./src/images/black-lives-matter.jpg",
+      title: "Save the NEH",
+      body: "The Association for Computers and the Humanities is committed to supporting and advocating for the National Endowment for the Humanities. See our statement of support for NEH.",
+      imageSrc: "./src/images/graph-paper.svg",
       imageAlt:
-        "Hands holding up various Black Lives Matter protest signs",
+        "neh",
       link: `
         <a
-        href="/news/2020/06/ach-statement-on-black-lives-matter-structural-racism-and-our-organization/"
+        href="/news/2025/02/neh-statement/"
         class="button-pill button-accent"
         >
         Read more
         </a>
       `,
-      })}
+    })}
       </section>    
     `;
   },

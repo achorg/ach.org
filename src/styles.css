@@ -91,7 +91,7 @@ header.page-header {
   .post-metadata {
     @apply dark:text-opacity-80;
 
-    & > span + span {
+    &>span+span {
       @apply before:content-['•'];
       @apply before:mx-3;
       @apply before:opacity-50;
@@ -102,7 +102,7 @@ header.page-header {
 .breadcrumbs {
   @apply mt-1 mb-6;
 
-  & > ol {
+  &>ol {
     @apply flex flex-wrap items-center gap-1.5;
   }
 
@@ -149,16 +149,16 @@ header.page-header {
       @apply invert;
     }
 
-    nav.primary-nav > ul {
+    nav.primary-nav>ul {
       @apply md:text-primary-100 md:text-opacity-80;
     }
 
-    & > .header-inner {
+    &>.header-inner {
       @apply border-b-2 border-primary-100/10;
     }
   }
 
-  & > .header-inner {
+  &>.header-inner {
     @apply flex;
     @apply relative;
     @apply items-center justify-between;
@@ -173,11 +173,11 @@ header.page-header {
 }
 
 main {
-  & > :first-child:not(.boxed-fullwidth) {
+  &> :first-child:not(.boxed-fullwidth) {
     @apply pt-5;
   }
 
-  section + section {
+  section+section {
     @apply mt-12;
   }
 }
@@ -239,13 +239,13 @@ nav.primary-nav {
         @apply opacity-100;
       }
 
-      &.active + .submenu-toggle {
+      &.active+.submenu-toggle {
         @apply opacity-100;
       }
     }
   }
 
-  & > ul {
+  &>ul {
     @apply md:visible;
     @apply absolute md:static;
     @apply top-24 left-4 right-4;
@@ -264,22 +264,22 @@ nav.primary-nav {
       @apply visible;
     }
 
-    & > li {
+    &>li {
       @apply relative m-0;
 
-      & > a:hover + ul,
-      & > a:focus + ul,
-      & > a:hover + button + ul,
-      & > a:focus + button + ul,
-      & > ul:hover,
-      & > ul:focus-within {
+      &>a:hover+ul,
+      &>a:focus+ul,
+      &>a:hover+button+ul,
+      &>a:focus+button+ul,
+      &>ul:hover,
+      &>ul:focus-within {
         @apply md:visible;
         @apply opacity-100;
       }
     }
   }
 
-  & > ul > li > ul {
+  &>ul>li>ul {
     @apply ml-3;
     @apply shadow-none md:shadow-lg;
     @apply h-0 md:h-auto;
@@ -317,6 +317,7 @@ nav.primary-nav {
   }
 
   .recent-posts-item {
+
     h2,
     h3,
     h4,
@@ -356,7 +357,7 @@ nav.primary-nav {
     @apply opacity-90 hover:opacity-100;
     @apply transition-opacity ease-in-out;
 
-    & > a {
+    &>a {
       @apply block;
       @apply h-full;
       @apply py-7 px-6;
@@ -442,7 +443,7 @@ nav.primary-nav {
 
   .call-to-action-overlay {
     @apply relative z-10;
-    @apply bg-zinc-900/50;
+    @apply bg-primary-800 dark:bg-primary-900;
   }
 
   .call-to-action-content {
@@ -465,7 +466,7 @@ nav.primary-nav {
     @apply absolute inset-0;
     @apply flex items-center;
 
-    & > * {
+    &>* {
       @apply h-full;
     }
   }
