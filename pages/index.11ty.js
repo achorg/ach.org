@@ -30,7 +30,7 @@ module.exports = {
 
       ${await CallToAction({
       title: "Save the NEH",
-      body: "The Association for Computers and the Humanities is committed to supporting and advocating for the National Endowment for the Humanities. See our statement of support for NEH.",
+      body: "The Association for Computers and the Humanities is committed to supporting and advocating for the National Endowment for the Humanities. See our statement of support for NEH and view a visualization of the impact of cuts to the NEH at <a href='https://impact.ach.org/'>impact.ach.org.</a>",
       imageSrc: "./src/images/graph-paper.svg",
       imageAlt:
         "neh",
@@ -39,10 +39,10 @@ module.exports = {
         href="/news/2025/02/neh-statement/"
         class="button-pill button-accent"
         >
-        Read more
+        Read ACH's Statement in support of the NEH
         </a>
       `,
-    })}
+        })}
       </section>    
     `;
   },
