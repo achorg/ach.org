@@ -45,8 +45,8 @@ module.exports = {
           link: "/publications/",
         },
         {
-          name: "Working Groups",
-          link: "/activities/working-groups/",
+          name: "Special Interest Groups",
+          link: "/activities/special-interest-groups/",
         }
       ],
     },

@@ -1,9 +1,9 @@
 ---
-title: "special interest groups"
+title: "Special Interest Groups"
 layout: "templates/page.11ty.js"
 ---
 
-ACH is sponsoring special interest groups as a way for members to receive institutionally-legible recognition for work they are doing that aligns with our organization’s goals and values
+ACH is sponsoring Special Interest Groups (formerly Working Groups) as a way for members to receive institutionally-legible recognition for work they are doing that aligns with our organization’s goals and values.
 
 
 ## What is an ACH Special Interest Group?
