@@ -6,8 +6,8 @@ layout: "templates/page.11ty.js"
 As a professional association for the digital humanities, ACH performs an important advocacy role. We develop and share position papers on issues of importance to our members, partner with other organizations to advocate for key positions, and support initiatives that help track and intervene in the central political debates that affect our work.
 
 **Recent Advocacy:**
-* Information Exchange about the NEH Appeal Process (2025)
 * [Database and Visualization highlighting the impact of grant cancellations at the NEH](https://impact.ach.org)
+* Information Exchange about the NEH Appeal Process (2025)
 * Virtual Town Halls to discuss the effect of government actions and policies on the digital humanities (2025)
 * [Statement of Support for NEH](/news/2025/02/neh-statement/) (2025)
 * Signed onto the [AHA-OAH Statement on the Executive Order "Ending Radical Indoctrination in K-12 Schooling"](/news/2025/02/ach-joins-aha-oah-joint-statement/) (2025)
