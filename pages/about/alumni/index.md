@@ -125,3 +125,5 @@ ACH was fortunate to have Chuck Bush as Treasurer for 21 years. [In Memoriam](/n
 - 2022-2024: Elizabeth Grumbach (elected for 2022-2026; transitioned to co-Vice President in 2024)
 - 2022-2024: Pamella Lach (elected for 2022-2025; transitioned to co-Vice President in 2024)
 - 2023-2025: Dorothy Berry
+- 2024-2025: Rebecca Foote
+- 2021–2025: Lorena Gauthereau, Jennifer Isasi
