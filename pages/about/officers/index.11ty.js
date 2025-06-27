@@ -110,18 +110,6 @@ module.exports = {
 
       </div>
 
-      <h2>Council Representative 2024-2025</h2>
-      <div class="officer-container not-prose">
-
-          ${await Officer({
-            name: "Rebecca Foote",
-            imageSrc: "",
-            affiliation: "UCLA",
-            email: "rfoote@english.ucla.edu",
-          })}
-
-      </div>
-
       <h2>Council Representative 2024-2026</h2>
       <div class="officer-container not-prose">
 
@@ -170,30 +158,6 @@ module.exports = {
           })}
 
       </div>
-
-      <h2>Council Representatives 2021–2025</h2>
-
-      <div class="officer-container not-prose">
-          ${await Officer({
-            name: "Lorena Gauthereau",
-            imageSrc: "lorena-gauthereau.png",
-            affiliation:
-              "Digital Programs Manager and Lecturer, University of Houston",
-            website: "https://lorenagauthereau.wordpress.com/",
-            email: "lgauthereau@uh.edu",
-          })}
-
-          ${await Officer({
-            name: "Jennifer Isasi",
-            imageSrc: "jennifer-isasi.jpg",
-            affiliation:
-              "Director of the Digital Liberal Arts Research Initiative, Pennsylvania State University",
-            website: "https://jenniferisasi.github.io",
-            email: "jisasi@psu.edu",
-          })}
-
-      </div>
-
 
       <h2>Affiliates</h2>
 
