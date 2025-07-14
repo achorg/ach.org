@@ -34,7 +34,8 @@ ACH special interest groups will be featured on the ACH website and promoted to 
 To join a special interest group, reach out to the group organizers. 
 * "DH + AI", Quinn Drombrowski (qad@stanford.edu) and Meredith Martin (mm4@princeton.edu), Fall 2023-current, 
 * Humanities Mapping, Sylvia Fernandez (sylvia.fernandez@utsa.edu) and Bryan Winston (bryan.winston@princeton.edu), Fall 2024-current
-* DH in Libraries, Claudia Berger (cberger@sarahlawrence.edu) and Pam Lach (plach@sdsu.edu), Fall 2024-current
+* DH in Libraries, Micah Bateman (micah-bateman@uiowa.edu) and Jessica BrodeFrank (jbrodefr@uic.edu), Summer 2025-current
+    * Previous co-chairs: Claudia Berger and Pam Lach, Fall 2024-Summer 2025
 
 ## Past ACH Special Interest Groups
 * "(Re)connecting DH on Social Media", Fall 2023-Summer 2024
