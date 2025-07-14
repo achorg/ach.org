@@ -166,8 +166,8 @@ module.exports = {
           ${await Officer({
             name: "Kathryn Wymer",
             position: "ACH Affiliates & Liaisons Committee Chair",
-            affiliation: "North Carolina Central University",
-            email: "kwymer6@gmail.com",
+            affiliation: "University of North Carolina at Chapel Hill",
+            email: "wymer@email.unc.edu",
           })}
 
           ${await Officer({
@@ -193,6 +193,12 @@ module.exports = {
             position: "American Studies Association, DH Caucus Affiliate",
             affiliation: "University of Toronto",
             email: "jennifern.ross@utoronto.ca",
+          })}
+
+           ${await Officer({
+            name: "John Knox",
+            affiliation: "University of North Carolina Willimington",
+            email: "knoxj@uncw.edu",
           })}
 
           ${await Officer({
