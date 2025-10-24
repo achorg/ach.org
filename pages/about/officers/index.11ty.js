@@ -51,7 +51,7 @@ module.exports = {
             imageSrc: "amanda-visconti.png",
             position: "Secretary",
             affiliation: "University of Virginia",
-            website: "http://amandavisconti.com",
+            website: "https://amandavisconti.com",
             email: "visconti@virginia.edu",
           })}
           
@@ -62,6 +62,24 @@ module.exports = {
             affiliation: "Sarah Lawrence College & Pratt School of Information",
             website: "claudiaeberger.com",
             email: "cberger@sarahlawrence.edu",
+          })}
+
+            ${await Officer({
+            name: "Jajwalya Karajgikar",
+            imageSrc: "JajwalyaKarajgikar.png",
+            position: "Co-Deputy Secretary",
+            affiliation: "University of Pennsylvania",
+            website: "https://www.library.upenn.edu/author/jajwalya-karajgikar",
+            email: "jajk@upenn.edu",
+          })}
+
+            ${await Officer({
+            name: "Emily McGinn",
+            imageSrc: "EmilyMcGinn.png",
+            position: "Co-Deputy Secretary",
+            affiliation: "Johns Hopkins University",
+            website: "https://emilymcginn.com",
+            email: "emcginn@jhu.edu",
           })}
 
           ${await Officer({
