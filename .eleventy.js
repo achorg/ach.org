@@ -3,6 +3,7 @@ const pluginRss = require("@11ty/eleventy-plugin-rss");
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ "./static/": "/" });
+  eleventyConfig.addPassthroughCopy({ "./src/images/": "/images/" });
   eleventyConfig.addPassthroughCopy({
     "node_modules/@fontsource-variable/libre-franklin/index.css":
       "/fonts/libre-franklin.css",

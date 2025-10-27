@@ -134,6 +134,28 @@ header.page-header {
   @apply prose-blockquote:font-regular prose-blockquote:not-italic;
 }
 
+.prose img.image-thumbnail {
+  width: 250px !important;
+  height: 250px !important;
+  max-width: 250px !important;
+  max-height: 250px !important;
+  object-fit: cover !important;
+  border-radius: 0.375rem !important;
+  box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1) !important;
+  margin-bottom: 1rem !important;
+  display: inline-block !important;
+}
+
+.prose img.image-thumbnail.float-left {
+  float: left !important;
+  margin-right: 1rem !important;
+}
+
+.prose img.image-thumbnail.float-right {
+  float: right !important;
+  margin-left: 1rem !important;
+}
+
 .boxed-regular {
   @apply max-w-3xl;
   @apply mx-auto;
