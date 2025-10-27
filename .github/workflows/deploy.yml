@@ -28,11 +28,12 @@ jobs:
       - name: Setup SSH
         run: |
           mkdir -p ~/.ssh
-          echo "${{ secrets.SSH_PRIVATE_KEY }}" > ~/.ssh/id_rsa
-          chmod 600 ~/.ssh/id_rsa
+          chmod 700 ~/.ssh
+          echo "${{ secrets.SSH_PRIVATE_KEY }}" > ~/.ssh/deploy_key
+          chmod 600 ~/.ssh/deploy_key
           ssh-keyscan -H ach.org >> ~/.ssh/known_hosts
 
       - name: Deploy to Reclaim Hosting
         run: |
-          rsync -avz --delete _site/ achorg@ach.org:/public_html/
+          rsync -avz --delete -e "ssh -i ~/.ssh/deploy_key -o IdentitiesOnly=yes -o StrictHostKeyChecking=no" _site/ achorg@ach.org:/public_html/
 
