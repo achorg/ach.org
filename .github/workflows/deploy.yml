@@ -35,5 +35,5 @@ jobs:
 
       - name: Deploy to Reclaim Hosting
         run: |
-          rsync -avz --delete -e "ssh -i ~/.ssh/deploy_key -o IdentitiesOnly=yes -o StrictHostKeyChecking=no" _site/ achorg@ach.org:/public_html/
+          rsync -avz --delete -e "ssh -i ~/.ssh/deploy_key -o IdentitiesOnly=yes -o StrictHostKeyChecking=no" _site/ achorg@ach.org:~/public_html/
 
