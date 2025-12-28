@@ -35,7 +35,7 @@ Angelina Eimannsberger is a Ph.D. candidate in Comparative Literature and Litera
 
 Laura is an Assistant Professor of English at Temple University and a National Endowment for the Humanities Fellow. Prior to joining the faculty at Temple, she was the Associate Director of the Literary Lab at Stanford University. Her academic writing has been published in *New Literary History*,  *American Literary History*, *Post45*, *CA: The Journal of Cultural Analytics*, and the *Encyclopedia of Contemporary American Fiction, 1980-2020*. She is Special Features editor of *CA: The Journal of Cultural Analytics*, founding co-editor of the *Post45 Data Collective*, and the “Culture Industries” section editor at *Public Books*. A former Kennedy Fellow with the Smithsonian Institute of American History, her work has been supported by the NEH, the Mellon Foundation, ACLS, and the Big Ten.
 
-Currently, Laura is at work on a book called *Middlemen: Literary Agents and the Making of American Literature* (under contract with Princeton University Press).
+Laura’s first book, _Middlemen: Literary Agents and the Making of American Fiction_ will be published by Princeton University Press in April, 2026.
 
 ### Jacinta R. Saffold (Emory U)
 
