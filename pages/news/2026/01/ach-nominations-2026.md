@@ -60,6 +60,6 @@ For questions about nominations please contact ACH Co-Vice President Pam Lach (p
 
 We’ll be holding an informal info session on Friday, January 23 to answer questions about the process from 9am-10am Pacific / 10am-11am Mountain / 11am-12pm Central / 12pm-1pm Eastern. [Register for the Zoom link](https://SDSU.zoom.us/meeting/register/R145bZUtTVaXqZI4zDj__g). If you’re unable to attend this session, email Pam Lach to schedule a conversation.
 
-About ACH
+## About ACH
 ACH is the US-based professional organization for digital humanities. ACH supports and disseminates research and cultivates a vibrant professional community through conferences, publications, and outreach activities. ACH advocates for and supports all of our members in their digital humanities work. Digital humanities is a broad term encompassing a wide range of subject domains, methods, and communities of practice, including (but not limited to) computer-assisted research, pedagogy, and software; resource creation, curation, and engagement; physical computing; the use of digital technologies to write, publish, and review scholarship; and humanistic research into and about digital objects and culture. ACH recognizes that this work is inherently and inextricably sociopolitical, and thus advocates for positive social change through the use of computers and related technologies in the study of humanistic subjects.
 
