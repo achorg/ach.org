@@ -26,7 +26,7 @@ The work of ACH is organized into tasks. These could be as small as “organize 
 ### Who is eligible to be an ACH Executive Council Representative?
 Anyone who is a current ACH member (or who is willing to join ACH if elected) and is willing to perform the work of the organization and advocate for our membership and other digital humanists is eligible.
 
-# About the ACH Presidency
+## About the ACH Presidency
 
 ### What are Co-Vice Presidents/Co-Presidents Elect?
 Our bylaws permit either a single person to serve as Vice President/President Elect, or two people to share the role. 
@@ -44,12 +44,12 @@ In addition to the time requirement of an Executive Council Representative (see 
 ### Who is eligible to be an ACH Co-Vice President/Co-President Elect?
 Anyone who is a current ACH member (or who is willing to join ACH if elected), familiar with ACH's work (such as through presenting or attending at our conference or Exec+ meetings) and supportive of its mission, and is willing to perform the work of the organization and advocate for our membership and other digital humanists is eligible. Prior participation in an ACH leadership role, such as member of the Executive Council, conference committee member, or officer, is highly desirable to be able to hit the ground running.
 
-### Who are we looking for?
+## Who are we looking for?
 We especially hope for a slate of candidates that is diverse as to race, ethnicity, gender, sexuality, class, ability, profession, citizenship, nationality, and other identities and backgrounds.
 
 Demonstrated commitment to digital humanities is more important to our work than professional affiliation, academic/professional status, or job title. We welcome participants from a wide range of communities including universities and colleges, galleries, libraries, museums, community groups, and other organizations engaged with the digital humanities, as well as independent scholars. We seek individuals with and without academic or professional degrees, including current students. 
 
-# How does nomination work? 
+## How does nomination work? 
 You are encouraged to self-nominate, as well as nominate others, using the very brief [nomination form](https://docs.google.com/forms/d/e/1FAIpQLSdtyHPPO_F7EGNViaKF5GxAHMd9YjjriKI7BL1ub3LpqP52bw/viewform?usp=dialog). Nominations are due by February 13, 2026.
 
 The nomination form includes the option to add brief candidate materials—a short bio and candidate statement (no more than 300 words each). The Nominations committee will follow up with nominees who choose not to include these materials when filling out the form. 
