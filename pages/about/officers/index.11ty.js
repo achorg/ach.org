@@ -54,15 +54,6 @@ module.exports = {
             website: "https://amandavisconti.com",
             email: "visconti@virginia.edu",
           })}
-          
-          ${await Officer({
-            name: "Claudia Berger",
-            imageSrc: "claudia-berger.jpg",
-            position: "Deputy Secretary",
-            affiliation: "Sarah Lawrence College & Pratt School of Information",
-            website: "claudiaeberger.com",
-            email: "cberger@sarahlawrence.edu",
-          })}
 
             ${await Officer({
             name: "Jajwalya Karajgikar",
