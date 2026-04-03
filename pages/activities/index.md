@@ -9,6 +9,9 @@ ACH is a community-driven organization, supported by your membership fees. Our m
 
 As a professional association for the digital humanities, ACH performs an important advocacy role. We develop and share position papers on issues of importance to our members, partner with other organizations to advocate for key positions, and support initiatives (such as 4Humanities) that help track and intervene in the central political debates that affect our work. [\[More information\]](/activities/advocacy/)
 
+## Community Listserv 
+The ACH Community Listserv connects digital humanities scholars and practitioners across our network, providing a space to share job opportunities, announcements, calls for participation, and more. [\[More information\]](https://docs.google.com/forms/d/e/1FAIpQLSdW8qBGymk-hkKcU0pONMJ3Oi4y9tJDi7Vxg2rNyGpbi1TwCQ/viewform)
+
 
 ## Jobs and Mentoring
 
