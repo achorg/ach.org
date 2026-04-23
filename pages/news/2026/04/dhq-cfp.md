@@ -34,4 +34,4 @@ DHQ’s core philosophy and values include a commitment to:
 * inclusive, values-driven, and collaborative methods
 * supporting multilingualism 
 
-ACH and DHQ welcome inquiries. Please reach out to Julia Flanders (j.[flanders@northeastern.edu](mailto:flanders@northeastern.edu)), DHQ Editor in Chief, and Eduard Arriaga ([earriaga@clarku.edu](mailto:earriaga@clarku.edu)), ACH and DHQ Liaison. 
+ACH and DHQ welcome inquiries. Please reach out to Julia Flanders ([j.flanders@northeastern.edu](mailto:j.flanders@northeastern.edu)), DHQ Editor in Chief, and Eduard Arriaga ([earriaga@clarku.edu](mailto:earriaga@clarku.edu)), ACH and DHQ Liaison. 
