@@ -36,7 +36,7 @@ To join a special interest group, reach out to the group organizers.
 * Humanities Mapping, Sylvia Fernandez (sylvia.fernandez@utsa.edu) and Bryan Winston (bryan.winston@princeton.edu), Fall 2024-current
 * DH in Libraries, Micah Bateman (micah-bateman@uiowa.edu) and Jessica BrodeFrank (jbrodefr@uic.edu), Summer 2025-current
     * Previous co-chairs: Claudia Berger and Pam Lach, Fall 2024-Summer 2025
-* "AI + Environment," Grant Wythoff (gwythoff@princeton.edu) and Amanda Licastro (alicast1@swathmore.edu)
+* "DH and the Environment," Grant Wythoff (gwythoff@princeton.edu) and Amanda Licastro (alicast1@swathmore.edu)
 * DHMakes, Sara Arribas-Colmenar (sara.arribascolmenar@cnu.edu) and Quinn Daedal (qad@stanford.edu)
 
 ## Past ACH Special Interest Groups
