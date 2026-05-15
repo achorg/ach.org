@@ -1,7 +1,7 @@
 ---
 title: 'Results of the ACH 2026 Elections'
 date: '2026-05-14'
-author: 'ACH Exec'
+author: 'Pam Lach and Liz Grumbach'
 layout: 'templates/news.11ty.js'
 ---
 
