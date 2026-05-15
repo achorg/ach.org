@@ -7,14 +7,14 @@ layout: 'templates/news.11ty.js'
 
 Congratulations to our newly elected officers and council representatives!
 
-**ACH Co-Vice Presidents/Co-Presidents Elect**
+**ACH Co-Vice Presidents/Co-Presidents Elect**<br>
 Mandy Regan and Brandon Walsh (2026-2030)
 
-**ACH Executive Council**
-Hannah Alpert-Abrams (2026-2030)
-Samantha Blickhan (2026-2030)
-Rachel Starry (2026-2030)
-Laura Braunstein (2026-2028)
+**ACH Executive Council**<br>
+Hannah Alpert-Abrams (2026-2030)<br>
+Samantha Blickhan (2026-2030)<br>
+Rachel Starry (2026-2030)<br>
+Laura Braunstein (2026-2028)<br>
 
 We’re grateful to all of our fantastic candidates who were willing to offer their time, labor, and passion to our organization. Our volunteers ensure that ACH remains strong in the coming years. 
 
