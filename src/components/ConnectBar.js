@@ -33,7 +33,7 @@ module.exports = () => {
             <div class="connect-bar-socials">
               <a href="/conferences/" title="Events">${faCalendarDays}</a>
               <a href="https://bsky.app/profile/ach.bsky.social" target="_blank" rel="noreferrer" title="Bluesky">${faBluesky}</a>
-              <a href="https://www.linkedin.com/company/105564958/" target="_blank" rel="noreferrer" title="LinkedIn">${faLinkedin}</a>
+              <a href="https://www.linkedin.com/company/association-for-computing-and-the-humanities/" target="_blank" rel="noreferrer" title="LinkedIn">${faLinkedin}</a>
             </div>
           </div>
         </div>
