@@ -103,7 +103,7 @@ module.exports = {
       <div class="officer-container not-prose">
            ${await Officer({
             name: "Laura Braunstein",
-            imageSrc: "",
+            imageSrc: "laura-braunstein.jpg",
             affiliation: "Dartmouth",
             email: "Laura.R.Braunstein@dartmouth.edu",
           })}
@@ -114,7 +114,7 @@ module.exports = {
         <div class="officer-container not-prose">
             ${await Officer({
             name: "Jing Han",
-            imageSrc: "",
+            imageSrc: "jing-han.jpg",
             affiliation:
               "University of California, Riverside",
             email: "jingh@ucr.edu"
@@ -126,13 +126,6 @@ module.exports = {
       <h2>Council Representative 2024-2028</h2>
 
       <div class="officer-container not-prose">
-
-          ${await Officer({
-            name: "Jajwalya Karajgikar",
-            imageSrc: "",
-            affiliation: "University of Pennsylvania",
-            email: "jajk@upenn.edu",
-          })}
 
           ${await Officer({
             name: "Alex Wermer-Colan",
