@@ -3,6 +3,7 @@ const { description } = require("../src/site-metadata.js");
 const Hero = require("../src/components/Hero.js");
 const CallToAction = require("../src/components/CallToAction.js");
 const NewsItems = require("../src/components/NewsItems.js");
+const ConnectBar = require("../src/components/ConnectBar.js");
 
 module.exports = {
   data: {
@@ -27,6 +28,9 @@ module.exports = {
       ${NewsItems(recentPosts, "h3", "list")}
       </section>
       <section class="boxed-fullwidth">
+      ${ConnectBar()}
+      </section>
+      <section class="boxed-fullwidth !mt-0">
 
       ${await CallToAction({
       title: "Save the NEH",
