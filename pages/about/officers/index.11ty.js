@@ -143,7 +143,7 @@ module.exports = {
 
           ${await Officer({
             name: "Stefano Morello",
-            imageSrc: "",
+            imageSrc: "stefano-morello.jpg",
             affiliation: "",
             email: "veritas44@gmail.com",
           })}
