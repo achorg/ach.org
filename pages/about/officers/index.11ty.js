@@ -15,7 +15,7 @@ module.exports = {
           ${await Officer({
             name: "Pamella Lach",
             imageSrc: "pamella-lach.png",
-            position: "Co-Vice President/co-President Elect",
+            position: "co-President",
             affiliation: "San Diego State University",
             email: "plach@sdsu.edu",
           })}
@@ -23,7 +23,7 @@ module.exports = {
           ${await Officer({
             name: "Liz Grumbach",
             imageSrc: "liz-grumbach.png",
-            position: "Co-Vice President/co-President Elect",
+            position: "Co-President",
             affiliation: "Arizona State University",
             email: "egrumbac@asu.edu",
           })}
@@ -48,7 +48,7 @@ module.exports = {
             ${await Officer({
             name: "Jajwalya Karajgikar",
             imageSrc: "JajwalyaKarajgikar.png",
-            position: "Co-Deputy Secretary",
+            position: "Co-Secretary",
             affiliation: "University of Pennsylvania",
             website: "https://www.library.upenn.edu/author/jajwalya-karajgikar",
             email: "jajk@upenn.edu",
@@ -57,7 +57,7 @@ module.exports = {
             ${await Officer({
             name: "Emily McGinn",
             imageSrc: "EmilyMcGinn.png",
-            position: "Co-Deputy Secretary",
+            position: "Co-Secretary",
             affiliation: "Johns Hopkins University",
             website: "https://emilymcginn.com",
             email: "emcginn@jhu.edu",
@@ -123,6 +123,46 @@ module.exports = {
 
       </div>
 
+      <h2>Council Representatives 2025-2029</h2>
+
+      <div class="officer-container not-prose">
+
+          ${await Officer({
+            name: "Kate Ozment",
+            imageSrc: "",
+            affiliation: "Case Western University",
+            email: "kate.ozment@case.edu",
+          })}
+
+          ${await Officer({
+            name: "Maira Alvarez",
+            imageSrc: "",
+            affiliation: "",
+            email: "alvarezmairae@gmail.com",
+          })}
+
+          ${await Officer({
+            name: "Stefano Morello",
+            imageSrc: "",
+            affiliation: "",
+            email: "veritas44@gmail.com",
+          })}
+
+      </div>
+
+      <h2>Council Representatives 2025-2027</h2>
+
+      <div class="officer-container not-prose">
+
+          ${await Officer({
+            name: "Emily Esten",
+            imageSrc: "",
+            affiliation: "ORCID",
+            email: "estenemily@gmail.com",
+          })}
+
+      </div>
+
       <h2>Council Representative 2024-2028</h2>
 
       <div class="officer-container not-prose">
@@ -151,7 +191,7 @@ module.exports = {
             name: "Sylvia Fernández Quintanilla",
             imageSrc: "sylvia-fernandez-quintanilla.jpg",
             affiliation:
-              "Public and Digital Humanities Assistant Professor, University of Texas at San Antonio",
+              "University of Texas at San Antonio",
             email: "sferna109@gmail.com",
             twitter: "sferna109",
           })}
