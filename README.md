@@ -6,6 +6,7 @@ This is the source code for the ach.org website.  It's developed using very mini
 * Templates are in `.11ty.js` format, in [`src/templates/`](src/templates/)
 * Components are simple javascript functions in [`src/components/`](src/components/)
 * Basic site metadata and the main navigation structure is in [`src/site-metadata.js`](src/site-metadata.js)
+* Colors, typography, and UI patterns are documented in [`STYLEGUIDE.md`](STYLEGUIDE.md)
 
 For a local development server use `npm run start`; to build a production version of the site use `npm run build`.
 

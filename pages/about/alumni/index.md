@@ -28,6 +28,7 @@ ACH was fortunate to have Chuck Bush as Treasurer for 21 years. [In Memoriam](/n
 - 2020-2022: Kathleen Fitzpatrick
 - 2022-2024: Roopika Risam and Quinn Dombrowski (co-Presidents)
 - 2024-2026: Lauren Tilton and Andy Janco (co-Presidents)
+- 2026-2028: Pamella Lach and Elizabeth Grumbach (co-Presidents)
 
 ## Vice President
 
@@ -46,6 +47,7 @@ ACH was fortunate to have Chuck Bush as Treasurer for 21 years. [In Memoriam](/n
 - 2020-2022: Roopika Risam and Quinn Dombrowski (co-Vice Presidents)
 - 2022-2024: Lauren Tilton and Andy Janco (co-Vice Presidents)
 - 2024-2026: Pamella Lach and Elizabeth Grumbach (co-Vice Presidents)
+- 2026-2028: Amanda (Mandy) Regan and Brandon Walsh (co-Vice Presidents)
 
 ## Secretariat
 
@@ -58,7 +60,8 @@ ACH was fortunate to have Chuck Bush as Treasurer for 21 years. [In Memoriam](/n
 - 2004-2007: Stéfan Sinclair
 - 2008-2011: Dot Porter
 - 2011-2022: Vika Zafrin
-- 2022-present: Amanda Visconti
+- 2022-2026: Amanda Visconti
+- 2026-current: Jajwalya Karajgikar and Emily McGinn
 
 ### Deputy Secretary
 - 2024-2026: Claudia Berger
@@ -127,3 +130,6 @@ ACH was fortunate to have Chuck Bush as Treasurer for 21 years. [In Memoriam](/n
 - 2023-2025: Dorothy Berry
 - 2024-2025: Rebecca Foote
 - 2021–2025: Lorena Gauthereau, Jennifer Isasi
+- 2024-2026: Winnie E. Pérez Martínez
+- 2022-2026: Eduard Arriaga and Katina Rogers
+- 2023-2026: Lauren Klein

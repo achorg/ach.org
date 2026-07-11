@@ -494,6 +494,58 @@ nav.primary-nav {
   }
 }
 
+.connect-bar {
+  .connect-bar-overlay {
+    @apply bg-accent-800 dark:bg-accent-900;
+    @apply text-white;
+  }
+
+  .connect-bar-content {
+    @apply text-center;
+    @apply py-14;
+    @apply max-w-xl mx-auto;
+
+    h2 {
+      @apply text-3xl font-bold;
+    }
+
+    p {
+      @apply text-accent-100;
+      @apply opacity-90;
+      @apply py-4;
+
+      a {
+        @apply text-white;
+        @apply font-medium;
+      }
+    }
+  }
+
+  .connect-bar-actions {
+    @apply flex flex-wrap items-center justify-center;
+    @apply gap-x-8 gap-y-5;
+    @apply mt-2;
+
+    .button-pill {
+      @apply bg-white text-accent-800;
+
+      &:hover {
+        @apply bg-accent-100;
+      }
+    }
+  }
+
+  .connect-bar-socials {
+    @apply flex items-center gap-5;
+    @apply text-2xl;
+
+    a {
+      @apply opacity-90 hover:opacity-100;
+      @apply transition-opacity ease-in-out;
+    }
+  }
+}
+
 .officer-container {
   @apply grid;
   @apply grid-cols-1 xs:grid-cols-2 md:grid-cols-3;
