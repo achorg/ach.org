@@ -24,7 +24,7 @@ To apply, please email the following to secretary@ach.org by August 7, 2026:
 1. Your name, email address, and current affiliation and position (if relevant)
 2. A brief statement of interest, including any relevant experience (150 words or less)
  
-We will be considering applications starting August 7 and will be back in touch then regarding your application and to answer any questions you might have. Applications will be accepted on a rolling basis until a good match of candidate and ACH needs is found. Questions can be sent to our our Co-Presidents, Liz Grumbach and Pam Lach (president@ach.org) and our Co-Secretaries, Jajwalya Karajgikar and Emily McGinn (secretary@ach.org).
+We will be considering applications starting August 7 and will be back in touch then regarding your application and to answer any questions you might have. Applications will be accepted on a rolling basis until a good match of candidate and ACH needs is found. Applicatoins, as well as any questions you have, can be sent to our our Co-Presidents, Liz Grumbach and Pam Lach (president@ach.org) and our Co-Secretaries, Jajwalya Karajgikar and Emily McGinn (secretary@ach.org).
 
 ## About our Leadership Positions
 
