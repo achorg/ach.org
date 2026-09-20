@@ -64,6 +64,15 @@ module.exports = {
           })}
 
           ${await Officer({
+            name: "Mary Borgo Ton",
+            imageSrc: "mary-borgo-ton.jpg",
+            position: "Deputy Secretary",
+            affiliation: "Johns Hopkins University",
+            website: "https://emilymcginn.com",
+            email: "emcginn@jhu.edu",
+          })}
+
+          ${await Officer({
             name: "Kathy Torabi",
             imageSrc: "",
             position: "Treasurer",
@@ -71,19 +80,26 @@ module.exports = {
             email: "torabik@tamu.edu",
           })}
 
-          
-
-      </div>
-      
-      <h2>Council Representatives 2026-2030</h2>
-      <div class="officer-container not-prose">
-           ${await Officer({
+          ${await Officer({
             name: "Hannah Alpert-Abrams",
             imageSrc: "hannah-alpert-abrams.jpg",
+            position: "Deputy Treasurer",
             affiliation: "Sidra Collaborative",
             email: "halperta@gmail.com",
           })}
 
+          ${await Officer({
+            name: "Hannah Alpert-Abrams",
+            imageSrc: "winnie-perez-martinez.jpg",
+            position: "Communications Chair",
+            affiliation: "University of Virginia",
+            website: "https://winnieepm.github.io/",
+            email: "winniee.pm@gmail.com",
+          })}
+      </div>
+      
+      <h2>Council Representatives 2026-2030</h2>
+      <div class="officer-container not-prose">
           ${await Officer({
             name: "Samantha Blickhan",
             imageSrc: "samantha-blickhan.jpg",
@@ -110,7 +126,6 @@ module.exports = {
       </div>
 
       <h2>Council Representatives 2026-2027</h2>
-
         <div class="officer-container not-prose">
             ${await Officer({
             name: "Jing Han",
@@ -118,9 +133,15 @@ module.exports = {
             affiliation:
               "University of California, Riverside",
             email: "jingh@ucr.edu"
-          })}
+            })}
 
-
+            ${await Officer({
+            name: "Hillary Havens",
+            imageSrc: "hillary-havens.jpg",
+            affiliation:
+              "University of Tennessee, Knoxville",
+            email: "hhavens1@utk.edu"
+            })}
       </div>
 
       <h2>Council Representatives 2025-2029</h2>
