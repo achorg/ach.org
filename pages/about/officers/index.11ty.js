@@ -89,7 +89,7 @@ module.exports = {
           })}
 
           ${await Officer({
-            name: "Hannah Alpert-Abrams",
+            name: "Winnie E. Pérez Martínez",
             imageSrc: "winnie-perez-martinez.jpg",
             position: "Communications Chair",
             affiliation: "University of Virginia",
