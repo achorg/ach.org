@@ -45,7 +45,7 @@ module.exports = {
             email: "walsh@virginia.edu",
           })}
 
-            ${await Officer({
+          ${await Officer({
             name: "Jajwalya Karajgikar",
             imageSrc: "JajwalyaKarajgikar.png",
             position: "Co-Secretary",
@@ -54,7 +54,7 @@ module.exports = {
             email: "jajk@upenn.edu",
           })}
 
-            ${await Officer({
+          ${await Officer({
             name: "Emily McGinn",
             imageSrc: "EmilyMcGinn.png",
             position: "Co-Secretary",
@@ -67,10 +67,9 @@ module.exports = {
             name: "Mary Borgo Ton",
             imageSrc: "mary-borgo-ton.jpg",
             position: "Deputy Secretary",
-            affiliation: "Johns Hopkins University",
-            website: "https://emilymcginn.com",
-            email: "emcginn@jhu.edu",
-          })}
+            affiliation: "University of Illinois—Urbana Champaign",
+            email: "maryton@illinois.edu",
+          })} 
 
           ${await Officer({
             name: "Kathy Torabi",
@@ -108,6 +107,14 @@ module.exports = {
           })}
 
           ${await Officer({
+            name: "Jing Han",
+            imageSrc: "jing-han.jpg",
+            affiliation:
+              "University of California, Riverside",
+            email: "jingh@ucr.edu"
+            })}
+
+          ${await Officer({
             name: "Rachel Starry",
             imageSrc: "rachel-starry.jpg",
             affiliation: "University of Pittsburgh",
@@ -127,13 +134,7 @@ module.exports = {
 
       <h2>Council Representatives 2026-2027</h2>
         <div class="officer-container not-prose">
-            ${await Officer({
-            name: "Jing Han",
-            imageSrc: "jing-han.jpg",
-            affiliation:
-              "University of California, Riverside",
-            email: "jingh@ucr.edu"
-            })}
+            
 
             ${await Officer({
             name: "Hillary Havens",
