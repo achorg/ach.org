@@ -137,7 +137,7 @@ module.exports = {
             
 
             ${await Officer({
-            name: "Hillary Havens",
+            name: "Hilary Havens",
             imageSrc: "hillary-havens.jpg",
             affiliation:
               "University of Tennessee, Knoxville",
