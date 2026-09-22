@@ -1,6 +1,6 @@
 ---
 title: 'Welcoming Our Newest Officers'
-date: '2026-09-23'
+date: '2026-09-22'
 author: 'ACH Exec'
 layout: 'templates/news.11ty.js'
 ---
