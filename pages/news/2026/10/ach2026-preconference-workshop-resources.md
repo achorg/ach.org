@@ -1,3 +1,10 @@
+---
+title: '#ACH2026 Pre-Conference Workshop Resources'
+date: '2026-10-05'
+author: 'Pam Lach and Brandon Walsh'
+layout: 'templates/news.11ty.js'
+---
+
 We are thrilled to share resources from the #ACH2026 pre-conference workshops. Our instructors developed exciting workshops on a range of topics, and the materials below offer just a taste of what participants learned about pedagogy, preservation, and institutional community-building. Please feel free to share and re-use; they are all released under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license. 
 
 Have an idea for a future workshop? Let us know! 
