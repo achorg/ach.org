@@ -1,7 +1,7 @@
 ---
 title: 'ACH2026 Regional Hubs Report'
 date: '2026-10-12'
-author: 'Jajwalya Karajgikar'
+author: 'Jennifer Ross'
 layout: 'templates/news.11ty.js'
 ---
 
