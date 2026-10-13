@@ -22,6 +22,7 @@ module.exports = {
       subtitle:
         "The Association for Computers and the Humanities (ACH)'s most important activities center on cultivating and strengthening the field of digital humanities, and providing guidance and support to those entering the field.",
     })}
+    
       </section>
       <section class="boxed-regular">
       <h2 class="section-title">The latest from ACH</h2>

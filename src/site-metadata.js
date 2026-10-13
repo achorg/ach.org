@@ -61,7 +61,7 @@ module.exports = {
 
     {
       name: "Join ACH",
-      link: "https://members.ach.org/",
+      link: "/join-us/",
     },
   ],
   siteUrl: `https://ach.org/`,
