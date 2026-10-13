@@ -1,5 +1,5 @@
 ---
-title: "Join Us"
+title: "Join / Renew"
 layout: "templates/page.11ty.js"
 ---
 

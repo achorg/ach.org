@@ -60,8 +60,30 @@ module.exports = {
     },
 
     {
-      name: "Join ACH",
-      link: "/join-us/",
+      name: "Membership",
+      link: "/membership/",
+      subMenu: [
+        {
+          name: "Log in",
+          link: "/membership/log-in/",
+        },
+        {
+          name: "Join/Renew",
+          link: "/membership/join-renew/",
+        },
+        {
+          name: "Membership Benefits",
+          link: "/membership/membership-benefits/",
+        },
+        {
+          name: "About Elections",
+          link: "/join/about-elections/",
+        },
+        {
+          name: "Elections",
+          link: "/membership/elections/",
+        },
+      ],
     },
   ],
   siteUrl: `https://ach.org/`,
