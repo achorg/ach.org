@@ -77,7 +77,7 @@ module.exports = {
         },
         {
           name: "About Elections",
-          link: "/join/about-elections/",
+          link: "/about/elections/",
         },
         {
           name: "Elections",
