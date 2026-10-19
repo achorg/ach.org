@@ -74,6 +74,10 @@ module.exports = {
         {
           name: "Membership Benefits",
           link: "/membership/membership-benefits/",
+        },
+        {
+          name: "Support Us",
+          link: "/membership/support-us/",
         }
       ],
     },
