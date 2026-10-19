@@ -74,15 +74,7 @@ module.exports = {
         {
           name: "Membership Benefits",
           link: "/membership/membership-benefits/",
-        },
-        {
-          name: "About Elections",
-          link: "/about/elections/",
-        },
-        {
-          name: "Elections",
-          link: "/membership/elections/",
-        },
+        }
       ],
     },
   ],
