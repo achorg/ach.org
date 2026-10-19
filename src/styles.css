@@ -612,3 +612,17 @@ nav.primary-nav {
     @apply mt-6;
   }
 }
+
+
+/*===== Wild Apricot Widgets ====*/
+iframe.wa-widget {
+  width: 100%;  
+  max-width: 47rem;
+  height: 30rem;
+  border: 0;
+}
+
+@media (max-width: 768px) {
+  iframe.wa-widget {
+    height: 45rem; 
+}
