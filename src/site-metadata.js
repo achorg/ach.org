@@ -47,6 +47,10 @@ module.exports = {
         {
           name: "Special Interest Groups",
           link: "/activities/special-interest-groups/",
+        },
+        {
+          name: "Events",
+          link: "/activities/events/",
         }
       ],
     },
