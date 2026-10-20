@@ -4,6 +4,7 @@ const Hero = require("../src/components/Hero.js");
 const CallToAction = require("../src/components/CallToAction.js");
 const NewsItems = require("../src/components/NewsItems.js");
 const ConnectBar = require("../src/components/ConnectBar.js");
+const SupportUs = require("../src/components/SupportUs.js");
 
 module.exports = {
   data: {
@@ -49,6 +50,9 @@ module.exports = {
       `,
         })}
       </section>    
+      <section class="boxed-fullwidth !mt-0">
+      ${SupportUs()}
+      </section>
     `;
   },
 };
