@@ -49,10 +49,6 @@ module.exports = {
         </a>
       `,
         })}
-      </section>    
-      <section class="boxed-fullwidth !mt-0">
-      ${SupportUs()}
-      </section>
     `;
   },
 };
