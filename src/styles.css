@@ -440,6 +440,12 @@ nav.primary-nav {
       @apply leading-relaxed;
       @apply text-inherit;
     }
+
+    /* choose one color */
+    .button-pill {
+      /* @apply bg-coral-500 text-white; */
+      @apply bg-primary-400 text-white;
+    }
   }
 
   .hero-body {
