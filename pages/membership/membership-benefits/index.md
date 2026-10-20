@@ -16,4 +16,3 @@ Membership in ACH is open to anyone with an interest in digital humanities. Bene
 * Opportunities to meet and work with a wide range of DH scholars and practitioners in our worldwide community
 * The chance to get involved and make a difference in the research, scholarship, and working lives of digital humanists
 * A vote in who leads and shape the ACH
-
