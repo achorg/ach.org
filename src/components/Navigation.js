@@ -27,7 +27,7 @@ const navigationItem = (link, currentUrl) => {
   return `
     <li>
       <a href=${link.link}
-        ${active ? ' aria-current="page" class="active"' : ""}>${link.name}</a>
+        ${active ? ' aria-current="page" class="active"' : ""} ${link.name === "Log In" ? 'target="_blank" rel="noopener noreferrer"' : ""}>${link.name}</a>
       ${link.subMenu ? navigationLevel(link.subMenu, false) : ""}
     </li>
     `;

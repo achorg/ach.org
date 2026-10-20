@@ -64,26 +64,8 @@ module.exports = {
     },
 
     {
-      name: "Membership",
-      link: "/membership/",
-      subMenu: [
-        {
-          name: "Log in",
-          link: "/membership/log-in/",
-        },
-        {
-          name: "Join/Renew",
-          link: "/membership/join-renew/",
-        },
-        {
-          name: "Membership Benefits",
-          link: "/membership/membership-benefits/",
-        },
-        {
-          name: "Support Us",
-          link: "/membership/support-us/",
-        }
-      ],
+      name: "Log In",
+      link: "https://ach.wildapricot.org/Sys/Login",
     },
   ],
   siteUrl: `https://ach.org/`,
