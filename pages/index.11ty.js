@@ -33,7 +33,6 @@ module.exports = {
       ${ConnectBar()}
       </section>
       <section class="boxed-fullwidth !mt-0">
-
       ${await CallToAction({
       title: "Save the NEH",
       body: "The Association for Computers and the Humanities is committed to supporting and advocating for the National Endowment for the Humanities. See our statement of support for NEH and view a visualization of the impact of cuts to the NEH at <a href='https://impact.ach.org/'>impact.ach.org.</a>",
@@ -47,6 +46,7 @@ module.exports = {
         >
         Read ACH's Statement in support of the NEH
         </a>
+      </section>  
       `,
         })}
     `;
