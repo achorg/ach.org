@@ -441,10 +441,8 @@ nav.primary-nav {
       @apply text-inherit;
     }
 
-    /* choose one color */
     .button-pill {
-      /* @apply bg-coral-500 text-white; */
-      @apply bg-primary-400 text-white;
+      @apply bg-coral-500 text-white;
     }
   }
 
