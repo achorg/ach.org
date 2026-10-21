@@ -628,6 +628,6 @@ iframe.wa-widget {
 
 @media (max-width: 768px) {
   iframe.wa-widget {
-   height: 45rem; 
+   height: 25rem; 
 }
 }
