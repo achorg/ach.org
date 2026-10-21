@@ -440,6 +440,10 @@ nav.primary-nav {
       @apply leading-relaxed;
       @apply text-inherit;
     }
+
+    .button-pill {
+      @apply bg-coral-500 text-white;
+    }
   }
 
   .hero-body {

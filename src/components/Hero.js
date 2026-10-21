@@ -17,6 +17,8 @@ module.exports = ({ title, subtitle }) => {
         <div class="hero-body">
           <h1>${title}</h1>
           <p>${subtitle}</p>
+          <a href="/membership/join-renew/" class="button-pill mt-10">Join/Renew</a>
+          <a href="https://ach.wildapricot.org/support-us" class="button-pill ml-5">Support Us</a>
         </div>
       </div>
     </div>
