@@ -11,8 +11,10 @@ Prior to the revelations of [Edward Snowden](https://en.wikipedia.org/wiki/Edwar
 But metadata is everywhere. In the old [index files](https://commons.wikimedia.org/wiki/File:Archiv.jpg) of libraries, the under-appreciated and oft-neglected front matter in published books, the “Product Details” section of an Amazon.com item, and even in the images we take using our digital cameras. Most of us are familiar with the metadata stored in index files of libraries, but a majority of people would be surprised at the wealth of information digital images contain, too. Information from the type of camera used to snap the photo to geolocation information pinpointing where the image was created might well be embedded in the images we share online every day.
 
 <figure>
-    ![The moon in its third-quarter phase](https://upload.wikimedia.org/wikipedia/commons/9/99/The_phase_of_Moon.jpg)
-    <figcaption>"[The Phase of Moon](https://commons.wikimedia.org/wiki/File:The_phase_of_Moon.jpg)", photo by [<span lang="zh">阿爾特斯</span>](https://zh.wikipedia.org/wiki/User:%E9%98%BF%E7%88%BE%E7%89%B9%E6%96%AF). Hosted by Wikimedia Commons.</figcaption>
+    <img alt="The moon in its third-quarter phase" src="https://upload.wikimedia.org/wikipedia/commons/9/99/The_phase_of_Moon.jpg">
+
+    <figcaption>
+    <a href="https://commons.wikimedia.org/wiki/File:The_phase_of_Moon.jpg">The Phase of Moon</a>, photo by <span lang="zh"><a href="https://zh.wikipedia.org/wiki/User:%E9%98%BF%E7%88%BE%E7%89%B9%E6%96%AF">阿爾特斯</a></span>. Hosted by Wikimedia Commons.</figcaption>
 </figure>
 
 By using an online metadata extractor, you can see [the metadata embedded in this photo](http://regex.info/exif.cgi?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F9%2F99%2FThe_phase_of_Moon.jpg) and any other photo taken with a modern digital camera. For instance, this image hosted on the Wikimedia website contains a wealth of information that you cannot see until the image is processed through a metadata extractor of some type.
@@ -63,7 +65,7 @@ In other words, not only have the results of this project to digitize Jupiter Ha
 
 The TEI encoding of metadata in the Jupiter Hammon project will not be of the sort hidden within digital images and NSA files. Rather, it will be the open and openly shared data that will hopefully contribute to further enriching what we know about this important author and the world in which he lived. Perhaps the data we already have, or even the lapses within it, will point researchers toward the other lost writings that are known to have been written during Jupiter Hammon’s lifetime.
 
----
+***
 
 ## Footnotes
 
