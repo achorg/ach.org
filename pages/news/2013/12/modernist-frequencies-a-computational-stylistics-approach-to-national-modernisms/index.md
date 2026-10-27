@@ -105,21 +105,35 @@ Woolf, Virginia
 
 The dataset is intended to be a selection of authors, from the relevant canons, heavily associated with literary modernism throughout its “height”, and thereafter. For the purposes of this analysis, authors are classified as being either “American”, “British”, “Irish” or “European”, but these assignments are merely a reflection of the nationality with which they are typically aligned. Authorial signatures are formed based on the 100 most frequent words in each text. Initial insights are provided through a cluster analysis (see Fig. 1), before a more robust representation of similarities across stylistic fingerprints is presented using a bootstrap consensus tree (see Fig. 2). Clustering via the consensus tree is conducted using Burrows’ Delta (Burrows), over maximum frequency words ranging from 100 to 1000, in intervals of 100. Proximity is presented using a consensus strength of 0.5. Using most frequent words as determinants of style, as well as the suitability of Burrows’ Delta to English-language literary macroanalysis, is an established and validated approach to literary criticism (Hoover; Burrows; Rybicki and Eder).
 
-![Tree diagram with four main groups: O'Brien, Conrad, Fitzgerald, Huxley, Wells, Nabokov, and Joyce; Wharton, Woolf, Compton, Bennett, Ford, Forster, Faulkner, and Bowen; Hemingway, Lawrence, and Richardson; Beckett, and Compton](figure-1.png "Fig. 1")
-
-![Circular tree diagram linking Hemingway and Faulkner, Richardson and Forster; and various other authors amongst their own work](figure-2.png "Fig. 2")
+<figure>
+   <img src="/images/ach-wp-images/2013/12/modernist-frequencies/figure-1.png" alt="Tree diagram with four main groups: O'Brien, Conrad, Fitzgerald, Huxley, Wells, Nabokov, and Joyce; Wharton, Woolf, Compton, Bennett, Ford, Forster, Faulkner, and Bowen; Hemingway, Lawrence, and Richardson; Beckett, and Compton."/>
+   <figcaption>Fig. 1</figcaption>
+</figure>
+<br>
+<figure>
+   <img src="/images/ach-wp-images/2013/12/modernist-frequencies/figure-2.png" alt="Circular tree diagram linking Hemingway and Faulkner, Richardson and Forster; and various other authors amongst their own work."/>
+   <figcaption>Fig. 2</figcaption>
+</figure>
 
 The results of both analyses indicate that no overarching similarities exist between modernist styles when classified by region. However, as will be discussed at the MLA conference, there are particular instances within these results where clusterings warrant further appreciation. This is particularly the case with Irish modernists, which are further examined in isolation, using Gephi to assist in the visualisation of consensus tree results (see Fig. 3).
 
-![Diagram showing highest links between four groups: Joyce and O'Brien, Stevens, Beckett, and Bowen. There are interconnected links between each of the groups of roughly the same size.](figure-3.png "Fig. 3")
+<figure>
+   <img src="/images/ach-wp-images/2013/12/modernist-frequencies/figure-3.png" alt="Diagram showing highest links between four groups: Joyce and O'Brien, Stevens, Beckett, and Bowen. There are interconnected links between each of the groups of roughly the same size."/>
+   <figcaption>Fig. 3</figcaption>
+</figure>
 
 Using Zeta, which counts how many words from each segment in one corpus do not appear in a corresponding dataset (Craig and Kinney), I identify those words typical of the style of each author. These words are then factored into a further cluster analysis, once more using Delta as the measure of distance, giving more robust results (see Fig. 4). There is a distinct correlation between the style adopted by Flann O’Brien and his countryman, James Joyce, in particular texts. Of course, O’Brien is considered foremost among the Joycean disciples. Theses findings demonstrate that this approach has much to contribute to this topic, and so further analyses have been conducted in collaboration with Jan Rybicki and Katarzyna Bazarnik, Jagiellonian University, Krakow, and Maciej Eder, Pedagogical University of Krakow.
 
-![Tree diagram with two major branches: Stevens, O'Brien, and Joyce; and Bowen and Beckett](figure-4.png "Fig. 4")
+Diagram showing highest links between four groups: Joyce and O'Brien, Stevens, Beckett, and Bowen. There are interconnected links between each of the groups of roughly the same size.
+
+<figure>
+   <img src="/images/ach-wp-images/2013/12/modernist-frequencies/figure-4.png" alt="Tree diagram with two major branches: Stevens, O'Brien, and Joyce; and Bowen and Beckett."/>
+   <figcaption>Fig. 4</figcaption>
+</figure>
 
 Remaining with the primary results (see Fig. 1; Fig. 2), interpretations to be offered and discussed in Chicago will focus on the notion of style across national modernisms. It would appear that, stylistically at least, a transnational discourse is applicable to this literary movement, though some exceptions do exist. In particular, I will argue that, in relation to style, we can now conclude that we do not read Beckett, but rather, read *Becketts*, and that Joyce is very much an Irish writer, who may see himself as “part of a European modernist literature” (Lernout 106), but writes in a style in-keeping with that of his compatriots. The national centrality of modernist icons like Joyce and Faulkner does not typically extend to stylistic influence, but there are exceptions of geographical note. Generally, however, my findings support the consensus argument that modernism’s pre-occupation with place transcends style – modernist authors use their literature to treat places, but not necessarily in a style that is determined by such spaces.
 
----
+***
 
 ## Works Cited
 
