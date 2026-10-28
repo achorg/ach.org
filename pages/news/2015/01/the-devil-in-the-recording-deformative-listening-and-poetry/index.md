@@ -12,24 +12,24 @@ Professional-grade sound-editing software like [Pro Tools](http://www.avid.com/u
 
 To reverse an audio file, begin by opening that clip in Audacity in the same way that you would open a file in any other piece of software. You will get something that looks like this:
 
-![Screenshot of Audacity's main screen with a single track of audio added](figure-1.jpg)
+![Screenshot of Audacity's main screen with a single track of audio added](/images/ach-wp-images/2015/01/brandon1.jpg)
 
 What you see here is a [waveform](http://manual.audacityteam.org/o/man/audacity_waveform.html), a way of graphically representing the audio file in way that allows you to manipulate it. The y-axis of the waveform corresponds to volume – the taller the waveform, the louder the sound file’s contents are at that particular moment in time. This can be a quick and easy way to identify chunks of activity by looking for spikes in the volume.
 
-![Close-up screenshot of an audio waveform in Audacity](figure-2.jpg)
+![Close-up screenshot of an audio waveform in Audacity](/images/ach-wp-images/2015/01/brandon2.jpg)
 
 The x-axis represents time – the Hughes file I have sliced out is 46” long, and the program gives you a timeline along the top of the segment to situate you in the file. Clicking anywhere on the waveform will set the file playback to begin at that point, and you can click and drag to highlight a selection of the clip for processing.
 
-![Screenshot of an Audacity audio track with a time selection highlighted](figure-3.jpg)
+![Screenshot of an Audacity audio track with a time selection highlighted](/images/ach-wp-images/2015/01/brandon3.jpg)
 
 To process the file, highlight the section that you want reversed. In this case, since we are working with the entire file, we will just select everything. Under the “effect” menu, Audacity gives you a range of options for remixing your sound data, but we want the “reverse” function.
 
-![Screenshot highlighting the Effect > Reverse menu option in Audacity](figure-4.jpg)
+![Screenshot highlighting the Effect > Reverse menu option in Audacity](/images/ach-wp-images/2015/01/brandon4.jpg)
 
 Now you have a reversed file at your disposal. Sound tends to work in attack and decay, and much of the strangeness of a reversed recording comes from sounds increasing rather than fading in intensity over time. And, as I will discuss in my talk, the process throws into sharp relief the distinct character of recorded linguistic content.
 
 Audacity saves files in Audacity project formats by default, so you will need to export your file to a different file format if you want to play it in a media player. I tend to use both .ogg and .mp3 files for browser compatibility. Audacity will also give you the opportunity to input light metadata for your file before it exports in case you want to curate your file for inclusion in an archive or home-library.
 
-![Screenshot highlighting the File > Export menu option in Audacity](figure-5.png)
+![Screenshot highlighting the File > Export menu option in Audacity](/images/ach-wp-images/2015/01/brandon5.png)
 
 Audacity gives many other options for experimenting with sound remixing, distortion, and deformance that I would encourage you to explore. The software also gives you many options for working with sound files more generally. I have written [elsewhere](http://bmw9t.github.io/blog/2013/11/13/audio-at-thatcampva/) about using Audacity to prepare sound files for research and presentation. Check out my other post if you want to learn more about how to slice out clips, mix together two sound files, or process DRM files.
