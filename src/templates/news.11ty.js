@@ -34,7 +34,7 @@ class NewsLayout {
       <section class="boxed-regular">
         ${Breadcrumbs([
           { title: "News", url: "/news/" },
-          { title: data.title, url: data.url },
+          { title: data.title, url: data.page.url },
         ])}
       </section>
       <article

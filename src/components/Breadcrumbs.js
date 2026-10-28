@@ -9,7 +9,7 @@ module.exports = (breadcrumbs) => {
   <nav class="breadcrumbs" aria-label="breadcrumbs">
     <ol>
       ${breadcrumbs
-        .map((page) => `<li><a href=${page.url}>${page.title}</a></li>`)
+        .map((page) => `<li><a href="${page.url}">${page.title}</a></li>`)
         .join(`<li role="presentation">${faArrowRight}</li>`)}
     </ol>
   </nav>`;

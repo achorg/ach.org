@@ -8,7 +8,7 @@ const getBreadcrumbs = (pageData) => {
     .find((link) =>
       link.subMenu.find((subLink) => subLink.link === pageData.page.url),
     );
-  if (parent) return [{ title: parent.name, url: parent.link }, pageData];
+  if (parent) return [{ title: parent.name, url: parent.link }, { title: pageData.title, url: pageData.page.url }];
   return false;
 };
 
