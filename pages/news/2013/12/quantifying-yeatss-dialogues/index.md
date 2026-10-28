@@ -139,13 +139,27 @@ Again to the infinite amusement of my co-seminarians, I showed up at the due dat
     <figcaption>Figure 1: Frequency of each major dialogue category</figcaption>
 </figure>
 
-![Pie chart with "choral" being the largest slice at about one-third, "3rd person narrated", "1st person narrated", and "dramatic" being medium-sized, and the remaining are just slivers](figure-2.png "Figure 2: Relative proportions among dialogue types")
-
-![Pie chart with "simple" being the largest slice at about two-thirds, and the remaining ones being equal](figure-3.png "Figure 3: Frequency of choral dialogue types")
-
-![Line chart with frequent undulations between about 10% and 50%](figure-4a.png "Figure 4a: Frequency of Dialogue Poems among All Poems (As Percentage)")
-
-![Line chart which remains steady until collection 10 where there is a maxima of 22 poems and continues fluctuating after](figure-4b.png "Figure 4b: Frequency of Dialogue Poems among All Poems (As Total)")
+<br>
+<figure>
+   <img src="/images/ach-wp-images/2013/12/figure-2.png" alt="Pie chart with 'choral' being the largest slice at about one-third, '3rd person narrated', '1st person narrated', and 'dramatic' being medium-sized, and the remaining are just slivers."/>
+   <figcaption>Figure 2: Relative proportions among dialogue types.</figcaption>
+</figure>
+<br>
+<figure>
+   <img src="/images/ach-wp-images/2013/12/figure-3.png" alt="Pie chart with 'simple' being the largest slice at about two-thirds, and the remaining ones being equal."/>
+   <figcaption>Figure 3: Frequency of choral dialogue types.</figcaption>
+</figure>
+<br>
+<figure>
+   <img src="/images/ach-wp-images/2013/12/figure-4a.png" alt="Line chart with frequent undulations between about 10% and 50%."/>
+   <figcaption>Figure 4a: Frequency of Dialogue Poems among All Poems (As Percentage)</figcaption>
+</figure>
+<br>
+<figure>
+   <img src="/images/ach-wp-images/2013/12/figure-4b.png" alt="Line chart which remains steady until collection 10 where there is a maxima of 22 poems and continues fluctuating after."/>
+   <figcaption>Figure 4b: Frequency of Dialogue Poems among All Poems (As Total)</figcaption>
+</figure>
+<br>
 
 <figure>
     <table>
@@ -409,9 +423,17 @@ Again to the infinite amusement of my co-seminarians, I showed up at the due dat
     <figcaption>Figure 5: Variety of Dialogue Types by Collection</figcaption>
 </figure>
 
-![Line chart where frequency remains between 0 to 3 until collection 10 which increases it dramatically](figure-6a.png "Figure 6a: Choral poems over time")
-
-![Line chart from figure 6a but with another line added which has a very similar pattern to before](figure-6b.png "Figure 6b: Choral poems over time, total numbers compared with simple")
+<br>
+<figure>
+   <img src="/images/ach-wp-images/2013/12/figure-6a.png" alt="Line chart where frequency remains between 0 to 3 until collection 10 which increases it dramatically."/>
+   <figcaption>Figure 6a: Choral poems over time.</figcaption>
+</figure>
+<br>
+<figure>
+   <img src="/images/ach-wp-images/2013/12/figure-6b.png" alt="Line chart from figure 6a but with another line added which has a very similar pattern to before."/>
+   <figcaption>Figure 6b: Choral poems over time, total numbers compared with simple.</figcaption>
+</figure>
+<br>
 
 What did these numbers and visuals do for my understanding of Yeats? I want to save these results—what I know about Yeats now (the Results section)—for the MLA conference. Besides, I am still experimenting with other tools and do not precisely know where this will take me.
 

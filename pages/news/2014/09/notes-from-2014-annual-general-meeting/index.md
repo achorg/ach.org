@@ -24,7 +24,7 @@ We are pleased to post notes from the 2014 AGM, which took place at the [Digital
   - On an informal note, if you’re free Thursday evening of the conference, we’re again running a newcomers’ dinner. Small groups go out to dinner, consisting of a mix of DH conference veterans with people who are at their first or second conference. This is a way to meet people, start networking. There’s an open Google Doc for signups.
 - Microgrants (Susan Brown updates):
   - This is the third year we’ve run the program, rewarding young scholars and students for their contributions.
-  - This year, [four projects were awarded microgrants](/news/2014/07/ach_microgrants_winners_2014/)
+  - This year, four projects were awarded microgrants.
 - Affiliations (Jen Guiliano updates)
   - For the first time, ACH is announcing an affiliations committee whose aim is to broaden our relationships with other professional societies, organizations, and initiatives.
   - MLA is a long-standing partner at whose conference we offer sessions and other events

@@ -14,7 +14,7 @@ The ACH Executive Council has invested considerable energy this fall in strategi
 
 The ACH Executive strongly believes that diversity makes us stronger as a community and we’d invite all members to be mindful of this in our own scholarship and in the assessment of the scholarship of others.
 
-In that context, we would enthusiastically receive any [requests for occasional funding or sponsorship](/activities/grants-and-awards/occasional-funding-sponsorship/), especially ones that promote diversity. Our funds our limited, but but we’ll try to support what we can!
+In that context, we would enthusiastically receive any requests for occasional funding or sponsorship, especially ones that promote diversity. Our funds our limited, but but we’ll try to support what we can!
 
 Finally, [as you may be aware](http://adho.org/announcements/2015/adho-announces-new-steering-committee-chair), John Nerbonne resigned this fall as Chair of the ADHO Steering Committee. John worked tirelessly on behalf of ADHO and its constituent organizations (including ACH), and I am deeply grateful for his efforts. Karina van Dalen-Oskam has been elected as the new Chair and the ACH Executive would like to warmly congratulate her and we look forward to her leadership in pursuing our common objectives.
 
