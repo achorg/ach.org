@@ -9,9 +9,7 @@ ACH is still looking for volunteers who have the capacity to share their knowled
 
 We’re in need of ACH members for the following opportunities:
 
-- **ACH annual conference planning committee**: plans our annual virtual conference (to be held June 2027). A variety of roles are available, including Program Committee Chair and Technical Chair. We are in the early stages of planning the conference, and efforts will continue through the summer.
-
-    Planning committee volunteers are encouraged but not required to be active ACH members to fulfill these roles. 
+- **ACH annual conference planning committee**: plans our annual virtual conference (to be held June 2027). We’re looking for a Technical chair, and folks to serve as members of the program committee. Interested folks should be available to support our work starting in December and running through June. Please email [president@ach.org](mailto:president@ach.org) to learn more.
 
 - **ACH Nominating Committee**: oversees the nomination process for our Spring Executive Council election. This is a short-term committee whose work will begin in late 2026/early 2027 and conclude by March or April. We’re in need of 3–4 current ACH members for this committee.
 
