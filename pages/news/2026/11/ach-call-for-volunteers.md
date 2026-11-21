@@ -1,6 +1,6 @@
 ---
 title: 'ACH Call for Volunteers'
-date: '2026-11-18'
+date: '2026-11-23'
 author: 'Winnie E. Pérez Martínez'
 layout: 'templates/news.11ty.js'
 ---
@@ -16,6 +16,8 @@ We’re in need of ACH members for the following opportunities:
 - **Deputy Communications Officer**: supports our Communications Officer by maintaining our website, developing quarterly member newsletters, managing our social media accounts, and helping promote major events. The term for the Deputy Communications Officer will be 2026–2030.
 
     Anyone interested is welcome to reach out, although the appointed officer must become an active ACH member at the time of appointment.
+
+    See application instructions [in this post](/news/2026/11/ach-call-deputy-comms-officer/).
 
 <br>
 
